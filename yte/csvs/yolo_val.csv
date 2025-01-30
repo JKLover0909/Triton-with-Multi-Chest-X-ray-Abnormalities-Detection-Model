@@ -1,0 +1,426 @@
+image_id,class_name,class_id,rad_id,x_min,y_min,x_max,y_max,label,path
+71dadd60877ab8a22b3d5075c40415c0,Lung Opacity,7,R10,430.0,1080.0,1206.0,1818.0,1,/home/ubuntu/ductq/data/71dadd60877ab8a22b3d5075c40415c0.jpg
+e6e11fcf16e269d36b9496612d7ca537,Cardiomegaly,3,R8,973.0,1506.0,1861.0,1865.0,1,/home/ubuntu/ductq/data/e6e11fcf16e269d36b9496612d7ca537.jpg
+649ec80ede7722141ecea3c810107176,Aortic enlargement,0,R9,1206.0,622.0,1451.0,951.0,1,/home/ubuntu/ductq/data/649ec80ede7722141ecea3c810107176.jpg
+c1c9528727dd016bad131ff8c3863774,Aortic enlargement,0,R14,1211.0,686.0,1612.0,1099.0,1,/home/ubuntu/ductq/data/c1c9528727dd016bad131ff8c3863774.jpg
+6ab95c0f04cb1c61e635ba82b76df6b9,Lung Opacity,7,R9,1701.0,1638.0,1866.0,1849.0,1,/home/ubuntu/ductq/data/6ab95c0f04cb1c61e635ba82b76df6b9.jpg
+dc249d912181102a5875015b61b92d70,Cardiomegaly,3,R10,707.0,1004.0,1741.0,1560.0,1,/home/ubuntu/ductq/data/dc249d912181102a5875015b61b92d70.jpg
+65591c33ed8729b0ed1eebf4f59e418b,ILD,5,R8,506.0,969.0,845.0,1219.0,1,/home/ubuntu/ductq/data/65591c33ed8729b0ed1eebf4f59e418b.jpg
+705ac59fb56577d3db10d09dc5b3f3b3,Aortic enlargement,0,R8,1369.0,494.0,1640.0,848.0,1,/home/ubuntu/ductq/data/705ac59fb56577d3db10d09dc5b3f3b3.jpg
+9174dcffa34a6ea52cff8a626864de26,Pulmonary fibrosis,13,R10,462.0,790.0,900.0,1224.0,1,/home/ubuntu/ductq/data/9174dcffa34a6ea52cff8a626864de26.jpg
+427db646765e399ae43ccd98c50effdc,Pleural thickening,11,R9,1916.0,2060.0,2071.0,2252.0,1,/home/ubuntu/ductq/data/427db646765e399ae43ccd98c50effdc.jpg
+74335ad1e0f78abc3b8d9c4d3380b5be,Cardiomegaly,3,R8,885.0,1551.0,2028.0,1927.0,1,/home/ubuntu/ductq/data/74335ad1e0f78abc3b8d9c4d3380b5be.jpg
+0c25b330d5b20498108b343c644f2a1c,Aortic enlargement,0,R8,1140.0,743.0,1381.0,1009.0,1,/home/ubuntu/ductq/data/0c25b330d5b20498108b343c644f2a1c.jpg
+b8df1b270c5447fdac022ab51540f949,Cardiomegaly,3,R8,920.0,1775.0,2034.0,2231.0,1,/home/ubuntu/ductq/data/b8df1b270c5447fdac022ab51540f949.jpg
+a1720873fde30e8b3dab6b5157e58e70,Aortic enlargement,0,R10,1155.0,722.0,1384.0,948.0,1,/home/ubuntu/ductq/data/a1720873fde30e8b3dab6b5157e58e70.jpg
+57b939b0fd7d156a6113a48caad65f0d,Aortic enlargement,0,R8,1687.0,651.0,1965.0,1002.0,1,/home/ubuntu/ductq/data/57b939b0fd7d156a6113a48caad65f0d.jpg
+7aeae4110d509875a693b23aa17bd9ac,Pleural thickening,11,R8,1198.0,271.0,1530.0,410.0,1,/home/ubuntu/ductq/data/7aeae4110d509875a693b23aa17bd9ac.jpg
+551456e08a1327bdba41297c8ebb8c6f,Aortic enlargement,0,R9,1377.0,869.0,1784.0,1347.0,1,/home/ubuntu/ductq/data/551456e08a1327bdba41297c8ebb8c6f.jpg
+083a89dfc9a74a3f809035f886634ee2,Aortic enlargement,0,R8,1666.0,763.0,1959.0,1137.0,1,/home/ubuntu/ductq/data/083a89dfc9a74a3f809035f886634ee2.jpg
+6a226af290752e9d60405e5a5a18e90f,Aortic enlargement,0,R9,1072.0,778.0,1358.0,1067.0,1,/home/ubuntu/ductq/data/6a226af290752e9d60405e5a5a18e90f.jpg
+5ca166e3c183eed19a435a0db42d9939,Pulmonary fibrosis,13,R10,400.0,686.0,451.0,838.0,1,/home/ubuntu/ductq/data/5ca166e3c183eed19a435a0db42d9939.jpg
+e2cdf4955f581cb30a0e92f006125307,Cardiomegaly,3,R9,775.0,1528.0,1670.0,1865.0,1,/home/ubuntu/ductq/data/e2cdf4955f581cb30a0e92f006125307.jpg
+4e05e0eb20d51d18764289ce2c240942,Aortic enlargement,0,R11,1346.0,698.0,2060.0,1190.0,1,/home/ubuntu/ductq/data/4e05e0eb20d51d18764289ce2c240942.jpg
+afb8a317a1c70191a4169cf5dd4e1da6,ILD,5,R9,1766.0,913.0,2209.0,1920.0,1,/home/ubuntu/ductq/data/afb8a317a1c70191a4169cf5dd4e1da6.jpg
+5f565b018973e7c70aad47a92a5c14ea,Pulmonary fibrosis,13,R8,468.0,660.0,634.0,800.0,1,/home/ubuntu/ductq/data/5f565b018973e7c70aad47a92a5c14ea.jpg
+6e2c5ac0b017ee374840d5ad3aba3629,Pulmonary fibrosis,13,R8,213.0,1217.0,489.0,1487.0,1,/home/ubuntu/ductq/data/6e2c5ac0b017ee374840d5ad3aba3629.jpg
+dc0fcb0e8d98ec8065bee19fb06670df,Calcification,2,R13,1209.0,559.0,1439.0,828.0,1,/home/ubuntu/ductq/data/dc0fcb0e8d98ec8065bee19fb06670df.jpg
+5938d1edca572c6168c83190a35b4504,Consolidation,4,R8,439.0,521.0,973.0,1243.0,1,/home/ubuntu/ductq/data/5938d1edca572c6168c83190a35b4504.jpg
+0a50d4ee79163edbf6f2d5c3082c2f51,Cardiomegaly,3,R9,941.0,1391.0,1972.0,1765.0,1,/home/ubuntu/ductq/data/0a50d4ee79163edbf6f2d5c3082c2f51.jpg
+2e62a91d3bdb8e212af2518125eb9dbc,Aortic enlargement,0,R10,1371.0,876.0,1760.0,1304.0,1,/home/ubuntu/ductq/data/2e62a91d3bdb8e212af2518125eb9dbc.jpg
+3e6dc1696e378ed55ea60091c620af4d,Aortic enlargement,0,R10,1396.0,413.0,1682.0,689.0,1,/home/ubuntu/ductq/data/3e6dc1696e378ed55ea60091c620af4d.jpg
+3dead8495b3fdcdde5912953e520b303,Pleural thickening,11,R9,1865.0,420.0,2009.0,576.0,1,/home/ubuntu/ductq/data/3dead8495b3fdcdde5912953e520b303.jpg
+71cfb66b2166800fae0283d2f28b0902,Pleural thickening,11,R9,159.0,2036.0,268.0,2155.0,1,/home/ubuntu/ductq/data/71cfb66b2166800fae0283d2f28b0902.jpg
+65c9045820f5c8bb44b60cbbf5402d29,Cardiomegaly,3,R9,1010.0,1305.0,1968.0,1669.0,1,/home/ubuntu/ductq/data/65c9045820f5c8bb44b60cbbf5402d29.jpg
+1296335140a042ff0270825cdae2fa09,Calcification,2,R9,584.0,815.0,678.0,906.0,1,/home/ubuntu/ductq/data/1296335140a042ff0270825cdae2fa09.jpg
+27ea40d58f6894394fc2990d739a8c0e,Pleural effusion,10,R9,296.0,1931.0,355.0,2036.0,1,/home/ubuntu/ductq/data/27ea40d58f6894394fc2990d739a8c0e.jpg
+a3411581087b63a70a2bdba24e55ff4e,Pleural thickening,11,R10,1243.0,473.0,1305.0,524.0,1,/home/ubuntu/ductq/data/a3411581087b63a70a2bdba24e55ff4e.jpg
+a01c58a18c2382adada9aea189097614,Aortic enlargement,0,R8,949.0,531.0,1198.0,884.0,1,/home/ubuntu/ductq/data/a01c58a18c2382adada9aea189097614.jpg
+6833c509c10b569d6167db70b83ee5d5,Cardiomegaly,3,R9,955.0,2124.0,2188.0,2547.0,1,/home/ubuntu/ductq/data/6833c509c10b569d6167db70b83ee5d5.jpg
+fd277568d5778bed67a80aabd4c2e297,Cardiomegaly,3,R8,1269.0,1729.0,2488.0,2152.0,1,/home/ubuntu/ductq/data/fd277568d5778bed67a80aabd4c2e297.jpg
+ab51ed37f90ea78c93f1e92aa8a9d749,Lung Opacity,7,R9,1674.0,1366.0,2002.0,1705.0,1,/home/ubuntu/ductq/data/ab51ed37f90ea78c93f1e92aa8a9d749.jpg
+5bac140ce817cf691563067d70952e95,Cardiomegaly,3,R10,916.0,1690.0,1900.0,1981.0,1,/home/ubuntu/ductq/data/5bac140ce817cf691563067d70952e95.jpg
+0d96a4bffbd85c60c4eec095f4c6d34b,Cardiomegaly,3,R10,1203.0,1452.0,2341.0,1944.0,1,/home/ubuntu/ductq/data/0d96a4bffbd85c60c4eec095f4c6d34b.jpg
+4376c4766028d6873001b6653c5b6a13,Aortic enlargement,0,R9,867.0,675.0,1120.0,941.0,1,/home/ubuntu/ductq/data/4376c4766028d6873001b6653c5b6a13.jpg
+a9141690efddf683c82a9d90af347ab1,Infiltration,6,R9,964.0,301.0,1315.0,725.0,1,/home/ubuntu/ductq/data/a9141690efddf683c82a9d90af347ab1.jpg
+f78a273e30b5cd8a2d580fa4959c8433,Lung Opacity,7,R14,832.0,574.0,1012.0,771.0,1,/home/ubuntu/ductq/data/f78a273e30b5cd8a2d580fa4959c8433.jpg
+17381ffc2b43778487e782dbb5cb963a,Lung Opacity,7,R10,776.0,966.0,908.0,1149.0,1,/home/ubuntu/ductq/data/17381ffc2b43778487e782dbb5cb963a.jpg
+548bf1d835906c257ca4557ca44b3e81,Cardiomegaly,3,R10,1040.0,1457.0,2130.0,1921.0,1,/home/ubuntu/ductq/data/548bf1d835906c257ca4557ca44b3e81.jpg
+dadb809c6e432781996add21a4543cd3,Cardiomegaly,3,R8,860.0,1449.0,1900.0,1786.0,1,/home/ubuntu/ductq/data/dadb809c6e432781996add21a4543cd3.jpg
+e2de831b92a2dc7237d2b1885ee4bb9c,Infiltration,6,R9,1123.0,263.0,1603.0,707.0,1,/home/ubuntu/ductq/data/e2de831b92a2dc7237d2b1885ee4bb9c.jpg
+1e78773b772343629858fee07ab051ec,Cardiomegaly,3,R8,851.0,1555.0,1715.0,1997.0,1,/home/ubuntu/ductq/data/1e78773b772343629858fee07ab051ec.jpg
+c4c2b57389bb4eac8ce685dfe8f5b965,Pulmonary fibrosis,13,R9,1500.0,452.0,1810.0,930.0,1,/home/ubuntu/ductq/data/c4c2b57389bb4eac8ce685dfe8f5b965.jpg
+e694841193437bcb89ad2c1acbf95f79,Infiltration,6,R9,494.0,1148.0,915.0,1687.0,1,/home/ubuntu/ductq/data/e694841193437bcb89ad2c1acbf95f79.jpg
+b761841b1bffc40e56e97a869f994f69,Aortic enlargement,0,R15,1049.0,1051.0,1637.0,1396.0,1,/home/ubuntu/ductq/data/b761841b1bffc40e56e97a869f994f69.jpg
+b9e484fa14cf5877736daa59b2ce2b24,Pleural thickening,11,R9,1386.0,268.0,1619.0,373.0,1,/home/ubuntu/ductq/data/b9e484fa14cf5877736daa59b2ce2b24.jpg
+db462203729870bda6162307e7d2f319,Aortic enlargement,0,R9,927.0,607.0,1224.0,912.0,1,/home/ubuntu/ductq/data/db462203729870bda6162307e7d2f319.jpg
+dad083d8150288db33157fde49ab35f9,ILD,5,R8,1649.0,1033.0,2117.0,1537.0,1,/home/ubuntu/ductq/data/dad083d8150288db33157fde49ab35f9.jpg
+d06c3bda18d5dc7ff656faf4358615a4,Pleural thickening,11,R9,851.0,605.0,1097.0,646.0,1,/home/ubuntu/ductq/data/d06c3bda18d5dc7ff656faf4358615a4.jpg
+e17d969fef9169c3460a0817d60da54b,Pleural thickening,11,R10,1543.0,427.0,1901.0,609.0,1,/home/ubuntu/ductq/data/e17d969fef9169c3460a0817d60da54b.jpg
+a48969d2e8f19426f60949458d6fa1b8,Cardiomegaly,3,R10,966.0,2090.0,2441.0,2508.0,1,/home/ubuntu/ductq/data/a48969d2e8f19426f60949458d6fa1b8.jpg
+7610eb1f29002104c258f17b432e8d52,Aortic enlargement,0,R10,1608.0,774.0,1895.0,1057.0,1,/home/ubuntu/ductq/data/7610eb1f29002104c258f17b432e8d52.jpg
+2d6c36cb32352b891ef90fb11f3215f7,Aortic enlargement,0,R10,1155.0,957.0,1416.0,1252.0,1,/home/ubuntu/ductq/data/2d6c36cb32352b891ef90fb11f3215f7.jpg
+8e49cc23db589bc0acd59a8841128560,Lung Opacity,7,R13,363.0,927.0,975.0,1360.0,1,/home/ubuntu/ductq/data/8e49cc23db589bc0acd59a8841128560.jpg
+4500dc880a0978a7a1f91a0be2756806,Aortic enlargement,0,R9,1409.0,775.0,1719.0,1035.0,1,/home/ubuntu/ductq/data/4500dc880a0978a7a1f91a0be2756806.jpg
+f356caa9aae421a22704f79e158e4321,Cardiomegaly,3,R10,1081.0,1465.0,2374.0,1960.0,1,/home/ubuntu/ductq/data/f356caa9aae421a22704f79e158e4321.jpg
+ce5e76544b8c1d0ec34783b0f1bc471d,Nodule/Mass,8,R9,2240.0,1867.0,2314.0,1968.0,1,/home/ubuntu/ductq/data/ce5e76544b8c1d0ec34783b0f1bc471d.jpg
+4d3a1fe62d0df7015482f6c8429ed5a8,Aortic enlargement,0,R8,1407.0,591.0,1685.0,896.0,1,/home/ubuntu/ductq/data/4d3a1fe62d0df7015482f6c8429ed5a8.jpg
+6137da0107d18f2bc35b6814c0f00ac8,Other lesion,9,R9,579.0,1982.0,1128.0,2576.0,1,/home/ubuntu/ductq/data/6137da0107d18f2bc35b6814c0f00ac8.jpg
+18d37c314615dede5fb25722c8b2ee04,Cardiomegaly,3,R10,887.0,1494.0,1825.0,1799.0,1,/home/ubuntu/ductq/data/18d37c314615dede5fb25722c8b2ee04.jpg
+ddc38d560476be1d8fc06f8867c0277b,Cardiomegaly,3,R9,681.0,1214.0,1854.0,1739.0,1,/home/ubuntu/ductq/data/ddc38d560476be1d8fc06f8867c0277b.jpg
+1722c7262a821be25de56e351d641993,Cardiomegaly,3,R8,657.0,1217.0,1821.0,1709.0,1,/home/ubuntu/ductq/data/1722c7262a821be25de56e351d641993.jpg
+5789e4266faeb45b6a483cff6b83c5d1,Cardiomegaly,3,R8,830.0,1356.0,1894.0,1715.0,1,/home/ubuntu/ductq/data/5789e4266faeb45b6a483cff6b83c5d1.jpg
+f53c45bd444bfa9796ac5ce5489136c7,ILD,5,R9,1482.0,411.0,1889.0,1230.0,1,/home/ubuntu/ductq/data/f53c45bd444bfa9796ac5ce5489136c7.jpg
+ccd403a2a0b24d9d67ebf996e03224d3,Aortic enlargement,0,R10,1268.0,659.0,1534.0,957.0,1,/home/ubuntu/ductq/data/ccd403a2a0b24d9d67ebf996e03224d3.jpg
+a593d4aa6d8d9dbe2139c6c3889535eb,Infiltration,6,R8,427.0,1789.0,961.0,1969.0,1,/home/ubuntu/ductq/data/a593d4aa6d8d9dbe2139c6c3889535eb.jpg
+d5331c5488785e73b81760e5418a192d,Calcification,2,R8,450.0,2348.0,689.0,2452.0,1,/home/ubuntu/ductq/data/d5331c5488785e73b81760e5418a192d.jpg
+a87dc1505bcdb64c00c84b096799bdab,Calcification,2,R9,1705.0,762.0,1730.0,825.0,1,/home/ubuntu/ductq/data/a87dc1505bcdb64c00c84b096799bdab.jpg
+4010817f919544f7c1c7eef1858ce071,Nodule/Mass,8,R10,1033.0,2017.0,1112.0,2118.0,1,/home/ubuntu/ductq/data/4010817f919544f7c1c7eef1858ce071.jpg
+3c2064ec0c7fbd9873601524016c9d97,Aortic enlargement,0,R9,1252.0,550.0,1480.0,828.0,1,/home/ubuntu/ductq/data/3c2064ec0c7fbd9873601524016c9d97.jpg
+1691ab3a82040297355b59a34c1e3fa9,Consolidation,4,R10,1367.0,869.0,1696.0,1123.0,1,/home/ubuntu/ductq/data/1691ab3a82040297355b59a34c1e3fa9.jpg
+b4fc5e0bb44a19fcb308e73639746915,Calcification,2,R15,1572.0,583.0,1726.0,774.0,1,/home/ubuntu/ductq/data/b4fc5e0bb44a19fcb308e73639746915.jpg
+b5e2ebedcb69b842ee6b751e5a4991a8,Aortic enlargement,0,R9,1490.0,670.0,1885.0,1034.0,1,/home/ubuntu/ductq/data/b5e2ebedcb69b842ee6b751e5a4991a8.jpg
+2d9dbcfad0e6a4bfeae0c6fe1f780d98,Calcification,2,R8,2463.0,1313.0,2512.0,1355.0,1,/home/ubuntu/ductq/data/2d9dbcfad0e6a4bfeae0c6fe1f780d98.jpg
+df2e21b90ce0510ed66e161136cf60ad,Pleural thickening,11,R9,514.0,1072.0,707.0,1708.0,1,/home/ubuntu/ductq/data/df2e21b90ce0510ed66e161136cf60ad.jpg
+499bf22f9d6aba3f7da0609d935c9e1d,Pleural effusion,10,R10,229.0,2113.0,393.0,2337.0,1,/home/ubuntu/ductq/data/499bf22f9d6aba3f7da0609d935c9e1d.jpg
+16565752b931dfbec4b042b26786401a,Aortic enlargement,0,R10,1038.0,810.0,1347.0,1320.0,1,/home/ubuntu/ductq/data/16565752b931dfbec4b042b26786401a.jpg
+9e104788d948797f70790dce9067c277,Aortic enlargement,0,R14,1340.0,650.0,1764.0,1156.0,1,/home/ubuntu/ductq/data/9e104788d948797f70790dce9067c277.jpg
+d80e04e5a52a954fcc1004a53f2ef4a5,Aortic enlargement,0,R9,1033.0,742.0,1250.0,1220.0,1,/home/ubuntu/ductq/data/d80e04e5a52a954fcc1004a53f2ef4a5.jpg
+6605faf598579d666064f0a09cee2557,Cardiomegaly,3,R15,978.0,1216.0,2243.0,1952.0,1,/home/ubuntu/ductq/data/6605faf598579d666064f0a09cee2557.jpg
+221d68705e17ec11935e410fcc483b0f,Cardiomegaly,3,R11,563.0,948.0,1948.0,1513.0,1,/home/ubuntu/ductq/data/221d68705e17ec11935e410fcc483b0f.jpg
+ab39f5256d8cd84c1704757c4ae2b49c,Pleural thickening,11,R9,589.0,196.0,842.0,265.0,1,/home/ubuntu/ductq/data/ab39f5256d8cd84c1704757c4ae2b49c.jpg
+8e682cb1be531ca41c0e04e45c227797,Aortic enlargement,0,R8,1363.0,865.0,1640.0,1223.0,1,/home/ubuntu/ductq/data/8e682cb1be531ca41c0e04e45c227797.jpg
+db8d818bc4047e5c02af17c31bb78009,Nodule/Mass,8,R8,1608.0,1035.0,1802.0,1243.0,1,/home/ubuntu/ductq/data/db8d818bc4047e5c02af17c31bb78009.jpg
+1e8892e58834c2a38f8d0b574327ed81,Aortic enlargement,0,R9,1675.0,532.0,1964.0,826.0,1,/home/ubuntu/ductq/data/1e8892e58834c2a38f8d0b574327ed81.jpg
+804bcde30d36e32d9429f00bed7a388d,Aortic enlargement,0,R10,1332.0,440.0,1605.0,844.0,1,/home/ubuntu/ductq/data/804bcde30d36e32d9429f00bed7a388d.jpg
+80bd0e3e1fbd70822b77e8df2dd00ff2,Pleural thickening,11,R9,1129.0,135.0,1338.0,348.0,1,/home/ubuntu/ductq/data/80bd0e3e1fbd70822b77e8df2dd00ff2.jpg
+41cee81dbe9886a56b6c3ee56fb23448,Aortic enlargement,0,R8,1407.0,483.0,1680.0,844.0,1,/home/ubuntu/ductq/data/41cee81dbe9886a56b6c3ee56fb23448.jpg
+e531672ae6083e717cbe83d7fc71ddda,Aortic enlargement,0,R10,1247.0,608.0,1493.0,856.0,1,/home/ubuntu/ductq/data/e531672ae6083e717cbe83d7fc71ddda.jpg
+3fd5a48543be08bc92fbcaa0971cf50e,Aortic enlargement,0,R10,1261.0,614.0,1472.0,830.0,1,/home/ubuntu/ductq/data/3fd5a48543be08bc92fbcaa0971cf50e.jpg
+6bd56b4aa9ff512573b799ddb4c7deac,Aortic enlargement,0,R9,1042.0,819.0,1294.0,1086.0,1,/home/ubuntu/ductq/data/6bd56b4aa9ff512573b799ddb4c7deac.jpg
+47a50643e0ffee2204984ca1ac6bccf0,Pleural thickening,11,R9,670.0,549.0,1325.0,804.0,1,/home/ubuntu/ductq/data/47a50643e0ffee2204984ca1ac6bccf0.jpg
+0211f9fe31142ba1e25fb6a2ea3fea38,Nodule/Mass,8,R8,1705.0,768.0,1747.0,808.0,1,/home/ubuntu/ductq/data/0211f9fe31142ba1e25fb6a2ea3fea38.jpg
+87263262e293c23ec2d03b174ef4ff64,Aortic enlargement,0,R9,1073.0,727.0,1343.0,1067.0,1,/home/ubuntu/ductq/data/87263262e293c23ec2d03b174ef4ff64.jpg
+07d004fabfd7246f9ed4283dd5237deb,Infiltration,6,R8,1780.0,578.0,2066.0,1104.0,1,/home/ubuntu/ductq/data/07d004fabfd7246f9ed4283dd5237deb.jpg
+fba40b4a066903eaccbf80e168617e69,Cardiomegaly,3,R8,879.0,1206.0,1802.0,1488.0,1,/home/ubuntu/ductq/data/fba40b4a066903eaccbf80e168617e69.jpg
+cf32a2bc41deeb7436a36bcc4ff324fb,Lung Opacity,7,R11,1388.0,423.0,1608.0,908.0,1,/home/ubuntu/ductq/data/cf32a2bc41deeb7436a36bcc4ff324fb.jpg
+090b30ca55ab2a592cd3b24c9407a2bf,Pleural thickening,11,R9,1303.0,688.0,1645.0,748.0,1,/home/ubuntu/ductq/data/090b30ca55ab2a592cd3b24c9407a2bf.jpg
+8e8108b7709b8f9f60eabe001816dbd4,ILD,5,R8,379.0,824.0,958.0,2093.0,1,/home/ubuntu/ductq/data/8e8108b7709b8f9f60eabe001816dbd4.jpg
+1dd24b51bb2c4e67bf02641925881174,Cardiomegaly,3,R10,1212.0,1950.0,2464.0,2335.0,1,/home/ubuntu/ductq/data/1dd24b51bb2c4e67bf02641925881174.jpg
+18e91ea53a6b6829c70ae2d762605c21,Aortic enlargement,0,R8,1133.0,1157.0,1436.0,1567.0,1,/home/ubuntu/ductq/data/18e91ea53a6b6829c70ae2d762605c21.jpg
+c9c761e1d3bf899273a06ca2e24610ef,Aortic enlargement,0,R8,1036.0,604.0,1275.0,927.0,1,/home/ubuntu/ductq/data/c9c761e1d3bf899273a06ca2e24610ef.jpg
+bd9a6c424edb2e622c1f4b6a59a58e91,Pleural effusion,10,R8,196.0,447.0,869.0,1792.0,1,/home/ubuntu/ductq/data/bd9a6c424edb2e622c1f4b6a59a58e91.jpg
+8ef3fb1b703ffcb77d3709d45adf8695,Calcification,2,R9,1536.0,883.0,1609.0,961.0,1,/home/ubuntu/ductq/data/8ef3fb1b703ffcb77d3709d45adf8695.jpg
+9a44147b1b764d0cbd57a317bd22e48c,Nodule/Mass,8,R10,2519.0,792.0,2581.0,844.0,1,/home/ubuntu/ductq/data/9a44147b1b764d0cbd57a317bd22e48c.jpg
+98e2d03f7e9ba87b4922b35347866fc4,Cardiomegaly,3,R9,1272.0,1344.0,2352.0,1659.0,1,/home/ubuntu/ductq/data/98e2d03f7e9ba87b4922b35347866fc4.jpg
+0b5213c456c26b48ca011b9865c4e6ce,Aortic enlargement,0,R9,987.0,763.0,1664.0,1501.0,1,/home/ubuntu/ductq/data/0b5213c456c26b48ca011b9865c4e6ce.jpg
+58f0f69ce610c51dbecd42b9e83677c5,Cardiomegaly,3,R10,729.0,1376.0,1759.0,1683.0,1,/home/ubuntu/ductq/data/58f0f69ce610c51dbecd42b9e83677c5.jpg
+9074b5859c254e4cc0d1ae9781cfcdf1,Nodule/Mass,8,R8,545.0,969.0,640.0,1062.0,1,/home/ubuntu/ductq/data/9074b5859c254e4cc0d1ae9781cfcdf1.jpg
+91e721ea0143333c5efe5dfb8ca98746,Calcification,2,R9,1139.0,1228.0,1216.0,1369.0,1,/home/ubuntu/ductq/data/91e721ea0143333c5efe5dfb8ca98746.jpg
+624fadcfe3f204dd43ce49bdce00c0f4,Infiltration,6,R8,681.0,374.0,859.0,636.0,1,/home/ubuntu/ductq/data/624fadcfe3f204dd43ce49bdce00c0f4.jpg
+3312ab0661750f9899b4589eae97731a,Pulmonary fibrosis,13,R9,1903.0,1762.0,2222.0,1819.0,1,/home/ubuntu/ductq/data/3312ab0661750f9899b4589eae97731a.jpg
+c4a330dbf5845a6f53f102eb3cd771e0,Cardiomegaly,3,R9,756.0,1112.0,1690.0,1404.0,1,/home/ubuntu/ductq/data/c4a330dbf5845a6f53f102eb3cd771e0.jpg
+2072e55e4f38ef869fc492b5e282057b,Aortic enlargement,0,R8,1219.0,1004.0,1646.0,1461.0,1,/home/ubuntu/ductq/data/2072e55e4f38ef869fc492b5e282057b.jpg
+55a6f35d1fc71adbb833ae726a42e46e,Cardiomegaly,3,R10,947.0,1625.0,2080.0,1906.0,1,/home/ubuntu/ductq/data/55a6f35d1fc71adbb833ae726a42e46e.jpg
+c996a67b615c29ae24418c918bd44c69,Nodule/Mass,8,R10,616.0,826.0,637.0,860.0,1,/home/ubuntu/ductq/data/c996a67b615c29ae24418c918bd44c69.jpg
+b1061d4cdf14dd101734a129b89a85de,Pulmonary fibrosis,13,R9,1423.0,762.0,1539.0,899.0,1,/home/ubuntu/ductq/data/b1061d4cdf14dd101734a129b89a85de.jpg
+f2495f8fc8e1640e7ca9383966aa9f5f,Pleural thickening,11,R8,220.0,2106.0,280.0,2211.0,1,/home/ubuntu/ductq/data/f2495f8fc8e1640e7ca9383966aa9f5f.jpg
+9a65d343df43c00deb1838098495b672,Cardiomegaly,3,R8,863.0,1457.0,1835.0,1774.0,1,/home/ubuntu/ductq/data/9a65d343df43c00deb1838098495b672.jpg
+0b62bc6644be72ce4dfa5ea77a77f311,Cardiomegaly,3,R10,877.0,1760.0,1967.0,2021.0,1,/home/ubuntu/ductq/data/0b62bc6644be72ce4dfa5ea77a77f311.jpg
+458a8766b1f96850e9f893e382058988,Lung Opacity,7,R10,355.0,1602.0,931.0,2027.0,1,/home/ubuntu/ductq/data/458a8766b1f96850e9f893e382058988.jpg
+a946684583c7bf346b18e1d69d17e9cf,Aortic enlargement,0,R8,1283.0,722.0,1571.0,1155.0,1,/home/ubuntu/ductq/data/a946684583c7bf346b18e1d69d17e9cf.jpg
+be6a2a69a923979c38e8e83fed53ff89,Pleural thickening,11,R9,1438.0,295.0,1721.0,382.0,1,/home/ubuntu/ductq/data/be6a2a69a923979c38e8e83fed53ff89.jpg
+fc8c4737d8852af905ef96b5ca0daef9,Aortic enlargement,0,R10,970.0,436.0,1123.0,627.0,1,/home/ubuntu/ductq/data/fc8c4737d8852af905ef96b5ca0daef9.jpg
+92c8ef82a9059eade4fd85c649f3b1fe,Pulmonary fibrosis,13,R8,599.0,404.0,1062.0,755.0,1,/home/ubuntu/ductq/data/92c8ef82a9059eade4fd85c649f3b1fe.jpg
+abac6c7bdaf2149035157fd02883dbcd,Aortic enlargement,0,R9,1077.0,543.0,1331.0,813.0,1,/home/ubuntu/ductq/data/abac6c7bdaf2149035157fd02883dbcd.jpg
+e2ba061bc18b521f763050516e70f87c,Cardiomegaly,3,R8,1126.0,1522.0,2556.0,2099.0,1,/home/ubuntu/ductq/data/e2ba061bc18b521f763050516e70f87c.jpg
+ec513a0af055499f1b188cc6a9175ee1,Pneumothorax,12,R10,232.0,496.0,1248.0,2549.0,1,/home/ubuntu/ductq/data/ec513a0af055499f1b188cc6a9175ee1.jpg
+e3b834778550579c140f46805b019e78,Pleural thickening,11,R9,963.0,362.0,1321.0,452.0,1,/home/ubuntu/ductq/data/e3b834778550579c140f46805b019e78.jpg
+d742a4e61899a7a7408754397737a3ea,Cardiomegaly,3,R8,889.0,1307.0,1778.0,1551.0,1,/home/ubuntu/ductq/data/d742a4e61899a7a7408754397737a3ea.jpg
+0ea4221d568ab487af7c433a3df6307e,Pulmonary fibrosis,13,R9,1259.0,369.0,1447.0,564.0,1,/home/ubuntu/ductq/data/0ea4221d568ab487af7c433a3df6307e.jpg
+aaf7eca124ab4fd9fc5b7d842a0dfca7,Pulmonary fibrosis,13,R10,381.0,756.0,506.0,889.0,1,/home/ubuntu/ductq/data/aaf7eca124ab4fd9fc5b7d842a0dfca7.jpg
+3fcf06bf3f3395ba65a8b648b68e98d4,Aortic enlargement,0,R9,1429.0,786.0,1768.0,1164.0,1,/home/ubuntu/ductq/data/3fcf06bf3f3395ba65a8b648b68e98d4.jpg
+1b6b4e0d7f5f7d7ad2bf8b70783244be,Other lesion,9,R10,1755.0,1409.0,1811.0,1699.0,1,/home/ubuntu/ductq/data/1b6b4e0d7f5f7d7ad2bf8b70783244be.jpg
+3143c4090b404863d57a355e61585d0b,Aortic enlargement,0,R10,1029.0,1136.0,1274.0,1529.0,1,/home/ubuntu/ductq/data/3143c4090b404863d57a355e61585d0b.jpg
+2e4b0a0fb7faf81bc42b46c3247ae8ad,Cardiomegaly,3,R9,1404.0,1249.0,2386.0,1636.0,1,/home/ubuntu/ductq/data/2e4b0a0fb7faf81bc42b46c3247ae8ad.jpg
+a9ace70f0331bf293ca1fb56f40af36e,Aortic enlargement,0,R9,1302.0,801.0,1662.0,1127.0,1,/home/ubuntu/ductq/data/a9ace70f0331bf293ca1fb56f40af36e.jpg
+d1eb013c56b49d88034915dbee6c5f68,Pleural effusion,10,R9,251.0,2031.0,354.0,2198.0,1,/home/ubuntu/ductq/data/d1eb013c56b49d88034915dbee6c5f68.jpg
+8933f5b721da3ab96e2a6b7efa61fc24,Pleural thickening,11,R8,1611.0,351.0,1950.0,600.0,1,/home/ubuntu/ductq/data/8933f5b721da3ab96e2a6b7efa61fc24.jpg
+6c6266968277d8d98717a106dfb716c3,Other lesion,9,R8,86.0,567.0,1012.0,2153.0,1,/home/ubuntu/ductq/data/6c6266968277d8d98717a106dfb716c3.jpg
+46ddca654164928e6c422e3e2eb24f9e,Pleural thickening,11,R8,115.0,1763.0,600.0,1934.0,1,/home/ubuntu/ductq/data/46ddca654164928e6c422e3e2eb24f9e.jpg
+112cf0367dd8b6aa14b4e384439d9eb7,Nodule/Mass,8,R9,2310.0,2213.0,2367.0,2254.0,1,/home/ubuntu/ductq/data/112cf0367dd8b6aa14b4e384439d9eb7.jpg
+6067e2a8536a187d543ebd4fab4af731,Cardiomegaly,3,R8,823.0,1639.0,1831.0,1958.0,1,/home/ubuntu/ductq/data/6067e2a8536a187d543ebd4fab4af731.jpg
+a6309e7373450069baaec7802ec8b244,Cardiomegaly,3,R10,544.0,1213.0,1577.0,1693.0,1,/home/ubuntu/ductq/data/a6309e7373450069baaec7802ec8b244.jpg
+4758f12fa97db882fa8b7142014cefb4,Aortic enlargement,0,R10,1020.0,647.0,1239.0,966.0,1,/home/ubuntu/ductq/data/4758f12fa97db882fa8b7142014cefb4.jpg
+23cc21ad490ea10045c00fba3a208b3f,Nodule/Mass,8,R10,1403.0,692.0,1561.0,873.0,1,/home/ubuntu/ductq/data/23cc21ad490ea10045c00fba3a208b3f.jpg
+aff45c4a432e02d85ff83fc3de55cbb9,Pleural thickening,11,R10,1023.0,303.0,1443.0,446.0,1,/home/ubuntu/ductq/data/aff45c4a432e02d85ff83fc3de55cbb9.jpg
+99c5019992434f96249d79326a472b05,Pleural thickening,11,R8,790.0,426.0,1186.0,582.0,1,/home/ubuntu/ductq/data/99c5019992434f96249d79326a472b05.jpg
+f9f7feefb4bac748ff7ad313e4a78906,Pleural thickening,11,R9,1648.0,270.0,2005.0,435.0,1,/home/ubuntu/ductq/data/f9f7feefb4bac748ff7ad313e4a78906.jpg
+8f572ec6313554380c112b06168aed35,Pleural thickening,11,R9,1191.0,493.0,1312.0,546.0,1,/home/ubuntu/ductq/data/8f572ec6313554380c112b06168aed35.jpg
+4ef589fee1b30a47d9955e4613cf901c,Consolidation,4,R8,894.0,679.0,1260.0,1107.0,1,/home/ubuntu/ductq/data/4ef589fee1b30a47d9955e4613cf901c.jpg
+b57e21ea64ba9736e0711bdbbe53c221,Pulmonary fibrosis,13,R10,706.0,291.0,831.0,404.0,1,/home/ubuntu/ductq/data/b57e21ea64ba9736e0711bdbbe53c221.jpg
+6e4915e84e38de5d90efe0ecfd8f2cf6,Lung Opacity,7,R10,1581.0,1788.0,1759.0,2067.0,1,/home/ubuntu/ductq/data/6e4915e84e38de5d90efe0ecfd8f2cf6.jpg
+8f6709f15f4f222cf7af5bb49f73aa18,Cardiomegaly,3,R8,723.0,1206.0,1572.0,1515.0,1,/home/ubuntu/ductq/data/8f6709f15f4f222cf7af5bb49f73aa18.jpg
+28711a5bb20257be65943b9374dfb3c3,Aortic enlargement,0,R10,1128.0,758.0,1365.0,1051.0,1,/home/ubuntu/ductq/data/28711a5bb20257be65943b9374dfb3c3.jpg
+5a8231c748478ef6be5055800a2fce17,Aortic enlargement,0,R14,1388.0,715.0,2148.0,1749.0,1,/home/ubuntu/ductq/data/5a8231c748478ef6be5055800a2fce17.jpg
+3f3acd7f9f383c01b4392b8dd8bb8f10,Infiltration,6,R8,179.0,686.0,543.0,1105.0,1,/home/ubuntu/ductq/data/3f3acd7f9f383c01b4392b8dd8bb8f10.jpg
+90823fdce55e57a5c6de680ccf9ffc38,Pleural effusion,10,R8,424.0,1912.0,1388.0,2215.0,1,/home/ubuntu/ductq/data/90823fdce55e57a5c6de680ccf9ffc38.jpg
+da7ba2750699edc297c106c314963f15,Cardiomegaly,3,R10,1244.0,1358.0,2421.0,1768.0,1,/home/ubuntu/ductq/data/da7ba2750699edc297c106c314963f15.jpg
+01b0510a8d3b0860429536653db5eb21,Pleural thickening,11,R8,1624.0,1590.0,1820.0,1727.0,1,/home/ubuntu/ductq/data/01b0510a8d3b0860429536653db5eb21.jpg
+b489964b59d3f6f9070e45a02e469d8b,ILD,5,R9,2090.0,1822.0,2384.0,2341.0,1,/home/ubuntu/ductq/data/b489964b59d3f6f9070e45a02e469d8b.jpg
+1085585ceaf60941fd14db7ad3bb2f49,Aortic enlargement,0,R9,1136.0,899.0,1442.0,1197.0,1,/home/ubuntu/ductq/data/1085585ceaf60941fd14db7ad3bb2f49.jpg
+be92ec2aee088c56d3ba79598461cb9a,Cardiomegaly,3,R9,789.0,1398.0,1640.0,1733.0,1,/home/ubuntu/ductq/data/be92ec2aee088c56d3ba79598461cb9a.jpg
+035b53e8aabf8763537a296c291135d1,Aortic enlargement,0,R14,831.0,596.0,1537.0,1143.0,1,/home/ubuntu/ductq/data/035b53e8aabf8763537a296c291135d1.jpg
+e7c0727f49a3d279143ed21b382ac1c4,Pleural thickening,11,R9,1309.0,501.0,1525.0,557.0,1,/home/ubuntu/ductq/data/e7c0727f49a3d279143ed21b382ac1c4.jpg
+972f8298395b49ef09c8faf6a04e22b0,ILD,5,R14,216.0,213.0,860.0,1480.0,1,/home/ubuntu/ductq/data/972f8298395b49ef09c8faf6a04e22b0.jpg
+cb9658d61c84a99ba31665f40cb0788d,Lung Opacity,7,R15,705.0,202.0,1264.0,866.0,1,/home/ubuntu/ductq/data/cb9658d61c84a99ba31665f40cb0788d.jpg
+7d0fa5708b67c2bbb2509a468df9b73b,Cardiomegaly,3,R8,909.0,1437.0,2034.0,1840.0,1,/home/ubuntu/ductq/data/7d0fa5708b67c2bbb2509a468df9b73b.jpg
+dadf619a987c90a4f2c250ae26ed2041,Lung Opacity,7,R10,805.0,1358.0,1012.0,1588.0,1,/home/ubuntu/ductq/data/dadf619a987c90a4f2c250ae26ed2041.jpg
+77411e67a520f43d7e819b9c21a33e2c,Aortic enlargement,0,R10,1045.0,612.0,1293.0,814.0,1,/home/ubuntu/ductq/data/77411e67a520f43d7e819b9c21a33e2c.jpg
+bc87ef332a3c532a7e86893cae30e127,Other lesion,9,R9,2301.0,1551.0,2364.0,1635.0,1,/home/ubuntu/ductq/data/bc87ef332a3c532a7e86893cae30e127.jpg
+4016b176eaf40d514b0559a0aeb48f21,Cardiomegaly,3,R10,1109.0,1552.0,2416.0,2033.0,1,/home/ubuntu/ductq/data/4016b176eaf40d514b0559a0aeb48f21.jpg
+96f334aaa1d7d9cad160e710c9965615,Pleural effusion,10,R9,1590.0,1855.0,1657.0,1958.0,1,/home/ubuntu/ductq/data/96f334aaa1d7d9cad160e710c9965615.jpg
+c13533b61e97274091200c6ceab55cb7,Aortic enlargement,0,R9,1648.0,622.0,1908.0,924.0,1,/home/ubuntu/ductq/data/c13533b61e97274091200c6ceab55cb7.jpg
+ce2445abc396911bace06d962bf9b6e6,Pulmonary fibrosis,13,R10,536.0,1689.0,890.0,1878.0,1,/home/ubuntu/ductq/data/ce2445abc396911bace06d962bf9b6e6.jpg
+02de1ec3340e75fd5e7294a84a0342a1,Aortic enlargement,0,R9,1095.0,960.0,1577.0,1434.0,1,/home/ubuntu/ductq/data/02de1ec3340e75fd5e7294a84a0342a1.jpg
+f3fc4e540d940916de69e6a7e928cead,Pleural thickening,11,R8,140.0,2518.0,251.0,2761.0,1,/home/ubuntu/ductq/data/f3fc4e540d940916de69e6a7e928cead.jpg
+8ac9d40920ef54d20f860195073a1d2a,Nodule/Mass,8,R9,224.0,1841.0,262.0,1894.0,1,/home/ubuntu/ductq/data/8ac9d40920ef54d20f860195073a1d2a.jpg
+4c5bf28c7cdb9d7c5ac93c78bbd7bdef,Infiltration,6,R9,485.0,1343.0,1192.0,1952.0,1,/home/ubuntu/ductq/data/4c5bf28c7cdb9d7c5ac93c78bbd7bdef.jpg
+fe712042bd989a581a931a300fee1203,Aortic enlargement,0,R8,1291.0,785.0,1634.0,1161.0,1,/home/ubuntu/ductq/data/fe712042bd989a581a931a300fee1203.jpg
+a673c55470f775d286249e189896c376,Pleural effusion,10,R11,1643.0,1424.0,2039.0,1701.0,1,/home/ubuntu/ductq/data/a673c55470f775d286249e189896c376.jpg
+ce05e2dfd28685a861263561a123fb05,Infiltration,6,R8,1460.0,1351.0,1801.0,1833.0,1,/home/ubuntu/ductq/data/ce05e2dfd28685a861263561a123fb05.jpg
+326f5799de625f4fddd67b9c7827bfe5,Nodule/Mass,8,R10,611.0,1685.0,665.0,1735.0,1,/home/ubuntu/ductq/data/326f5799de625f4fddd67b9c7827bfe5.jpg
+7225983eb43be7f2dcb9e75381a8f3e5,Cardiomegaly,3,R8,756.0,1284.0,1701.0,1643.0,1,/home/ubuntu/ductq/data/7225983eb43be7f2dcb9e75381a8f3e5.jpg
+5ff1e6bd7cb14179a70db035d3aa6ba6,Pulmonary fibrosis,13,R9,302.0,639.0,1007.0,1464.0,1,/home/ubuntu/ductq/data/5ff1e6bd7cb14179a70db035d3aa6ba6.jpg
+2860567dbd5d3f2597072e0b0e45ccd6,Pulmonary fibrosis,13,R10,239.0,333.0,886.0,1611.0,1,/home/ubuntu/ductq/data/2860567dbd5d3f2597072e0b0e45ccd6.jpg
+55e39b1282cde6796b82c6b5019a1fb8,Pulmonary fibrosis,13,R9,552.0,644.0,741.0,903.0,1,/home/ubuntu/ductq/data/55e39b1282cde6796b82c6b5019a1fb8.jpg
+457e53f750c2f152033022e7918cc296,Lung Opacity,7,R9,357.0,1549.0,953.0,1901.0,1,/home/ubuntu/ductq/data/457e53f750c2f152033022e7918cc296.jpg
+835b1552b7be3350d697503504211aa4,Lung Opacity,7,R9,641.0,678.0,1038.0,1298.0,1,/home/ubuntu/ductq/data/835b1552b7be3350d697503504211aa4.jpg
+963e75d60b45a08a1de456d383759167,Pleural thickening,11,R9,678.0,730.0,921.0,808.0,1,/home/ubuntu/ductq/data/963e75d60b45a08a1de456d383759167.jpg
+a6be2e43de24f6b2d0b1f908f181cbe5,Pulmonary fibrosis,13,R10,339.0,679.0,922.0,1263.0,1,/home/ubuntu/ductq/data/a6be2e43de24f6b2d0b1f908f181cbe5.jpg
+ce1809b48b0ba6519f6f7b3a01155173,Aortic enlargement,0,R9,1075.0,882.0,1796.0,1484.0,1,/home/ubuntu/ductq/data/ce1809b48b0ba6519f6f7b3a01155173.jpg
+eaa5aa491942a0bbc9a161ed3f08c2b5,Cardiomegaly,3,R8,731.0,644.0,1804.0,1122.0,1,/home/ubuntu/ductq/data/eaa5aa491942a0bbc9a161ed3f08c2b5.jpg
+e1a4dd4c30b1757eafb095021def4d63,Cardiomegaly,3,R9,770.0,1704.0,1693.0,1995.0,1,/home/ubuntu/ductq/data/e1a4dd4c30b1757eafb095021def4d63.jpg
+5bf3368744630f459a499ccdccc9cdf1,Aortic enlargement,0,R9,1426.0,916.0,1833.0,1452.0,1,/home/ubuntu/ductq/data/5bf3368744630f459a499ccdccc9cdf1.jpg
+31ab750de5cb0c76b49d45ab1d2186a6,Aortic enlargement,0,R13,983.0,737.0,1550.0,1010.0,1,/home/ubuntu/ductq/data/31ab750de5cb0c76b49d45ab1d2186a6.jpg
+d7d4e27e5a9b3752fddcf5c6080026d5,Pleural thickening,11,R9,951.0,297.0,1171.0,424.0,1,/home/ubuntu/ductq/data/d7d4e27e5a9b3752fddcf5c6080026d5.jpg
+1b90f72310730c8e045e85e8b60c308d,Aortic enlargement,0,R10,1649.0,664.0,1929.0,1032.0,1,/home/ubuntu/ductq/data/1b90f72310730c8e045e85e8b60c308d.jpg
+673f5442a2c3f1b012fcb0efa77527af,Pleural effusion,10,R9,1745.0,1410.0,2069.0,1714.0,1,/home/ubuntu/ductq/data/673f5442a2c3f1b012fcb0efa77527af.jpg
+bd82bfb604a82629f08b99b1c165db35,Pleural effusion,10,R8,111.0,1235.0,863.0,1739.0,1,/home/ubuntu/ductq/data/bd82bfb604a82629f08b99b1c165db35.jpg
+bde911be299cef4ecbdf6c63af33cdf6,Cardiomegaly,3,R10,860.0,1549.0,1751.0,1779.0,1,/home/ubuntu/ductq/data/bde911be299cef4ecbdf6c63af33cdf6.jpg
+aa1ebd488f7f3cab0aa784073b0a9d70,Other lesion,9,R10,1927.0,1393.0,2032.0,1793.0,1,/home/ubuntu/ductq/data/aa1ebd488f7f3cab0aa784073b0a9d70.jpg
+b3f160c75b16300c0f4a89ce8814d1bc,Lung Opacity,7,R8,403.0,663.0,889.0,973.0,1,/home/ubuntu/ductq/data/b3f160c75b16300c0f4a89ce8814d1bc.jpg
+eb6c714df22142229464c6b83e47d7d6,Infiltration,6,R8,439.0,1810.0,961.0,2452.0,1,/home/ubuntu/ductq/data/eb6c714df22142229464c6b83e47d7d6.jpg
+7af1da4ba8580aa54a0bfce36071c8d9,Pulmonary fibrosis,13,R14,859.0,1260.0,1067.0,1337.0,1,/home/ubuntu/ductq/data/7af1da4ba8580aa54a0bfce36071c8d9.jpg
+8b06e353ea42754432d11673a4067336,Aortic enlargement,0,R9,975.0,733.0,1248.0,987.0,1,/home/ubuntu/ductq/data/8b06e353ea42754432d11673a4067336.jpg
+912f2d1789cd50ea5251af9e7f5f6868,Aortic enlargement,0,R8,1326.0,1095.0,1616.0,1420.0,1,/home/ubuntu/ductq/data/912f2d1789cd50ea5251af9e7f5f6868.jpg
+75de97fbdf15aa3e1927a97ff9479327,Pulmonary fibrosis,13,R10,692.0,860.0,850.0,988.0,1,/home/ubuntu/ductq/data/75de97fbdf15aa3e1927a97ff9479327.jpg
+7c7dce16fd7f16d1abd3a6f47e60cb9f,Pulmonary fibrosis,13,R8,1565.0,1427.0,1711.0,1498.0,1,/home/ubuntu/ductq/data/7c7dce16fd7f16d1abd3a6f47e60cb9f.jpg
+c6821f9488fa1827726c54dbf5c862b8,Pulmonary fibrosis,13,R9,299.0,475.0,824.0,680.0,1,/home/ubuntu/ductq/data/c6821f9488fa1827726c54dbf5c862b8.jpg
+e3c9c54cbd1ca5e2dfec4d5f95c1fb65,Cardiomegaly,3,R9,759.0,1274.0,1640.0,1616.0,1,/home/ubuntu/ductq/data/e3c9c54cbd1ca5e2dfec4d5f95c1fb65.jpg
+bace601f50d2f324022ae6a9ad608123,Pulmonary fibrosis,13,R8,569.0,536.0,831.0,851.0,1,/home/ubuntu/ductq/data/bace601f50d2f324022ae6a9ad608123.jpg
+b0bef1b57611726c4b0c636264fe5061,Aortic enlargement,0,R16,1126.0,478.0,1471.0,951.0,1,/home/ubuntu/ductq/data/b0bef1b57611726c4b0c636264fe5061.jpg
+bffb5303ac64552996db400e0f7058b0,Pleural thickening,11,R10,92.0,2140.0,138.0,2293.0,1,/home/ubuntu/ductq/data/bffb5303ac64552996db400e0f7058b0.jpg
+a8db71e482a4dc2e83a1f5eecd9568cc,Lung Opacity,7,R10,2111.0,967.0,2203.0,1059.0,1,/home/ubuntu/ductq/data/a8db71e482a4dc2e83a1f5eecd9568cc.jpg
+656744b811b1f0e3c65dd457b3cd8cd9,Cardiomegaly,3,R10,912.0,1470.0,2110.0,1916.0,1,/home/ubuntu/ductq/data/656744b811b1f0e3c65dd457b3cd8cd9.jpg
+bc87c2265556912b25d36f2fef105a01,Nodule/Mass,8,R8,845.0,358.0,1460.0,1161.0,1,/home/ubuntu/ductq/data/bc87c2265556912b25d36f2fef105a01.jpg
+5fec3c0902c51a7a230544f540e2244d,Pulmonary fibrosis,13,R10,1166.0,371.0,1393.0,858.0,1,/home/ubuntu/ductq/data/5fec3c0902c51a7a230544f540e2244d.jpg
+f6689a5d04b19e0750f5128f629b5d39,Pleural thickening,11,R9,1782.0,1366.0,1864.0,1570.0,1,/home/ubuntu/ductq/data/f6689a5d04b19e0750f5128f629b5d39.jpg
+f499a3f9610865b8be4ff7c7ac5214cf,Pleural thickening,11,R9,1495.0,681.0,1731.0,814.0,1,/home/ubuntu/ductq/data/f499a3f9610865b8be4ff7c7ac5214cf.jpg
+c772fcde08c1e9cb49ab6c11b8fe6e42,Calcification,2,R8,2103.0,762.0,2128.0,797.0,1,/home/ubuntu/ductq/data/c772fcde08c1e9cb49ab6c11b8fe6e42.jpg
+7d6b2982de91c0a900396745c79f3c39,Nodule/Mass,8,R9,375.0,2132.0,408.0,2172.0,1,/home/ubuntu/ductq/data/7d6b2982de91c0a900396745c79f3c39.jpg
+a5c5bca04df42e9949aa48cee3ad67c7,Lung Opacity,7,R10,1061.0,390.0,1510.0,893.0,1,/home/ubuntu/ductq/data/a5c5bca04df42e9949aa48cee3ad67c7.jpg
+c92a0bd2d3c781a82946934351821e9a,Pulmonary fibrosis,13,R8,2171.0,1880.0,2549.0,2019.0,1,/home/ubuntu/ductq/data/c92a0bd2d3c781a82946934351821e9a.jpg
+8387e5ff12264f87c27db2863d4a9c87,Aortic enlargement,0,R9,1260.0,649.0,1640.0,1179.0,1,/home/ubuntu/ductq/data/8387e5ff12264f87c27db2863d4a9c87.jpg
+3875a7e4eb1bdb443470a1abbe93cb58,Aortic enlargement,0,R10,1128.0,796.0,1341.0,1014.0,1,/home/ubuntu/ductq/data/3875a7e4eb1bdb443470a1abbe93cb58.jpg
+021ed4f8af985c0fc68335abb2cf2ed7,Aortic enlargement,0,R10,1111.0,604.0,1360.0,848.0,1,/home/ubuntu/ductq/data/021ed4f8af985c0fc68335abb2cf2ed7.jpg
+333e2b073ea86a0bd0273a7a60ac0dbe,Cardiomegaly,3,R10,936.0,1723.0,1896.0,2166.0,1,/home/ubuntu/ductq/data/333e2b073ea86a0bd0273a7a60ac0dbe.jpg
+5161ae032f0552603b6de965b2bb3e09,Lung Opacity,7,R10,698.0,597.0,1011.0,924.0,1,/home/ubuntu/ductq/data/5161ae032f0552603b6de965b2bb3e09.jpg
+e26ef831acab997d0ebbd38bd2773ae0,Aortic enlargement,0,R9,1091.0,813.0,1419.0,1223.0,1,/home/ubuntu/ductq/data/e26ef831acab997d0ebbd38bd2773ae0.jpg
+fd984c0e930169a20e6a2d02e1dab204,Cardiomegaly,3,R8,830.0,1337.0,1745.0,1748.0,1,/home/ubuntu/ductq/data/fd984c0e930169a20e6a2d02e1dab204.jpg
+39095bfc67751891aebabdeeb8b89f5a,Aortic enlargement,0,R8,1134.0,720.0,1387.0,1065.0,1,/home/ubuntu/ductq/data/39095bfc67751891aebabdeeb8b89f5a.jpg
+600f30b4b9e4eab1d027065d4b0140fc,Cardiomegaly,3,R10,747.0,1381.0,1789.0,1755.0,1,/home/ubuntu/ductq/data/600f30b4b9e4eab1d027065d4b0140fc.jpg
+4c02da7cd2dc7415b226103114e5aaf0,Pulmonary fibrosis,13,R9,615.0,891.0,853.0,1147.0,1,/home/ubuntu/ductq/data/4c02da7cd2dc7415b226103114e5aaf0.jpg
+3368f56c5e66bc4f6111b5cf5d701f30,Aortic enlargement,0,R9,1007.0,648.0,1260.0,953.0,1,/home/ubuntu/ductq/data/3368f56c5e66bc4f6111b5cf5d701f30.jpg
+cbc971fb918adb51914a165519ba121a,Pleural thickening,11,R8,153.0,2202.0,278.0,2381.0,1,/home/ubuntu/ductq/data/cbc971fb918adb51914a165519ba121a.jpg
+c5c36ce7f8adbd045bfe59a325eeae47,Aortic enlargement,0,R8,1333.0,757.0,1606.0,1118.0,1,/home/ubuntu/ductq/data/c5c36ce7f8adbd045bfe59a325eeae47.jpg
+6993fe34fd90adcbbfe75229f5e22306,Aortic enlargement,0,R8,1337.0,761.0,1628.0,1119.0,1,/home/ubuntu/ductq/data/6993fe34fd90adcbbfe75229f5e22306.jpg
+95b5b6f29ba51deea4fe7a8848a1b250,Aortic enlargement,0,R10,1082.0,854.0,1387.0,1221.0,1,/home/ubuntu/ductq/data/95b5b6f29ba51deea4fe7a8848a1b250.jpg
+7ac7db2d39f2342de386188e72cd0a72,Aortic enlargement,0,R9,1219.0,819.0,1550.0,1122.0,1,/home/ubuntu/ductq/data/7ac7db2d39f2342de386188e72cd0a72.jpg
+2bac12b65fe143e0d0a4b56b320782e8,Pleural effusion,10,R8,985.0,161.0,1657.0,1529.0,1,/home/ubuntu/ductq/data/2bac12b65fe143e0d0a4b56b320782e8.jpg
+a76703a9a5a6459ca0c4ba8407403bc0,Pleural thickening,11,R8,1521.0,433.0,1739.0,484.0,1,/home/ubuntu/ductq/data/a76703a9a5a6459ca0c4ba8407403bc0.jpg
+c156a4adc33cd20a2ad75a07ff245b09,Aortic enlargement,0,R8,1207.0,724.0,1481.0,1005.0,1,/home/ubuntu/ductq/data/c156a4adc33cd20a2ad75a07ff245b09.jpg
+a786432eef4d2c8117ae53da8648cbce,Cardiomegaly,3,R9,803.0,1347.0,1899.0,1700.0,1,/home/ubuntu/ductq/data/a786432eef4d2c8117ae53da8648cbce.jpg
+3abc9bc2967d1891119ae82511e479b3,Aortic enlargement,0,R10,1549.0,916.0,1829.0,1164.0,1,/home/ubuntu/ductq/data/3abc9bc2967d1891119ae82511e479b3.jpg
+7486840374f87cde690928d1b33aa97c,Pulmonary fibrosis,13,R10,1689.0,1167.0,1876.0,1263.0,1,/home/ubuntu/ductq/data/7486840374f87cde690928d1b33aa97c.jpg
+8e5f9d775ab631aca970ca98d32946dc,Pulmonary fibrosis,13,R10,586.0,1077.0,812.0,1360.0,1,/home/ubuntu/ductq/data/8e5f9d775ab631aca970ca98d32946dc.jpg
+b22bd21cfb3258bad7d934f036c34b5b,Infiltration,6,R8,479.0,1371.0,1094.0,2096.0,1,/home/ubuntu/ductq/data/b22bd21cfb3258bad7d934f036c34b5b.jpg
+aa0a24df022cd97cc1dff4f7ea2131cc,Aortic enlargement,0,R10,1415.0,1117.0,1745.0,1394.0,1,/home/ubuntu/ductq/data/aa0a24df022cd97cc1dff4f7ea2131cc.jpg
+a1375f9466915186308ef31e0766db3f,Other lesion,9,R16,1019.0,526.0,1464.0,1709.0,1,/home/ubuntu/ductq/data/a1375f9466915186308ef31e0766db3f.jpg
+c201c69926e59f0c1dfeeeb8365ff05a,Nodule/Mass,8,R12,295.0,518.0,869.0,1097.0,1,/home/ubuntu/ductq/data/c201c69926e59f0c1dfeeeb8365ff05a.jpg
+b63468d09854f322d5e371915e5591d0,Cardiomegaly,3,R8,625.0,1097.0,1575.0,1410.0,1,/home/ubuntu/ductq/data/b63468d09854f322d5e371915e5591d0.jpg
+5a80ba9453fa7f5833b04190e6f7dbf5,Other lesion,9,R9,685.0,954.0,761.0,1044.0,1,/home/ubuntu/ductq/data/5a80ba9453fa7f5833b04190e6f7dbf5.jpg
+04bb8bd7ee6f88a16623fe5c6dd4da91,Pleural effusion,10,R10,655.0,1188.0,1354.0,2049.0,1,/home/ubuntu/ductq/data/04bb8bd7ee6f88a16623fe5c6dd4da91.jpg
+67635e3e25dcca671541a531ca2b4d0e,Aortic enlargement,0,R8,1660.0,704.0,1969.0,1121.0,1,/home/ubuntu/ductq/data/67635e3e25dcca671541a531ca2b4d0e.jpg
+68fcd04c343c408db5acce03b38c2e1e,Cardiomegaly,3,R8,681.0,1464.0,1761.0,1832.0,1,/home/ubuntu/ductq/data/68fcd04c343c408db5acce03b38c2e1e.jpg
+c2c54eed2dd73e20ef0e5af5a4aa1feb,Pulmonary fibrosis,13,R10,515.0,1501.0,731.0,1627.0,1,/home/ubuntu/ductq/data/c2c54eed2dd73e20ef0e5af5a4aa1feb.jpg
+952b065c0aac9ab20a9bcc051987a00f,Lung Opacity,7,R9,1587.0,1557.0,1839.0,1847.0,1,/home/ubuntu/ductq/data/952b065c0aac9ab20a9bcc051987a00f.jpg
+7c53cf2eb4f08dbc905b85f144f96b45,Infiltration,6,R8,856.0,544.0,1146.0,792.0,1,/home/ubuntu/ductq/data/7c53cf2eb4f08dbc905b85f144f96b45.jpg
+6e3dce43de58cedd6cca477f98b6c94f,Cardiomegaly,3,R8,804.0,1376.0,1690.0,1876.0,1,/home/ubuntu/ductq/data/6e3dce43de58cedd6cca477f98b6c94f.jpg
+5e90e76ac63c847409ad08821c7d5937,Aortic enlargement,0,R9,1364.0,877.0,1658.0,1174.0,1,/home/ubuntu/ductq/data/5e90e76ac63c847409ad08821c7d5937.jpg
+12268c1ea761140eafee75acabc44fb0,Aortic enlargement,0,R8,1341.0,493.0,1631.0,918.0,1,/home/ubuntu/ductq/data/12268c1ea761140eafee75acabc44fb0.jpg
+8ac12a69ad57ca73535e04b6cfba5edb,Pleural thickening,11,R9,2496.0,2275.0,2615.0,2494.0,1,/home/ubuntu/ductq/data/8ac12a69ad57ca73535e04b6cfba5edb.jpg
+d7509ae432cae9e7062e1e78582e64d5,Aortic enlargement,0,R10,961.0,775.0,1220.0,1009.0,1,/home/ubuntu/ductq/data/d7509ae432cae9e7062e1e78582e64d5.jpg
+cad7f3b0b26e674d67eb5a735c0a9bbe,Pleural effusion,10,R9,269.0,1698.0,368.0,1932.0,1,/home/ubuntu/ductq/data/cad7f3b0b26e674d67eb5a735c0a9bbe.jpg
+8cfb544c8ae38f85d48916e5db86c601,Cardiomegaly,3,R9,1016.0,1299.0,2052.0,1649.0,1,/home/ubuntu/ductq/data/8cfb544c8ae38f85d48916e5db86c601.jpg
+9340b8c8362e2734af5bf9edecf6efac,Pleural thickening,11,R8,1283.0,464.0,1688.0,622.0,1,/home/ubuntu/ductq/data/9340b8c8362e2734af5bf9edecf6efac.jpg
+4230309aa0f542050321fe2be02554d7,Aortic enlargement,0,R8,1133.0,451.0,1362.0,680.0,1,/home/ubuntu/ductq/data/4230309aa0f542050321fe2be02554d7.jpg
+4bd2c3d9e7b1e62d3b55d858b5dca1a0,Pleural thickening,11,R8,255.0,517.0,725.0,1254.0,1,/home/ubuntu/ductq/data/4bd2c3d9e7b1e62d3b55d858b5dca1a0.jpg
+51252d90beb12e47b0684e8673080ee0,Other lesion,9,R10,2745.0,643.0,2973.0,847.0,1,/home/ubuntu/ductq/data/51252d90beb12e47b0684e8673080ee0.jpg
+14f8770d112738119f0f31ee75e8fc41,Other lesion,9,R9,1522.0,1839.0,2169.0,2047.0,1,/home/ubuntu/ductq/data/14f8770d112738119f0f31ee75e8fc41.jpg
+d8220f2e082dae72b6db9b8a86637695,Aortic enlargement,0,R16,1513.0,795.0,1812.0,1131.0,1,/home/ubuntu/ductq/data/d8220f2e082dae72b6db9b8a86637695.jpg
+609eb619fc23177db779067b5cc816a7,Cardiomegaly,3,R9,1004.0,1689.0,2199.0,2317.0,1,/home/ubuntu/ductq/data/609eb619fc23177db779067b5cc816a7.jpg
+4e8ff7aae833d90a392038e0469a580b,Cardiomegaly,3,R8,871.0,1367.0,2073.0,1764.0,1,/home/ubuntu/ductq/data/4e8ff7aae833d90a392038e0469a580b.jpg
+d9ca6a56d878b6c9f46571e35afb725d,Aortic enlargement,0,R8,1003.0,699.0,1211.0,958.0,1,/home/ubuntu/ductq/data/d9ca6a56d878b6c9f46571e35afb725d.jpg
+eaacad7a533d8c301172386cefc0b0f8,Aortic enlargement,0,R9,1466.0,634.0,1798.0,966.0,1,/home/ubuntu/ductq/data/eaacad7a533d8c301172386cefc0b0f8.jpg
+7a99127d0a0c6a00aad2115a6ff9e653,Pleural effusion,10,R8,180.0,497.0,1144.0,2437.0,1,/home/ubuntu/ductq/data/7a99127d0a0c6a00aad2115a6ff9e653.jpg
+c25a87784e4a9dd01911f626cbd1faeb,Aortic enlargement,0,R8,1251.0,860.0,1585.0,1268.0,1,/home/ubuntu/ductq/data/c25a87784e4a9dd01911f626cbd1faeb.jpg
+103fb193578933a2d53ae31ff0fc3319,Aortic enlargement,0,R8,1104.0,876.0,1367.0,1181.0,1,/home/ubuntu/ductq/data/103fb193578933a2d53ae31ff0fc3319.jpg
+b5632581be1d7da89d9d01a9983c4afa,Pleural thickening,11,R9,790.0,413.0,1128.0,539.0,1,/home/ubuntu/ductq/data/b5632581be1d7da89d9d01a9983c4afa.jpg
+a93d6d3861a432fd2d85d8b41448daf4,Cardiomegaly,3,R8,1150.0,1977.0,2229.0,2334.0,1,/home/ubuntu/ductq/data/a93d6d3861a432fd2d85d8b41448daf4.jpg
+9a321e5a866cee9e943cf5f3684de512,Pulmonary fibrosis,13,R9,1173.0,1376.0,1308.0,1569.0,1,/home/ubuntu/ductq/data/9a321e5a866cee9e943cf5f3684de512.jpg
+394138b182cad5c9af7cac9bd1649a24,Infiltration,6,R9,1423.0,1255.0,1702.0,1531.0,1,/home/ubuntu/ductq/data/394138b182cad5c9af7cac9bd1649a24.jpg
+89e503ac5a54714d03b313b1a6fac252,Pulmonary fibrosis,13,R10,2051.0,1494.0,2333.0,1627.0,1,/home/ubuntu/ductq/data/89e503ac5a54714d03b313b1a6fac252.jpg
+1516651227a420f879b4cea1500ee7db,Cardiomegaly,3,R9,839.0,1448.0,1890.0,1825.0,1,/home/ubuntu/ductq/data/1516651227a420f879b4cea1500ee7db.jpg
+0007d316f756b3fa0baea2ff514ce945,Pulmonary fibrosis,13,R9,1392.0,702.0,1518.0,790.0,1,/home/ubuntu/ductq/data/0007d316f756b3fa0baea2ff514ce945.jpg
+9a2d123a36eea730440d44f430ad2951,Cardiomegaly,3,R8,754.0,1262.0,1784.0,1727.0,1,/home/ubuntu/ductq/data/9a2d123a36eea730440d44f430ad2951.jpg
+153da4dfa81a43cdf1176f7859a567e5,Cardiomegaly,3,R9,964.0,1760.0,2200.0,2170.0,1,/home/ubuntu/ductq/data/153da4dfa81a43cdf1176f7859a567e5.jpg
+db458f41a65184d55c82cdbee65ed10b,Pleural thickening,11,R9,53.0,1985.0,193.0,2221.0,1,/home/ubuntu/ductq/data/db458f41a65184d55c82cdbee65ed10b.jpg
+7519a77c0a9036cf63d56d53f708965a,Cardiomegaly,3,R9,584.0,1270.0,1441.0,1532.0,1,/home/ubuntu/ductq/data/7519a77c0a9036cf63d56d53f708965a.jpg
+db1942c4b69ecc90ff870f987b7c5284,Cardiomegaly,3,R10,912.0,1123.0,1724.0,1364.0,1,/home/ubuntu/ductq/data/db1942c4b69ecc90ff870f987b7c5284.jpg
+41fb428a3813d4efe0f1031d9bff16df,Aortic enlargement,0,R9,1067.0,853.0,1386.0,1143.0,1,/home/ubuntu/ductq/data/41fb428a3813d4efe0f1031d9bff16df.jpg
+0464251a01ee7eeedd2a537dafc82844,Cardiomegaly,3,R10,827.0,1737.0,2172.0,2329.0,1,/home/ubuntu/ductq/data/0464251a01ee7eeedd2a537dafc82844.jpg
+48c44319fb3ad32555821ee0c74e6719,ILD,5,R8,151.0,760.0,827.0,2080.0,1,/home/ubuntu/ductq/data/48c44319fb3ad32555821ee0c74e6719.jpg
+62643c38a525c1223f3a836af96f220d,Aortic enlargement,0,R10,1153.0,824.0,1343.0,1084.0,1,/home/ubuntu/ductq/data/62643c38a525c1223f3a836af96f220d.jpg
+c53c9441ef4e5df63d8dfb34a983900e,Cardiomegaly,3,R10,851.0,1482.0,2134.0,1872.0,1,/home/ubuntu/ductq/data/c53c9441ef4e5df63d8dfb34a983900e.jpg
+a722712967b38150cee4f85dad4230ed,Pulmonary fibrosis,13,R10,497.0,789.0,680.0,916.0,1,/home/ubuntu/ductq/data/a722712967b38150cee4f85dad4230ed.jpg
+d0ea942db524a895c4bc433e03c3cd3a,Pleural thickening,11,R9,538.0,460.0,978.0,619.0,1,/home/ubuntu/ductq/data/d0ea942db524a895c4bc433e03c3cd3a.jpg
+f2c0995bf613672b13eb82ee09b1547b,Pulmonary fibrosis,13,R9,496.0,120.0,944.0,526.0,1,/home/ubuntu/ductq/data/f2c0995bf613672b13eb82ee09b1547b.jpg
+018ef9c5d5b20c5161a5c48703171c3b,Pleural thickening,11,R10,665.0,310.0,848.0,398.0,1,/home/ubuntu/ductq/data/018ef9c5d5b20c5161a5c48703171c3b.jpg
+21ab6bc8c66330a258b3513c2ab738fd,Aortic enlargement,0,R9,1330.0,710.0,1586.0,982.0,1,/home/ubuntu/ductq/data/21ab6bc8c66330a258b3513c2ab738fd.jpg
+c4f7b110380be6bee542f5c26c78f36d,ILD,5,R16,188.0,320.0,771.0,2027.0,1,/home/ubuntu/ductq/data/c4f7b110380be6bee542f5c26c78f36d.jpg
+bd3fe876153eeddad8bab49b129ea081,Consolidation,4,R9,1472.0,1526.0,1992.0,2215.0,1,/home/ubuntu/ductq/data/bd3fe876153eeddad8bab49b129ea081.jpg
+4db4ecf3e2d32c92cf3f10c7b1643a5b,Lung Opacity,7,R9,476.0,1437.0,928.0,1636.0,1,/home/ubuntu/ductq/data/4db4ecf3e2d32c92cf3f10c7b1643a5b.jpg
+4e3a3b03cf00a9060ac139f57843a241,Lung Opacity,7,R10,1782.0,828.0,2388.0,1683.0,1,/home/ubuntu/ductq/data/4e3a3b03cf00a9060ac139f57843a241.jpg
+1fec989e95cea875cef982129f8e9097,Calcification,2,R9,698.0,1451.0,805.0,1620.0,1,/home/ubuntu/ductq/data/1fec989e95cea875cef982129f8e9097.jpg
+de6e41835b9455151e4e6bed43e31244,Cardiomegaly,3,R9,761.0,1769.0,1788.0,2064.0,1,/home/ubuntu/ductq/data/de6e41835b9455151e4e6bed43e31244.jpg
+8111591b7fea74653fbd7e935a74cf36,Pleural effusion,10,R10,1516.0,425.0,2458.0,2433.0,1,/home/ubuntu/ductq/data/8111591b7fea74653fbd7e935a74cf36.jpg
+a1df46be5ace1fcd65a304d44f83a1a6,ILD,5,R2,341.0,1207.0,1058.0,1739.0,1,/home/ubuntu/ductq/data/a1df46be5ace1fcd65a304d44f83a1a6.jpg
+e034d4e19f562e61b29533f222ec9600,Pleural thickening,11,R10,686.0,454.0,1251.0,703.0,1,/home/ubuntu/ductq/data/e034d4e19f562e61b29533f222ec9600.jpg
+6dd1a29dcafeb9545da50d85324bb781,Other lesion,9,R9,1081.0,380.0,1237.0,563.0,1,/home/ubuntu/ductq/data/6dd1a29dcafeb9545da50d85324bb781.jpg
+7ffe83778375bb8229b12c2ad4570c0e,Pleural thickening,11,R9,424.0,440.0,712.0,598.0,1,/home/ubuntu/ductq/data/7ffe83778375bb8229b12c2ad4570c0e.jpg
+285cdfec4d725d327266833adf3ba9d5,Aortic enlargement,0,R10,1418.0,529.0,1713.0,905.0,1,/home/ubuntu/ductq/data/285cdfec4d725d327266833adf3ba9d5.jpg
+9e15afcba3bac18db3bb491b546792d4,Cardiomegaly,3,R10,1326.0,1318.0,2233.0,1566.0,1,/home/ubuntu/ductq/data/9e15afcba3bac18db3bb491b546792d4.jpg
+424c14b6f0a526ca2e8b4e9be9f70e03,Pulmonary fibrosis,13,R10,1625.0,875.0,1793.0,958.0,1,/home/ubuntu/ductq/data/424c14b6f0a526ca2e8b4e9be9f70e03.jpg
+5de91fab780d937e6cba46c4e807bb12,Atelectasis,1,R8,1519.0,449.0,2183.0,864.0,1,/home/ubuntu/ductq/data/5de91fab780d937e6cba46c4e807bb12.jpg
+ab92572887da3377ccc7d68f10407b5d,Aortic enlargement,0,R9,1139.0,748.0,1779.0,1206.0,1,/home/ubuntu/ductq/data/ab92572887da3377ccc7d68f10407b5d.jpg
+ac07b01154a498c1e5bec041f620fa96,Aortic enlargement,0,R9,1008.0,604.0,1235.0,835.0,1,/home/ubuntu/ductq/data/ac07b01154a498c1e5bec041f620fa96.jpg
+1f68a73472d32146d1cbe3bcd9355337,Pleural effusion,10,R10,294.0,343.0,1266.0,2163.0,1,/home/ubuntu/ductq/data/1f68a73472d32146d1cbe3bcd9355337.jpg
+1be94a4e06067c5ecd66488cad60a087,Aortic enlargement,0,R10,1246.0,639.0,1751.0,1166.0,1,/home/ubuntu/ductq/data/1be94a4e06067c5ecd66488cad60a087.jpg
+60679b51d403a3a1fc020a0a86fedd8d,Cardiomegaly,3,R14,1001.0,1453.0,2198.0,2066.0,1,/home/ubuntu/ductq/data/60679b51d403a3a1fc020a0a86fedd8d.jpg
+0e88612bd294e249382b9e64d222cdf4,Pulmonary fibrosis,13,R10,1998.0,543.0,2328.0,969.0,1,/home/ubuntu/ductq/data/0e88612bd294e249382b9e64d222cdf4.jpg
+4ddc546539907c6884564c6711e6e8f6,Aortic enlargement,0,R10,969.0,458.0,1270.0,701.0,1,/home/ubuntu/ductq/data/4ddc546539907c6884564c6711e6e8f6.jpg
+9da65d59721d58bd125a4fc94b6ffec6,Aortic enlargement,0,R8,1248.0,754.0,1488.0,1024.0,1,/home/ubuntu/ductq/data/9da65d59721d58bd125a4fc94b6ffec6.jpg
+a31e14af6336413d69a6920a6c04fc20,Cardiomegaly,3,R8,858.0,1193.0,2042.0,1781.0,1,/home/ubuntu/ductq/data/a31e14af6336413d69a6920a6c04fc20.jpg
+543278633eea00a31aa950d65ad504c3,Cardiomegaly,3,R10,718.0,1668.0,1728.0,1881.0,1,/home/ubuntu/ductq/data/543278633eea00a31aa950d65ad504c3.jpg
+b2506496d79b479a6b1427288235190c,Pneumothorax,12,R8,1281.0,752.0,1898.0,1327.0,1,/home/ubuntu/ductq/data/b2506496d79b479a6b1427288235190c.jpg
+ea97fdc2b0bf64e712a784849efbab79,Lung Opacity,7,R8,1616.0,1134.0,2032.0,1599.0,1,/home/ubuntu/ductq/data/ea97fdc2b0bf64e712a784849efbab79.jpg
+330b3939ea1fe042ad347e8d02abc393,Cardiomegaly,3,R10,780.0,1528.0,1719.0,1960.0,1,/home/ubuntu/ductq/data/330b3939ea1fe042ad347e8d02abc393.jpg
+8b1beee6ae2a00d5a98483e50c7ac0f2,Aortic enlargement,0,R10,1007.0,850.0,1235.0,1099.0,1,/home/ubuntu/ductq/data/8b1beee6ae2a00d5a98483e50c7ac0f2.jpg
+7705b3f3b2a3a2de67e579119f53466e,Pleural effusion,10,R9,531.0,1096.0,1209.0,1780.0,1,/home/ubuntu/ductq/data/7705b3f3b2a3a2de67e579119f53466e.jpg
+f7cca0874f0a8fdfdcb8952ec15c2e24,Pulmonary fibrosis,13,R10,1796.0,454.0,2010.0,982.0,1,/home/ubuntu/ductq/data/f7cca0874f0a8fdfdcb8952ec15c2e24.jpg
+609aa57eca1fce9afb86a341b7b560fc,Aortic enlargement,0,R9,1016.0,727.0,1812.0,1304.0,1,/home/ubuntu/ductq/data/609aa57eca1fce9afb86a341b7b560fc.jpg
+7944aab8e3c02270d273b8b65fad7305,Aortic enlargement,0,R10,1224.0,668.0,1628.0,1117.0,1,/home/ubuntu/ductq/data/7944aab8e3c02270d273b8b65fad7305.jpg
+4f3f5460ae80ab6ec1bf00b33087a828,Aortic enlargement,0,R8,1228.0,797.0,1634.0,1307.0,1,/home/ubuntu/ductq/data/4f3f5460ae80ab6ec1bf00b33087a828.jpg
+6747991aa8970e35ec44fe90b309d627,Lung Opacity,7,R9,358.0,1654.0,939.0,1855.0,1,/home/ubuntu/ductq/data/6747991aa8970e35ec44fe90b309d627.jpg
+93abddc3fe8d832eac4e48ef666437cd,Cardiomegaly,3,R8,958.0,1389.0,2122.0,1849.0,1,/home/ubuntu/ductq/data/93abddc3fe8d832eac4e48ef666437cd.jpg
+2998cdc708e79055543eb95842261f57,ILD,5,R13,1708.0,1132.0,2105.0,1509.0,1,/home/ubuntu/ductq/data/2998cdc708e79055543eb95842261f57.jpg
+a31fef91832012791b0a749471e37159,Aortic enlargement,0,R8,1033.0,956.0,1264.0,1238.0,1,/home/ubuntu/ductq/data/a31fef91832012791b0a749471e37159.jpg
+a629d0f2bd9dfde3991ef4aec75e1c8e,Other lesion,9,R9,2109.0,2174.0,2262.0,2317.0,1,/home/ubuntu/ductq/data/a629d0f2bd9dfde3991ef4aec75e1c8e.jpg
+c47b49c8a45e467ea86c02d53936b39b,Cardiomegaly,3,R9,1296.0,1359.0,2419.0,1773.0,1,/home/ubuntu/ductq/data/c47b49c8a45e467ea86c02d53936b39b.jpg
+985aa6789515f5ad438d2384ed52cda9,Pleural effusion,10,R9,404.0,2446.0,504.0,2632.0,1,/home/ubuntu/ductq/data/985aa6789515f5ad438d2384ed52cda9.jpg
+6b6f79dad019a4dee92fa35456f75a48,Other lesion,9,R8,803.0,456.0,981.0,775.0,1,/home/ubuntu/ductq/data/6b6f79dad019a4dee92fa35456f75a48.jpg
+3623eea22ab15bd3cc7901e3c00695de,Pulmonary fibrosis,13,R9,521.0,1519.0,958.0,1965.0,1,/home/ubuntu/ductq/data/3623eea22ab15bd3cc7901e3c00695de.jpg
+53be245b32ccb6e9cfd1bee68969fcd5,Other lesion,9,R8,983.0,780.0,1120.0,983.0,1,/home/ubuntu/ductq/data/53be245b32ccb6e9cfd1bee68969fcd5.jpg
+d45c88116610fd72a56688d29bf2771d,Pulmonary fibrosis,13,R9,698.0,1464.0,860.0,1661.0,1,/home/ubuntu/ductq/data/d45c88116610fd72a56688d29bf2771d.jpg
+ed89af5c7c30f2c96b4cd8a5402748ae,Aortic enlargement,0,R9,1575.0,765.0,1907.0,1260.0,1,/home/ubuntu/ductq/data/ed89af5c7c30f2c96b4cd8a5402748ae.jpg
+76f84c8d0216ec44b47059fa80049995,Pleural effusion,10,R10,193.0,441.0,900.0,1982.0,1,/home/ubuntu/ductq/data/76f84c8d0216ec44b47059fa80049995.jpg
+178fec733e92dffa7bdf5b6a0b0d54b7,Pleural thickening,11,R9,1602.0,399.0,1777.0,457.0,1,/home/ubuntu/ductq/data/178fec733e92dffa7bdf5b6a0b0d54b7.jpg
+f40c08b38fce6f2b77c6019d34521357,Aortic enlargement,0,R8,992.0,730.0,1273.0,1023.0,1,/home/ubuntu/ductq/data/f40c08b38fce6f2b77c6019d34521357.jpg
+ba68c12f2141bba79d9c29322c2c295a,Pleural thickening,11,R8,1088.0,683.0,1489.0,769.0,1,/home/ubuntu/ductq/data/ba68c12f2141bba79d9c29322c2c295a.jpg
+53f8a8327590a490890d3d2acfb08dea,Pleural thickening,11,R8,724.0,541.0,970.0,737.0,1,/home/ubuntu/ductq/data/53f8a8327590a490890d3d2acfb08dea.jpg
+dafe6d3ffe818409176b801fc4798881,Cardiomegaly,3,R10,899.0,1440.0,1916.0,1942.0,1,/home/ubuntu/ductq/data/dafe6d3ffe818409176b801fc4798881.jpg
+66e2d822ac451ea21fcfa3182c56a651,Lung Opacity,7,R9,1579.0,1069.0,2133.0,1623.0,1,/home/ubuntu/ductq/data/66e2d822ac451ea21fcfa3182c56a651.jpg
+eae9d1efd139bba5e4acbb3333eff429,Aortic enlargement,0,R10,1439.0,656.0,1709.0,984.0,1,/home/ubuntu/ductq/data/eae9d1efd139bba5e4acbb3333eff429.jpg
+af4f5a12b32b5d76951f3994cd7e9ad6,Pulmonary fibrosis,13,R10,329.0,669.0,870.0,1404.0,1,/home/ubuntu/ductq/data/af4f5a12b32b5d76951f3994cd7e9ad6.jpg
+41ebb4e4b4434bb495434e6a4026c9d7,Pleural thickening,11,R10,2488.0,2140.0,2637.0,2320.0,1,/home/ubuntu/ductq/data/41ebb4e4b4434bb495434e6a4026c9d7.jpg
+9b9f47628be6a48ddb41aec8ba39b454,Pleural effusion,10,R10,1909.0,1696.0,2026.0,1933.0,1,/home/ubuntu/ductq/data/9b9f47628be6a48ddb41aec8ba39b454.jpg
+273a53879b3ba9afa3d6d1e3aea0a453,ILD,5,R9,480.0,1127.0,963.0,2394.0,1,/home/ubuntu/ductq/data/273a53879b3ba9afa3d6d1e3aea0a453.jpg
+d45374a1b323c34b8418b36b819783e3,Lung Opacity,7,R9,2110.0,1760.0,2550.0,2175.0,1,/home/ubuntu/ductq/data/d45374a1b323c34b8418b36b819783e3.jpg
+e38bb22eeeb25ec645b19e81883b5759,Aortic enlargement,0,R8,1059.0,894.0,1370.0,1234.0,1,/home/ubuntu/ductq/data/e38bb22eeeb25ec645b19e81883b5759.jpg
+fd23b01b59784498154c9ee6b60dab4a,ILD,5,R8,284.0,1179.0,969.0,1891.0,1,/home/ubuntu/ductq/data/fd23b01b59784498154c9ee6b60dab4a.jpg
+7dbccd763c4ffbfd0d6b841fb5e4337a,Pleural thickening,11,R8,1794.0,414.0,2250.0,527.0,1,/home/ubuntu/ductq/data/7dbccd763c4ffbfd0d6b841fb5e4337a.jpg
+60fe9e6fc41b0e1f8be7b7b6b13db5cc,Pulmonary fibrosis,13,R9,763.0,477.0,1031.0,710.0,1,/home/ubuntu/ductq/data/60fe9e6fc41b0e1f8be7b7b6b13db5cc.jpg
+d16b67fee07971da41a3d08707ccd864,Cardiomegaly,3,R11,1362.0,1698.0,2557.0,2185.0,1,/home/ubuntu/ductq/data/d16b67fee07971da41a3d08707ccd864.jpg
+45fad4fe08460cf9aec10986ba13c582,Pulmonary fibrosis,13,R8,1901.0,504.0,2301.0,883.0,1,/home/ubuntu/ductq/data/45fad4fe08460cf9aec10986ba13c582.jpg
+90014bdac9592e29646c4c358275fdfc,Pulmonary fibrosis,13,R10,2037.0,971.0,2223.0,1387.0,1,/home/ubuntu/ductq/data/90014bdac9592e29646c4c358275fdfc.jpg
+b691366d6d838d521c053720ef950e54,Aortic enlargement,0,R9,1572.0,753.0,1860.0,1063.0,1,/home/ubuntu/ductq/data/b691366d6d838d521c053720ef950e54.jpg
+c50bb66530634bfac9d5487a607e8211,Pleural effusion,10,R10,1550.0,1330.0,1889.0,1834.0,1,/home/ubuntu/ductq/data/c50bb66530634bfac9d5487a607e8211.jpg
+9850d20ee4d2bf722154a90ae07ddff8,Pulmonary fibrosis,13,R13,1857.0,720.0,2407.0,1307.0,1,/home/ubuntu/ductq/data/9850d20ee4d2bf722154a90ae07ddff8.jpg
+50937a47ccac712f2dd7e750207c16ba,Pleural thickening,11,R8,1449.0,374.0,2100.0,601.0,1,/home/ubuntu/ductq/data/50937a47ccac712f2dd7e750207c16ba.jpg
+367134c4e20c2058bc154bfa25e22e98,Aortic enlargement,0,R9,1338.0,704.0,1722.0,1091.0,1,/home/ubuntu/ductq/data/367134c4e20c2058bc154bfa25e22e98.jpg
+a99a720cab88405baaf789e85ce20c45,Other lesion,9,R10,738.0,987.0,934.0,1323.0,1,/home/ubuntu/ductq/data/a99a720cab88405baaf789e85ce20c45.jpg
+e2441e5b3cbecdd27c65aea20353cc1d,Aortic enlargement,0,R15,1022.0,495.0,1924.0,1119.0,1,/home/ubuntu/ductq/data/e2441e5b3cbecdd27c65aea20353cc1d.jpg
+2b4d362bb4e5eb4c37b13b9eaa1ca079,Cardiomegaly,3,R10,856.0,1942.0,2109.0,2279.0,1,/home/ubuntu/ductq/data/2b4d362bb4e5eb4c37b13b9eaa1ca079.jpg
+2a335bf71ad32a097557e379b6113ce9,Cardiomegaly,3,R8,1180.0,1604.0,2248.0,1990.0,1,/home/ubuntu/ductq/data/2a335bf71ad32a097557e379b6113ce9.jpg
+8820320f9f26502110190b10d5321949,Other lesion,9,R10,332.0,774.0,474.0,905.0,1,/home/ubuntu/ductq/data/8820320f9f26502110190b10d5321949.jpg
+324c908cb345ed14be7a468a56f1ceba,Aortic enlargement,0,R9,891.0,704.0,1209.0,932.0,1,/home/ubuntu/ductq/data/324c908cb345ed14be7a468a56f1ceba.jpg
+fc217b20fc08dbe61924444274fb1c92,Cardiomegaly,3,R9,611.0,1305.0,1586.0,1663.0,1,/home/ubuntu/ductq/data/fc217b20fc08dbe61924444274fb1c92.jpg
+e0ad8549835ae5a3208c03ce618e79a0,Pulmonary fibrosis,13,R8,730.0,1142.0,905.0,1514.0,1,/home/ubuntu/ductq/data/e0ad8549835ae5a3208c03ce618e79a0.jpg
+43a9edf6cea5fec0b63f8a6d9e2a50d7,Pleural effusion,10,R9,2407.0,2439.0,2536.0,2729.0,1,/home/ubuntu/ductq/data/43a9edf6cea5fec0b63f8a6d9e2a50d7.jpg
+9071e5009f5db86b4c0dd0f6280b2c7a,Lung Opacity,7,R10,540.0,1123.0,905.0,1749.0,1,/home/ubuntu/ductq/data/9071e5009f5db86b4c0dd0f6280b2c7a.jpg
+84fdc0055fe587d2095ace6ad7ffc837,Cardiomegaly,3,R10,719.0,1069.0,1682.0,1404.0,1,/home/ubuntu/ductq/data/84fdc0055fe587d2095ace6ad7ffc837.jpg
+72a03107b8c5fffea70fb4d36ebeecb8,Pleural thickening,11,R9,238.0,1196.0,348.0,1469.0,1,/home/ubuntu/ductq/data/72a03107b8c5fffea70fb4d36ebeecb8.jpg
+e7375b4dfc336c7b166b688f72d86b34,Pleural effusion,10,R10,306.0,1416.0,448.0,1653.0,1,/home/ubuntu/ductq/data/e7375b4dfc336c7b166b688f72d86b34.jpg
+9df340dc63bb0f9c185f2d019cd533a8,Other lesion,9,R9,159.0,422.0,550.0,1209.0,1,/home/ubuntu/ductq/data/9df340dc63bb0f9c185f2d019cd533a8.jpg
+4849b3d33dee7a3644c2e5d8b69ebf47,Cardiomegaly,3,R9,736.0,1437.0,1676.0,1659.0,1,/home/ubuntu/ductq/data/4849b3d33dee7a3644c2e5d8b69ebf47.jpg
+3ff22a602b26d804863daaf6b7230d47,Aortic enlargement,0,R8,1148.0,754.0,1377.0,1068.0,1,/home/ubuntu/ductq/data/3ff22a602b26d804863daaf6b7230d47.jpg
+865a0a1a1781b55fa40887566aa9cd67,Infiltration,6,R9,1871.0,2031.0,2237.0,2458.0,1,/home/ubuntu/ductq/data/865a0a1a1781b55fa40887566aa9cd67.jpg
+62b135c34d01b4af10c39d65939d9d43,Infiltration,6,R10,400.0,1560.0,813.0,1763.0,1,/home/ubuntu/ductq/data/62b135c34d01b4af10c39d65939d9d43.jpg
+8bf59d2126095730fe534504609bcc9d,Aortic enlargement,0,R8,987.0,507.0,1241.0,825.0,1,/home/ubuntu/ductq/data/8bf59d2126095730fe534504609bcc9d.jpg
+f10143e3eb341eac01909c339a5cf01f,Aortic enlargement,0,R10,1333.0,876.0,1690.0,1242.0,1,/home/ubuntu/ductq/data/f10143e3eb341eac01909c339a5cf01f.jpg
+9d839a52c0fc61167a2f95ae6f7ee5ad,Cardiomegaly,3,R9,967.0,1553.0,2215.0,1891.0,1,/home/ubuntu/ductq/data/9d839a52c0fc61167a2f95ae6f7ee5ad.jpg
+703e3e8b33821c0b0553c5d534a5419f,Lung Opacity,7,R9,345.0,1673.0,929.0,2057.0,1,/home/ubuntu/ductq/data/703e3e8b33821c0b0553c5d534a5419f.jpg
+2b5b141ce31a62f9b997052a3ca73128,Cardiomegaly,3,R10,704.0,1223.0,1702.0,1553.0,1,/home/ubuntu/ductq/data/2b5b141ce31a62f9b997052a3ca73128.jpg
+c184ac40eb6c1713f28f34582f768c5d,Infiltration,6,R9,587.0,748.0,1351.0,1246.0,1,/home/ubuntu/ductq/data/c184ac40eb6c1713f28f34582f768c5d.jpg
+d926d49104e258332d45e8afb02dd575,Pleural thickening,11,R9,1241.0,403.0,1459.0,465.0,1,/home/ubuntu/ductq/data/d926d49104e258332d45e8afb02dd575.jpg
+352ab0683046ce107942e9e477007b72,Lung Opacity,7,R10,593.0,855.0,945.0,1147.0,1,/home/ubuntu/ductq/data/352ab0683046ce107942e9e477007b72.jpg
+33c856f133a5a726ffc26fe36d451518,Pleural thickening,11,R9,2195.0,678.0,2454.0,875.0,1,/home/ubuntu/ductq/data/33c856f133a5a726ffc26fe36d451518.jpg
+26be9cde1a3d1a38f19c6753cc9ed40d,Cardiomegaly,3,R9,821.0,1412.0,1678.0,1821.0,1,/home/ubuntu/ductq/data/26be9cde1a3d1a38f19c6753cc9ed40d.jpg
+38791e51fbea01ae3935f311e8878f1c,Infiltration,6,R10,1923.0,1250.0,2222.0,1380.0,1,/home/ubuntu/ductq/data/38791e51fbea01ae3935f311e8878f1c.jpg
+bbc8cca2bda1c6bc5b66715a12830d78,Lung Opacity,7,R10,643.0,666.0,891.0,1084.0,1,/home/ubuntu/ductq/data/bbc8cca2bda1c6bc5b66715a12830d78.jpg
+6fb55d54b54b05b50913b456d1b5d0cc,Lung Opacity,7,R10,363.0,1069.0,786.0,1397.0,1,/home/ubuntu/ductq/data/6fb55d54b54b05b50913b456d1b5d0cc.jpg
+86dbe6128679f9c5752c1c82d040caa2,Aortic enlargement,0,R8,1738.0,631.0,1975.0,913.0,1,/home/ubuntu/ductq/data/86dbe6128679f9c5752c1c82d040caa2.jpg
+f908ceca3f24d487d583b5530b127013,Lung Opacity,7,R9,1949.0,1787.0,2197.0,2249.0,1,/home/ubuntu/ductq/data/f908ceca3f24d487d583b5530b127013.jpg
+daa2bf07bac956d6742ac7fda965cf99,Cardiomegaly,3,R10,667.0,1344.0,1555.0,1536.0,1,/home/ubuntu/ductq/data/daa2bf07bac956d6742ac7fda965cf99.jpg
+56dac092c516acffda2ffac85f90e9cc,Consolidation,4,R8,1954.0,1549.0,2411.0,1952.0,1,/home/ubuntu/ductq/data/56dac092c516acffda2ffac85f90e9cc.jpg
+b23ee0544bba6ed7301111820f8de415,Other lesion,9,R8,2063.0,606.0,2399.0,1072.0,1,/home/ubuntu/ductq/data/b23ee0544bba6ed7301111820f8de415.jpg
+84eb3e8b282f648bbc43c356f058f24e,Other lesion,9,R13,1259.0,449.0,1707.0,1630.0,1,/home/ubuntu/ductq/data/84eb3e8b282f648bbc43c356f058f24e.jpg
+c00a2b726b1d7854efc73ef3611c7591,Calcification,2,R8,589.0,477.0,784.0,722.0,1,/home/ubuntu/ductq/data/c00a2b726b1d7854efc73ef3611c7591.jpg
+412c4d81ec9510492343169ea6fc6a68,Lung Opacity,7,R9,848.0,1088.0,1114.0,1717.0,1,/home/ubuntu/ductq/data/412c4d81ec9510492343169ea6fc6a68.jpg
+c80fe973b34b764cf37e43efb755c0b8,Aortic enlargement,0,R9,1486.0,818.0,1804.0,1141.0,1,/home/ubuntu/ductq/data/c80fe973b34b764cf37e43efb755c0b8.jpg
+6452a9e9489dadc789cb44af7d3dadab,Aortic enlargement,0,R10,1136.0,890.0,1367.0,1078.0,1,/home/ubuntu/ductq/data/6452a9e9489dadc789cb44af7d3dadab.jpg
+6f9c69586ff53e488b23e7bb6b0556c5,Pulmonary fibrosis,13,R10,1706.0,1472.0,1919.0,1510.0,1,/home/ubuntu/ductq/data/6f9c69586ff53e488b23e7bb6b0556c5.jpg
+e4a528876744e3a37158645935028c57,ILD,5,R16,171.0,1896.0,743.0,2106.0,1,/home/ubuntu/ductq/data/e4a528876744e3a37158645935028c57.jpg
+c4c1ef63bd568c89beb4ae3ab9eeb1bb,Pleural effusion,10,R10,1128.0,324.0,1987.0,1923.0,1,/home/ubuntu/ductq/data/c4c1ef63bd568c89beb4ae3ab9eeb1bb.jpg
+b482f72073e73cea73cc82ea02b353da,Aortic enlargement,0,R8,1383.0,929.0,1675.0,1330.0,1,/home/ubuntu/ductq/data/b482f72073e73cea73cc82ea02b353da.jpg

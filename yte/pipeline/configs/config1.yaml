@@ -1,0 +1,26 @@
+data:
+  voi_lut: True
+  fix_monochrome: True
+  shape: 512
+
+
+classification:
+  model:
+    name: tf_efficientnet_b0
+    classes: 1
+    path: /home/ubuntu/ductq/yte/results/ckpt/v5/last.ckpt
+  
+  predict:
+    threshold: 0.7
+
+
+detection:
+  model:
+    name: yolov11s
+    class: 2
+    path: /home/ubuntu/ductq/yte/runs/detect/train/weights/last.pt
+
+  predict:
+    conf: 0.5
+    iou: 0.6
+

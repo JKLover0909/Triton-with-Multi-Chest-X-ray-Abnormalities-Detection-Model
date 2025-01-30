@@ -1,0 +1,19 @@
+platform: "onnxruntime_onnx"
+max_batch_size: 0
+input [
+{
+  name: "images"
+  data_type: TYPE_FP32
+  dims: [ 1,3,512,512 ]
+}
+]
+
+
+output [
+{
+  name: "output1"
+  data_type: TYPE_FP32
+  dims: [1,6,5376]
+}
+] 
+# 4(coordinate) + num_classes  

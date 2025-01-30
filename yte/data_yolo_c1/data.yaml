@@ -1,0 +1,9 @@
+path: /home/ubuntu/ductq/data_yolo_c1 # dataset root dir
+train: images/train # train images (relative to 'path') 4 images
+val: images/val # val images (relative to 'path') 4 images
+test: # test images (optional)
+
+# Classes (80 COCO classes)
+names:
+    0: Pleural thickening
+    1: Pulmonary fibrosis

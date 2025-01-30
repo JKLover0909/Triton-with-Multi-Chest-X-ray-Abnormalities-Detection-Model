@@ -1,0 +1,7 @@
+path: //home/ubuntu/ductq/yte2/train/data_yolo # dataset root dir
+train: images/train # train images 
+val: images/val # val images 
+test: # test images (optional)
+
+names:
+    0: Finding

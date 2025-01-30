@@ -1,0 +1,816 @@
+Unnamed: 0,image_id,class_name,class_id,box,new_class,image_path
+5,0007d316f756b3fa0baea2ff514ce945,Cardiomegaly,3,"[902.0, 1827.0, 1829.0, 2037.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/0007d316f756b3fa0baea2ff514ce945.dicom
+54,00675cd546313f912cadd4ad54415d69,Aortic enlargement,0,"[1369.0, 825.0, 1703.0, 1074.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/00675cd546313f912cadd4ad54415d69.dicom
+64,008b3176a7248a0a189b5731ac8d2e95,Cardiomegaly,3,"[863.0, 1280.0, 1902.0, 1653.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/008b3176a7248a0a189b5731ac8d2e95.dicom
+105,0108949daa13dc94634a7d650a05c0bb,Aortic enlargement,0,"[1059.0, 732.0, 1345.0, 997.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/0108949daa13dc94634a7d650a05c0bb.dicom
+106,0108949daa13dc94634a7d650a05c0bb,Cardiomegaly,3,"[772.0, 1373.0, 1781.0, 1753.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/0108949daa13dc94634a7d650a05c0bb.dicom
+118,0114c5cd093c742334d5a5fa14140421,Cardiomegaly,3,"[1064.0, 1600.0, 1984.0, 1951.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/0114c5cd093c742334d5a5fa14140421.dicom
+142,01570ee44031e4ebab6031501293bf66,Cardiomegaly,3,"[677.0, 1392.0, 1681.0, 1735.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/01570ee44031e4ebab6031501293bf66.dicom
+146,015e332b702e4829710941ab7265bd1d,Aortic enlargement,0,"[1098.0, 637.0, 1283.0, 828.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/015e332b702e4829710941ab7265bd1d.dicom
+191,01c2b9fcb0384c84648ed76c736552a8,Cardiomegaly,3,"[950.0, 1602.0, 2224.0, 1872.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/01c2b9fcb0384c84648ed76c736552a8.dicom
+192,01c2b9fcb0384c84648ed76c736552a8,Aortic enlargement,0,"[1420.0, 797.0, 1696.0, 1093.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/01c2b9fcb0384c84648ed76c736552a8.dicom
+201,01d6446afde9fbf4332904bc331e9660,Aortic enlargement,0,"[1546.0, 512.0, 1878.0, 841.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/01d6446afde9fbf4332904bc331e9660.dicom
+211,01fec681f2d698497151a88d6c5205a1,Cardiomegaly,3,"[882.0, 1608.0, 1848.0, 2025.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/01fec681f2d698497151a88d6c5205a1.dicom
+296,02acf0e7d0932f9c6a06fd4bbe1f5d90,Aortic enlargement,0,"[1606.0, 627.0, 1911.0, 994.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/02acf0e7d0932f9c6a06fd4bbe1f5d90.dicom
+297,02acf0e7d0932f9c6a06fd4bbe1f5d90,Cardiomegaly,3,"[1163.0, 1409.0, 2294.0, 1710.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/02acf0e7d0932f9c6a06fd4bbe1f5d90.dicom
+310,02de1ec3340e75fd5e7294a84a0342a1,Aortic enlargement,0,"[1129.0, 982.0, 1556.0, 1452.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/02de1ec3340e75fd5e7294a84a0342a1.dicom
+334,034cf2b503a9a7efe404f000fb988534,Cardiomegaly,3,"[648.0, 1471.0, 1624.0, 1859.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/034cf2b503a9a7efe404f000fb988534.dicom
+335,034cf2b503a9a7efe404f000fb988534,Aortic enlargement,0,"[949.0, 693.0, 1293.0, 1058.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/034cf2b503a9a7efe404f000fb988534.dicom
+350,035b53e8aabf8763537a296c291135d1,Aortic enlargement,0,"[1148.0, 632.0, 1527.0, 1425.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/035b53e8aabf8763537a296c291135d1.dicom
+354,03810755ae5721d65884360e3bccbf9b,Aortic enlargement,0,"[1177.0, 730.0, 1494.0, 1062.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/03810755ae5721d65884360e3bccbf9b.dicom
+356,038a7c88fcd819549f430c1fd907658c,Cardiomegaly,3,"[976.0, 1946.0, 2123.0, 2402.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/038a7c88fcd819549f430c1fd907658c.dicom
+362,038fc325ff4aa0a21c76d5dd7c740c89,Cardiomegaly,3,"[806.0, 1524.0, 1755.0, 1925.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/038fc325ff4aa0a21c76d5dd7c740c89.dicom
+368,039c6997248b3a6ba3c909af35fce0eb,Aortic enlargement,0,"[953.0, 471.0, 1178.0, 654.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/039c6997248b3a6ba3c909af35fce0eb.dicom
+475,04aed38b30c4de9461c8a9940e99d811,Cardiomegaly,3,"[1038.0, 1826.0, 2013.0, 2209.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/04aed38b30c4de9461c8a9940e99d811.dicom
+490,04d462de5e02b54e3756875caebda95c,Cardiomegaly,3,"[603.0, 1341.0, 1928.0, 1980.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/04d462de5e02b54e3756875caebda95c.dicom
+501,051132a778e61a86eb147c7c6f564dfe,Cardiomegaly,3,"[948.0, 1267.0, 2063.0, 1672.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/051132a778e61a86eb147c7c6f564dfe.dicom
+546,059ec0fc0d6840cff6e268e46f85faa0,Aortic enlargement,0,"[937.0, 730.0, 1528.0, 1358.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/059ec0fc0d6840cff6e268e46f85faa0.dicom
+581,05e64c5b1e5f246ae6e8bc109e557bf4,Aortic enlargement,0,"[793.0, 580.0, 1150.0, 901.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/05e64c5b1e5f246ae6e8bc109e557bf4.dicom
+602,061fa33f6ba0028fbbad8caaeac8d145,Aortic enlargement,0,"[1038.0, 880.0, 1320.0, 1261.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/061fa33f6ba0028fbbad8caaeac8d145.dicom
+612,0622cd29e4e0e4f198abf15614819ae8,Aortic enlargement,0,"[1332.0, 676.0, 1699.0, 1046.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/0622cd29e4e0e4f198abf15614819ae8.dicom
+695,077c76dffde69c0b90c28d78ef2ac31e,Aortic enlargement,0,"[1165.0, 723.0, 1596.0, 1138.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/077c76dffde69c0b90c28d78ef2ac31e.dicom
+698,0797fa5e2725c9b801e6d01cfa9a09da,Aortic enlargement,0,"[1101.0, 752.0, 1392.0, 949.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/0797fa5e2725c9b801e6d01cfa9a09da.dicom
+705,07bedc010fd13a8e5903473ebcf39cd1,Aortic enlargement,0,"[1280.0, 806.0, 1790.0, 1464.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/07bedc010fd13a8e5903473ebcf39cd1.dicom
+708,07c12d0f562f17579aabc18c11e2ad54,Cardiomegaly,3,"[1138.0, 1304.0, 2182.0, 1599.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/07c12d0f562f17579aabc18c11e2ad54.dicom
+750,08726b7ba2f04a33ff1b878b75498776,Aortic enlargement,0,"[1218.0, 802.0, 1422.0, 1100.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/08726b7ba2f04a33ff1b878b75498776.dicom
+752,088006f2453c4183b1ef46fb607bc31c,Aortic enlargement,0,"[922.0, 479.0, 1174.0, 695.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/088006f2453c4183b1ef46fb607bc31c.dicom
+771,0905c0dc82fb8fe621c43f53719a55ca,Cardiomegaly,3,"[563.0, 1016.0, 1585.0, 1332.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/0905c0dc82fb8fe621c43f53719a55ca.dicom
+819,098d7923f09b8f6f163143ad97dacc12,Aortic enlargement,0,"[1555.0, 587.0, 1812.0, 918.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/098d7923f09b8f6f163143ad97dacc12.dicom
+818,098d7923f09b8f6f163143ad97dacc12,Cardiomegaly,3,"[1200.0, 1324.0, 2165.0, 1670.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/098d7923f09b8f6f163143ad97dacc12.dicom
+842,09df460412ce705d0f634436f518f46d,Cardiomegaly,3,"[740.0, 1336.0, 1742.0, 1738.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/09df460412ce705d0f634436f518f46d.dicom
+871,09f9a62fceffacc4d062a7fe24a626b8,Cardiomegaly,3,"[1174.0, 1850.0, 2253.0, 2449.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/09f9a62fceffacc4d062a7fe24a626b8.dicom
+927,0a50d4ee79163edbf6f2d5c3082c2f51,Aortic enlargement,0,"[1375.0, 602.0, 1629.0, 878.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/0a50d4ee79163edbf6f2d5c3082c2f51.dicom
+934,0a678538e529b9f1089c47bb2ffcda9b,Aortic enlargement,0,"[1206.0, 720.0, 1488.0, 1058.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/0a678538e529b9f1089c47bb2ffcda9b.dicom
+941,0aad4ac2ea24742e3f9de3d29fae6d95,Aortic enlargement,0,"[1056.0, 657.0, 1267.0, 882.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/0aad4ac2ea24742e3f9de3d29fae6d95.dicom
+939,0aad4ac2ea24742e3f9de3d29fae6d95,Cardiomegaly,3,"[825.0, 1235.0, 1620.0, 1607.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/0aad4ac2ea24742e3f9de3d29fae6d95.dicom
+942,0abd4fc2425edd5c2efb2c149e9319c6,Aortic enlargement,0,"[1407.0, 726.0, 1689.0, 1146.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/0abd4fc2425edd5c2efb2c149e9319c6.dicom
+1016,0bb76fb5f7cfb1dd4c3760f7481a1d05,Aortic enlargement,0,"[1807.0, 795.0, 2086.0, 1140.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/0bb76fb5f7cfb1dd4c3760f7481a1d05.dicom
+1039,0bffe44ef7636e7b4a7b9fd883e8e6ea,Aortic enlargement,0,"[1024.0, 865.0, 1300.0, 1220.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/0bffe44ef7636e7b4a7b9fd883e8e6ea.dicom
+1109,0c6a7e3c733bd4f4d89443ca16615fc6,Aortic enlargement,0,"[1649.0, 889.0, 2013.0, 1373.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/0c6a7e3c733bd4f4d89443ca16615fc6.dicom
+1114,0c76c19b3f015e0387dd2adcbef86182,Cardiomegaly,3,"[975.0, 1517.0, 1906.0, 1841.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/0c76c19b3f015e0387dd2adcbef86182.dicom
+1197,0d6231a3ed3eefc3ba60353b9ad00816,Aortic enlargement,0,"[1059.0, 993.0, 1338.0, 1382.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/0d6231a3ed3eefc3ba60353b9ad00816.dicom
+1203,0da97c2c8c5192e678faf9290f25d5c0,Cardiomegaly,3,"[850.0, 1229.0, 1599.0, 1594.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/0da97c2c8c5192e678faf9290f25d5c0.dicom
+1210,0dc30d30a14a6a68c9bec20ee32331c2,Cardiomegaly,3,"[903.0, 1419.0, 2040.0, 1875.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/0dc30d30a14a6a68c9bec20ee32331c2.dicom
+1231,0e5734a5483002be04b734d7c88058be,Cardiomegaly,3,"[730.0, 1481.0, 1679.0, 1887.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/0e5734a5483002be04b734d7c88058be.dicom
+1263,0e8b19dc3af06aaed4718cd664a896bf,Cardiomegaly,3,"[909.0, 1734.0, 1995.0, 2070.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/0e8b19dc3af06aaed4718cd664a896bf.dicom
+1280,0ea0bf774e0436aec7d1a1e62074c9cd,Aortic enlargement,0,"[1274.0, 804.0, 1643.0, 1267.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/0ea0bf774e0436aec7d1a1e62074c9cd.dicom
+1314,0f1eba57237922d0f9ec0dee62793435,Cardiomegaly,3,"[1045.0, 1785.0, 2191.0, 2159.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/0f1eba57237922d0f9ec0dee62793435.dicom
+1320,0f389422bffe0f96dc3da175550e0c5b,Aortic enlargement,0,"[1187.0, 718.0, 1450.0, 1059.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/0f389422bffe0f96dc3da175550e0c5b.dicom
+1332,0fafbbfb67745f8c29351f9f7263b82f,Aortic enlargement,0,"[1233.0, 1035.0, 1510.0, 1671.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/0fafbbfb67745f8c29351f9f7263b82f.dicom
+1392,10e7dac260f11046164aa94f2d8add9f,Aortic enlargement,0,"[1289.0, 857.0, 1562.0, 1222.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/10e7dac260f11046164aa94f2d8add9f.dicom
+1421,1133414000e82176ab7852aeacc762eb,Cardiomegaly,3,"[1010.0, 1724.0, 2099.0, 2229.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/1133414000e82176ab7852aeacc762eb.dicom
+1438,116c19c289e285a60ab20cf72090c9fa,Aortic enlargement,0,"[1224.0, 793.0, 1535.0, 1186.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/116c19c289e285a60ab20cf72090c9fa.dicom
+1449,119bc2dba30b0ba7995e189504126ed1,Cardiomegaly,3,"[977.0, 1823.0, 2285.0, 2321.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/119bc2dba30b0ba7995e189504126ed1.dicom
+1528,1280dc55c1ff852024be232c2942e3fd,Aortic enlargement,0,"[1500.0, 672.0, 1825.0, 1042.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/1280dc55c1ff852024be232c2942e3fd.dicom
+1570,12e0e910766f2d1b1ccda7c32051643f,Aortic enlargement,0,"[1323.0, 757.0, 1586.0, 1001.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/12e0e910766f2d1b1ccda7c32051643f.dicom
+1659,144b76b191aa1e02065903ee1cc3d578,Cardiomegaly,3,"[760.0, 1665.0, 1795.0, 2138.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/144b76b191aa1e02065903ee1cc3d578.dicom
+1652,144b76b191aa1e02065903ee1cc3d578,Aortic enlargement,0,"[1161.0, 825.0, 1436.0, 1145.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/144b76b191aa1e02065903ee1cc3d578.dicom
+1727,14fbd0bf63f33188f29e54275fb7cafb,Aortic enlargement,0,"[971.0, 632.0, 1278.0, 942.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/14fbd0bf63f33188f29e54275fb7cafb.dicom
+1745,1516651227a420f879b4cea1500ee7db,Cardiomegaly,3,"[838.0, 1422.0, 1850.0, 1814.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/1516651227a420f879b4cea1500ee7db.dicom
+1761,151a8ce59aa6e414ee8a9c9d711cee61,Aortic enlargement,0,"[1220.0, 731.0, 1478.0, 1019.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/151a8ce59aa6e414ee8a9c9d711cee61.dicom
+1798,15a71d5f1e9a0221e14cde0e0d1a2ccd,Cardiomegaly,3,"[873.0, 1174.0, 1737.0, 1453.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/15a71d5f1e9a0221e14cde0e0d1a2ccd.dicom
+1801,15acee7728e6530dfa2bd01521c7148d,Cardiomegaly,3,"[1504.0, 1874.0, 2776.0, 2403.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/15acee7728e6530dfa2bd01521c7148d.dicom
+1806,15b164c54f0bf0baac308b47a45a1468,Aortic enlargement,0,"[1379.0, 698.0, 1677.0, 1073.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/15b164c54f0bf0baac308b47a45a1468.dicom
+1841,15f023463d88b8f8bc852a9a7b72e6e3,Aortic enlargement,0,"[1287.0, 991.0, 1609.0, 1366.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/15f023463d88b8f8bc852a9a7b72e6e3.dicom
+1898,168ff8ed5a696e2b1270b6449a996cd5,Cardiomegaly,3,"[892.0, 1685.0, 2150.0, 1981.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/168ff8ed5a696e2b1270b6449a996cd5.dicom
+1902,1691ab3a82040297355b59a34c1e3fa9,Aortic enlargement,0,"[1166.0, 637.0, 1388.0, 893.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/1691ab3a82040297355b59a34c1e3fa9.dicom
+1926,16bd4511e7391b3e3d7da90b6c2653d0,Cardiomegaly,3,"[1007.0, 2158.0, 2136.0, 2406.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/16bd4511e7391b3e3d7da90b6c2653d0.dicom
+1941,16fbd1b86994c47ddd120cf5d410033e,Cardiomegaly,3,"[978.0, 1384.0, 1869.0, 1641.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/16fbd1b86994c47ddd120cf5d410033e.dicom
+1947,1700104c53dad4e23980cc44dfec1b64,Aortic enlargement,0,"[1280.0, 834.0, 1574.0, 1097.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/1700104c53dad4e23980cc44dfec1b64.dicom
+1975,17381ffc2b43778487e782dbb5cb963a,Cardiomegaly,3,"[1079.0, 1440.0, 2223.0, 1883.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/17381ffc2b43778487e782dbb5cb963a.dicom
+1977,1756a285d1bc917bbe55024b0727a836,Aortic enlargement,0,"[973.0, 1014.0, 1214.0, 1237.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/1756a285d1bc917bbe55024b0727a836.dicom
+1985,175e3663cc06a6d4ee39f8f9fa7f9183,Aortic enlargement,0,"[1209.0, 420.0, 1431.0, 692.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/175e3663cc06a6d4ee39f8f9fa7f9183.dicom
+2037,1812172c7ad3771c05d1238bb3066217,Aortic enlargement,0,"[1491.0, 565.0, 1801.0, 864.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/1812172c7ad3771c05d1238bb3066217.dicom
+2068,18759bb253200a7c5fef22b00d05496b,Aortic enlargement,0,"[1000.0, 817.0, 1266.0, 1186.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/18759bb253200a7c5fef22b00d05496b.dicom
+2082,18a5c8860abc63dbef3627d3e5efd951,Aortic enlargement,0,"[968.0, 684.0, 1619.0, 1245.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/18a5c8860abc63dbef3627d3e5efd951.dicom
+2101,18e91ea53a6b6829c70ae2d762605c21,Cardiomegaly,3,"[853.0, 1812.0, 1974.0, 2330.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/18e91ea53a6b6829c70ae2d762605c21.dicom
+2134,198302ef60405a8889da8fedd5a98ebc,Aortic enlargement,0,"[1229.0, 984.0, 1449.0, 1164.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/198302ef60405a8889da8fedd5a98ebc.dicom
+2161,1a39c8cd556ab64679d04d440466a2f5,Cardiomegaly,3,"[932.0, 1612.0, 2244.0, 1892.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/1a39c8cd556ab64679d04d440466a2f5.dicom
+2195,1a6380efb810f2c8fbae25143ab93773,Cardiomegaly,3,"[1123.0, 1444.0, 2423.0, 1929.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/1a6380efb810f2c8fbae25143ab93773.dicom
+2199,1a85266eec98f756269a91a56d5fb1a8,Cardiomegaly,3,"[894.0, 1697.0, 2073.0, 1988.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/1a85266eec98f756269a91a56d5fb1a8.dicom
+2218,1ac1cb704bf021b7f462182beb082291,Cardiomegaly,3,"[1074.0, 1778.0, 2412.0, 2172.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/1ac1cb704bf021b7f462182beb082291.dicom
+2216,1ac1cb704bf021b7f462182beb082291,Aortic enlargement,0,"[1613.0, 847.0, 1982.0, 1317.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/1ac1cb704bf021b7f462182beb082291.dicom
+2228,1ad1420c6bf26f67e1f0d1140e938efd,Aortic enlargement,0,"[1266.0, 571.0, 1577.0, 875.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/1ad1420c6bf26f67e1f0d1140e938efd.dicom
+2234,1adfe6d01589ad3a646a459bb360d5c4,Cardiomegaly,3,"[868.0, 1330.0, 1763.0, 1734.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/1adfe6d01589ad3a646a459bb360d5c4.dicom
+2257,1b10ae5a7c9530537364360383fa6667,Cardiomegaly,3,"[634.0, 1138.0, 1544.0, 1414.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/1b10ae5a7c9530537364360383fa6667.dicom
+2315,1bb134a3fb426b7a805ad086164ed865,Aortic enlargement,0,"[1385.0, 976.0, 1734.0, 1336.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/1bb134a3fb426b7a805ad086164ed865.dicom
+2345,1c2621f624311e2ab55fb909b3b53d19,Aortic enlargement,0,"[1025.0, 628.0, 1278.0, 920.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/1c2621f624311e2ab55fb909b3b53d19.dicom
+2378,1c572f5c1b3f2d9dfb23b48f25a7ace0,Aortic enlargement,0,"[941.0, 915.0, 1212.0, 1228.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/1c572f5c1b3f2d9dfb23b48f25a7ace0.dicom
+2454,1d378b37e94c96925d6e96d281825519,Cardiomegaly,3,"[811.0, 1279.0, 1812.0, 1654.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/1d378b37e94c96925d6e96d281825519.dicom
+2462,1d37efa5bcce26d6cc9a224f99db3f0e,Aortic enlargement,0,"[1208.0, 818.0, 1417.0, 1106.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/1d37efa5bcce26d6cc9a224f99db3f0e.dicom
+2499,1dc3bbcc437933158a734f7e28547bb5,Aortic enlargement,0,"[1104.0, 952.0, 1343.0, 1269.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/1dc3bbcc437933158a734f7e28547bb5.dicom
+2532,1e380cbe7d0d59de0527d31486a24fa2,Aortic enlargement,0,"[1532.0, 891.0, 1855.0, 1246.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/1e380cbe7d0d59de0527d31486a24fa2.dicom
+2534,1e47f8b7036defda2d0191401e1e05d6,Aortic enlargement,0,"[1315.0, 1006.0, 1633.0, 1310.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/1e47f8b7036defda2d0191401e1e05d6.dicom
+2586,1ed4cf45940bbfbcdc31cf4289c1c1e4,Aortic enlargement,0,"[1466.0, 752.0, 1714.0, 1044.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/1ed4cf45940bbfbcdc31cf4289c1c1e4.dicom
+2601,1f1abf0df154e4d455bd3f93fa8ef1f0,Aortic enlargement,0,"[1258.0, 871.0, 1487.0, 1216.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/1f1abf0df154e4d455bd3f93fa8ef1f0.dicom
+2619,1f6cae728b0bab822a84b2014feff03d,Cardiomegaly,3,"[1171.0, 1922.0, 2234.0, 2183.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/1f6cae728b0bab822a84b2014feff03d.dicom
+2635,1fc71d17e68259b0ae13b884ccce7309,Cardiomegaly,3,"[695.0, 1423.0, 1676.0, 1642.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/1fc71d17e68259b0ae13b884ccce7309.dicom
+2637,1fcceea02142af619405d89b9ee156fc,Aortic enlargement,0,"[1188.0, 517.0, 1510.0, 910.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/1fcceea02142af619405d89b9ee156fc.dicom
+2658,2016c404039deb1d04073250fa84a328,Cardiomegaly,3,"[851.0, 1920.0, 1939.0, 2418.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/2016c404039deb1d04073250fa84a328.dicom
+2670,2072e55e4f38ef869fc492b5e282057b,Aortic enlargement,0,"[1253.0, 991.0, 1644.0, 1438.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/2072e55e4f38ef869fc492b5e282057b.dicom
+2697,2116aa83dd20261a1c6f4b13ea3eafbc,Cardiomegaly,3,"[960.0, 1585.0, 2157.0, 1889.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/2116aa83dd20261a1c6f4b13ea3eafbc.dicom
+2766,222b7757f55bee221e7aba69fc9928d0,Cardiomegaly,3,"[971.0, 1790.0, 2028.0, 2142.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/222b7757f55bee221e7aba69fc9928d0.dicom
+2797,22576c31ecae86e2e6d580b4bebb5d77,Aortic enlargement,0,"[1056.0, 692.0, 1407.0, 970.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/22576c31ecae86e2e6d580b4bebb5d77.dicom
+2828,2271647c6cb51cd088392c184f8be135,Aortic enlargement,0,"[1101.0, 736.0, 1226.0, 908.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/2271647c6cb51cd088392c184f8be135.dicom
+2833,2285e92d66a166fa72444a73f4c5fc52,Aortic enlargement,0,"[1105.0, 724.0, 1765.0, 1245.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/2285e92d66a166fa72444a73f4c5fc52.dicom
+2838,228d41a874a5536d83b62b9161da1d61,Aortic enlargement,0,"[1119.0, 671.0, 1363.0, 1021.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/228d41a874a5536d83b62b9161da1d61.dicom
+2844,22b8e616a61bbc4caaed0cf23b7159df,Aortic enlargement,0,"[1380.0, 963.0, 1620.0, 1279.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/22b8e616a61bbc4caaed0cf23b7159df.dicom
+2899,23976276263082c45eec8db02176a30b,Aortic enlargement,0,"[1239.0, 763.0, 1526.0, 1047.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/23976276263082c45eec8db02176a30b.dicom
+2937,23d1c67775a1f20404642b6086b74cc8,Aortic enlargement,0,"[1040.0, 696.0, 1257.0, 882.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/23d1c67775a1f20404642b6086b74cc8.dicom
+2946,23e3c7a5073d74c1d2daed5ad73fb254,Cardiomegaly,3,"[1305.0, 1194.0, 2440.0, 1536.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/23e3c7a5073d74c1d2daed5ad73fb254.dicom
+3003,24986a34a5f97ddeb44a999d245b949b,Aortic enlargement,0,"[1352.0, 696.0, 1667.0, 1063.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/24986a34a5f97ddeb44a999d245b949b.dicom
+3002,24986a34a5f97ddeb44a999d245b949b,Cardiomegaly,3,"[869.0, 1536.0, 1940.0, 1819.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/24986a34a5f97ddeb44a999d245b949b.dicom
+3027,24bf0f138643ee4141ebefba54fb6843,Cardiomegaly,3,"[827.0, 1295.0, 1732.0, 1657.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/24bf0f138643ee4141ebefba54fb6843.dicom
+3029,24c408efe011f2d27322e93440221aa1,Aortic enlargement,0,"[1145.0, 846.0, 1473.0, 1218.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/24c408efe011f2d27322e93440221aa1.dicom
+3033,24c7e3233b6ebe3d1159f81ae97daed1,Cardiomegaly,3,"[582.0, 1251.0, 1499.0, 1560.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/24c7e3233b6ebe3d1159f81ae97daed1.dicom
+3043,24dd3c2b634ac8b951b5aa1b24a536c8,Aortic enlargement,0,"[1315.0, 669.0, 1601.0, 1011.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/24dd3c2b634ac8b951b5aa1b24a536c8.dicom
+3134,25a73bf0f701b9275c74fc23aa30e681,Aortic enlargement,0,"[1169.0, 710.0, 1480.0, 997.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/25a73bf0f701b9275c74fc23aa30e681.dicom
+3144,25c278c9f3eac8a0f53780aa5e615e23,Cardiomegaly,3,"[734.0, 1157.0, 1681.0, 1422.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/25c278c9f3eac8a0f53780aa5e615e23.dicom
+3152,25e4fa50ffa395dd163a97ca6bef8fe0,Cardiomegaly,3,"[786.0, 1160.0, 1705.0, 1489.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/25e4fa50ffa395dd163a97ca6bef8fe0.dicom
+3177,26555d1abc4576ef9e235aba96f4429e,Cardiomegaly,3,"[926.0, 1004.0, 1227.0, 1305.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/26555d1abc4576ef9e235aba96f4429e.dicom
+3192,26603f3c325594b0a07a9fd73d74bbce,Cardiomegaly,3,"[680.0, 1678.0, 1909.0, 2275.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/26603f3c325594b0a07a9fd73d74bbce.dicom
+3195,26697f6b3b73c564a0dd92b2fa1a8b0b,Aortic enlargement,0,"[1356.0, 583.0, 1684.0, 1048.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/26697f6b3b73c564a0dd92b2fa1a8b0b.dicom
+3210,268ed28c6d57f5d5383cd5cf8e62e457,Aortic enlargement,0,"[1103.0, 1070.0, 1334.0, 1352.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/268ed28c6d57f5d5383cd5cf8e62e457.dicom
+3226,26be9cde1a3d1a38f19c6753cc9ed40d,Aortic enlargement,0,"[1078.0, 730.0, 1288.0, 944.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/26be9cde1a3d1a38f19c6753cc9ed40d.dicom
+3256,26fd27f25c4c5329c224f75f5f94d96c,Aortic enlargement,0,"[988.0, 632.0, 1289.0, 1008.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/26fd27f25c4c5329c224f75f5f94d96c.dicom
+3314,27b822c5d3b354f096dfb788fd3fa636,Aortic enlargement,0,"[1263.0, 948.0, 1599.0, 1301.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/27b822c5d3b354f096dfb788fd3fa636.dicom
+3352,281070333d103fe4a02065d7f986b062,Cardiomegaly,3,"[899.0, 1505.0, 2095.0, 1920.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/281070333d103fe4a02065d7f986b062.dicom
+3367,28439c0a4f24e1319b22dd12b8a56a14,Cardiomegaly,3,"[752.0, 1318.0, 1708.0, 1718.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/28439c0a4f24e1319b22dd12b8a56a14.dicom
+3368,285c4b227a6c923d674fa58fdfdd2eca,Aortic enlargement,0,"[1069.0, 605.0, 1317.0, 899.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/285c4b227a6c923d674fa58fdfdd2eca.dicom
+3373,285cdfec4d725d327266833adf3ba9d5,Cardiomegaly,3,"[1092.0, 1254.0, 2042.0, 1736.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/285cdfec4d725d327266833adf3ba9d5.dicom
+3374,285cdfec4d725d327266833adf3ba9d5,Aortic enlargement,0,"[1418.0, 529.0, 1713.0, 905.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/285cdfec4d725d327266833adf3ba9d5.dicom
+3387,2866813d0d8eeae54af11160adb68731,Aortic enlargement,0,"[1561.0, 796.0, 1901.0, 1164.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/2866813d0d8eeae54af11160adb68731.dicom
+3386,2866813d0d8eeae54af11160adb68731,Cardiomegaly,3,"[1132.0, 1844.0, 2401.0, 2104.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/2866813d0d8eeae54af11160adb68731.dicom
+3449,299057220a9508923d271ac70bff843b,Cardiomegaly,3,"[931.0, 1844.0, 2219.0, 2217.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/299057220a9508923d271ac70bff843b.dicom
+3464,29fd996e134b7e6658edb78f41022878,Aortic enlargement,0,"[1363.0, 749.0, 1654.0, 1064.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/29fd996e134b7e6658edb78f41022878.dicom
+3494,2a364dea24600221fb6208567bda008b,Aortic enlargement,0,"[1148.0, 764.0, 1470.0, 1049.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/2a364dea24600221fb6208567bda008b.dicom
+3501,2a3def0aa2b27bea4235348e5d4cf345,Cardiomegaly,3,"[1060.0, 1806.0, 2261.0, 2100.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/2a3def0aa2b27bea4235348e5d4cf345.dicom
+3566,2b0fb0afde2742c14c1c967cdcb20969,Aortic enlargement,0,"[1015.0, 692.0, 1190.0, 947.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/2b0fb0afde2742c14c1c967cdcb20969.dicom
+3599,2b658b536fb15c22f623c3d6672b64d0,Aortic enlargement,0,"[1834.0, 774.0, 2207.0, 1120.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/2b658b536fb15c22f623c3d6672b64d0.dicom
+3623,2b8a0c8760862e0bd6dbac062d421396,Cardiomegaly,3,"[1174.0, 1627.0, 2298.0, 1958.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/2b8a0c8760862e0bd6dbac062d421396.dicom
+3657,2beb474652da324c06ca0267cc903c1e,Aortic enlargement,0,"[1055.0, 724.0, 1501.0, 1049.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/2beb474652da324c06ca0267cc903c1e.dicom
+3676,2c535167a6a1466c54bc62eb6100f577,Cardiomegaly,3,"[717.0, 1597.0, 1805.0, 2014.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/2c535167a6a1466c54bc62eb6100f577.dicom
+3704,2cb21c7b25708742a6eed6ba4a59e6eb,Cardiomegaly,3,"[989.0, 1550.0, 2054.0, 1893.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/2cb21c7b25708742a6eed6ba4a59e6eb.dicom
+3711,2cd31f05e3d0a2ebdf33e7a90fdc95ac,Cardiomegaly,3,"[752.0, 1022.0, 1650.0, 1215.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/2cd31f05e3d0a2ebdf33e7a90fdc95ac.dicom
+3738,2d377f5b2bd10b8ead268046859d939a,Cardiomegaly,3,"[703.0, 1434.0, 1613.0, 1794.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/2d377f5b2bd10b8ead268046859d939a.dicom
+3761,2d6c36cb32352b891ef90fb11f3215f7,Cardiomegaly,3,"[718.0, 1678.0, 1883.0, 2053.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/2d6c36cb32352b891ef90fb11f3215f7.dicom
+3796,2e02414c9f4b2b23a7761fe8c2b3bc93,Aortic enlargement,0,"[1490.0, 583.0, 1803.0, 961.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/2e02414c9f4b2b23a7761fe8c2b3bc93.dicom
+3798,2e14a1d545fe84fb87891640ba990781,Cardiomegaly,3,"[963.0, 1418.0, 1846.0, 1742.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/2e14a1d545fe84fb87891640ba990781.dicom
+3928,2f4adab67a67f3ee8322175840092fe5,Aortic enlargement,0,"[1407.0, 1155.0, 1736.0, 1561.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/2f4adab67a67f3ee8322175840092fe5.dicom
+3965,3005e709b7711027df25c715b6ebff02,Cardiomegaly,3,"[938.0, 1793.0, 2057.0, 2230.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/3005e709b7711027df25c715b6ebff02.dicom
+3970,30174f91133f986dd4f8f95d2b2d92b2,Aortic enlargement,0,"[1351.0, 801.0, 1662.0, 1170.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/30174f91133f986dd4f8f95d2b2d92b2.dicom
+3998,303e0a9c848a6f2697622543d6de3364,Cardiomegaly,3,"[811.0, 1162.0, 1802.0, 1521.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/303e0a9c848a6f2697622543d6de3364.dicom
+4034,305c85dddfdddac905f288a8106ca371,Aortic enlargement,0,"[1039.0, 935.0, 1221.0, 1134.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/305c85dddfdddac905f288a8106ca371.dicom
+4046,306d35d649f4fe90bec5b21eb3d8c42f,Cardiomegaly,3,"[803.0, 1501.0, 1699.0, 1879.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/306d35d649f4fe90bec5b21eb3d8c42f.dicom
+4107,310c786eccfed6cb9c04cf9e2d31a5fa,Cardiomegaly,3,"[607.0, 1330.0, 1567.0, 1697.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/310c786eccfed6cb9c04cf9e2d31a5fa.dicom
+4144,3145bee8f1346fa89938289eedd7b05c,Cardiomegaly,3,"[905.0, 1533.0, 2005.0, 1845.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/3145bee8f1346fa89938289eedd7b05c.dicom
+4147,314b28b21a620ea16d0de1103157b37d,Aortic enlargement,0,"[1231.0, 492.0, 1575.0, 864.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/314b28b21a620ea16d0de1103157b37d.dicom
+4157,315677bd3e1ac182188b6a16490695d2,Aortic enlargement,0,"[993.0, 1012.0, 1262.0, 1349.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/315677bd3e1ac182188b6a16490695d2.dicom
+4187,316b07c8233162f6c57b23d94b823ea8,Aortic enlargement,0,"[1413.0, 923.0, 1681.0, 1177.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/316b07c8233162f6c57b23d94b823ea8.dicom
+4193,316ce67a6c95d104d5864cf2f30786bc,Cardiomegaly,3,"[941.0, 1429.0, 2229.0, 1872.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/316ce67a6c95d104d5864cf2f30786bc.dicom
+4198,316f325969fa2dfb24fb9706c34fa0a8,Cardiomegaly,3,"[1071.0, 1587.0, 2545.0, 2058.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/316f325969fa2dfb24fb9706c34fa0a8.dicom
+4208,31873abb42a5af56c33d1681971d014b,Cardiomegaly,3,"[724.0, 1546.0, 1623.0, 1785.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/31873abb42a5af56c33d1681971d014b.dicom
+4235,31a2b39d2a73f406dbef13c7cd023eb0,Aortic enlargement,0,"[1661.0, 780.0, 1941.0, 1031.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/31a2b39d2a73f406dbef13c7cd023eb0.dicom
+4237,31ab750de5cb0c76b49d45ab1d2186a6,Aortic enlargement,0,"[980.0, 736.0, 1593.0, 1147.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/31ab750de5cb0c76b49d45ab1d2186a6.dicom
+4268,323029b8a64431ac83ea6c71804f42c9,Cardiomegaly,3,"[777.0, 1667.0, 1986.0, 2018.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/323029b8a64431ac83ea6c71804f42c9.dicom
+4296,328a03f1cf631960207c6f6f3026bdb1,Aortic enlargement,0,"[1541.0, 734.0, 1864.0, 1279.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/328a03f1cf631960207c6f6f3026bdb1.dicom
+4323,32e735ff23d1c5bf5d2d1aa51937ca82,Cardiomegaly,3,"[767.0, 1659.0, 1792.0, 2013.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/32e735ff23d1c5bf5d2d1aa51937ca82.dicom
+4338,330423a5c20c1fab3ba43d966bd6e2e5,Aortic enlargement,0,"[1079.0, 726.0, 1341.0, 982.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/330423a5c20c1fab3ba43d966bd6e2e5.dicom
+4358,332f505a735ca0961e7128fc0f166a5c,Cardiomegaly,3,"[815.0, 1677.0, 1909.0, 2086.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/332f505a735ca0961e7128fc0f166a5c.dicom
+4382,3362408dd6a238f4bc0660e763f37e94,Cardiomegaly,3,"[668.0, 1692.0, 1671.0, 2030.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/3362408dd6a238f4bc0660e763f37e94.dicom
+4410,33b032af243d6b7db06155b99964cbd2,Aortic enlargement,0,"[1202.0, 1178.0, 1386.0, 1444.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/33b032af243d6b7db06155b99964cbd2.dicom
+4423,33cf3f2f72ca3c8480456091f6ccedfb,Aortic enlargement,0,"[1122.0, 777.0, 1375.0, 1091.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/33cf3f2f72ca3c8480456091f6ccedfb.dicom
+4434,33db2b371f7527ae2cd349abe5a7c062,Cardiomegaly,3,"[545.0, 1346.0, 1509.0, 1661.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/33db2b371f7527ae2cd349abe5a7c062.dicom
+4509,34fa4687fe0cb1a46f70f407ef9c134b,Aortic enlargement,0,"[1075.0, 620.0, 1357.0, 923.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/34fa4687fe0cb1a46f70f407ef9c134b.dicom
+4522,3531c673ad643e73b007a9e9a0a2aadf,Aortic enlargement,0,"[1113.0, 801.0, 1424.0, 1052.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/3531c673ad643e73b007a9e9a0a2aadf.dicom
+4596,3623eea22ab15bd3cc7901e3c00695de,Cardiomegaly,3,"[898.0, 1791.0, 2056.0, 2095.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/3623eea22ab15bd3cc7901e3c00695de.dicom
+4599,3623eea22ab15bd3cc7901e3c00695de,Aortic enlargement,0,"[1349.0, 881.0, 1664.0, 1258.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/3623eea22ab15bd3cc7901e3c00695de.dicom
+4619,36429387a098976713296f2beae8063a,Cardiomegaly,3,"[757.0, 1512.0, 1802.0, 1902.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/36429387a098976713296f2beae8063a.dicom
+4643,36cf5300d146ed2c232acd54b45f317e,Cardiomegaly,3,"[841.0, 1327.0, 1674.0, 1628.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/36cf5300d146ed2c232acd54b45f317e.dicom
+4669,36fb9803c515de8b2b44028af25662ec,Aortic enlargement,0,"[874.0, 716.0, 1488.0, 1366.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/36fb9803c515de8b2b44028af25662ec.dicom
+4702,3727a613e597811aee451370fde09c49,Aortic enlargement,0,"[942.0, 885.0, 1256.0, 1172.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/3727a613e597811aee451370fde09c49.dicom
+4714,3759c5c3b6dd31e4f79dad538500928c,Aortic enlargement,0,"[1505.0, 1089.0, 1849.0, 1605.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/3759c5c3b6dd31e4f79dad538500928c.dicom
+4759,37f7e5fce42c1b3d1acc91e9ff43fe02,Aortic enlargement,0,"[1488.0, 604.0, 1893.0, 1023.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/37f7e5fce42c1b3d1acc91e9ff43fe02.dicom
+4760,37f7e5fce42c1b3d1acc91e9ff43fe02,Cardiomegaly,3,"[1065.0, 1417.0, 2350.0, 1927.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/37f7e5fce42c1b3d1acc91e9ff43fe02.dicom
+4775,3845b3f74a2a76ef0b58310d61d03e6a,Aortic enlargement,0,"[1326.0, 771.0, 1629.0, 1096.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/3845b3f74a2a76ef0b58310d61d03e6a.dicom
+4786,38791e51fbea01ae3935f311e8878f1c,Aortic enlargement,0,"[1324.0, 793.0, 1638.0, 1120.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/38791e51fbea01ae3935f311e8878f1c.dicom
+4879,394ea2732452334954cf83c6e5b41951,Aortic enlargement,0,"[1365.0, 693.0, 1687.0, 1102.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/394ea2732452334954cf83c6e5b41951.dicom
+4932,3a302fbbbf3364aa1a7731b59e6b98ec,Aortic enlargement,0,"[1482.0, 829.0, 1704.0, 1067.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/3a302fbbbf3364aa1a7731b59e6b98ec.dicom
+4936,3a334de1df19d35fd8d303df42a90468,Aortic enlargement,0,"[1057.0, 715.0, 1328.0, 1140.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/3a334de1df19d35fd8d303df42a90468.dicom
+4942,3a57be55d3cf1302f582fb95c86e9446,Aortic enlargement,0,"[1159.0, 808.0, 1385.0, 1097.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/3a57be55d3cf1302f582fb95c86e9446.dicom
+4975,3abc9bc2967d1891119ae82511e479b3,Aortic enlargement,0,"[1549.0, 916.0, 1829.0, 1164.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/3abc9bc2967d1891119ae82511e479b3.dicom
+4986,3af25684534b7791434f7dfff22f9550,Cardiomegaly,3,"[907.0, 1456.0, 2114.0, 1883.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/3af25684534b7791434f7dfff22f9550.dicom
+4994,3b37f8d28d0153cedc41acb8020a0a6f,Cardiomegaly,3,"[1192.0, 1391.0, 2281.0, 1750.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/3b37f8d28d0153cedc41acb8020a0a6f.dicom
+5061,3bf8346b7d5b0743713624143004772f,Aortic enlargement,0,"[1144.0, 789.0, 1452.0, 1158.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/3bf8346b7d5b0743713624143004772f.dicom
+5066,3c022a8f6192af3d7ca567e509d44801,Cardiomegaly,3,"[981.0, 1513.0, 2165.0, 1940.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/3c022a8f6192af3d7ca567e509d44801.dicom
+5138,3c7949b75bb527c91a6518e4f40fc87a,Cardiomegaly,3,"[869.0, 1250.0, 2016.0, 1654.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/3c7949b75bb527c91a6518e4f40fc87a.dicom
+5162,3cd58e860993b9e6a8c79bfa71ec66c3,Aortic enlargement,0,"[1141.0, 776.0, 1477.0, 1139.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/3cd58e860993b9e6a8c79bfa71ec66c3.dicom
+5178,3ce8e5fe27fc9db53129cdbdd8de89de,Aortic enlargement,0,"[725.0, 1466.0, 1636.0, 1848.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/3ce8e5fe27fc9db53129cdbdd8de89de.dicom
+5206,3d4cff7ec8b3e2fe5b3f606880b45e7c,Cardiomegaly,3,"[766.0, 1420.0, 1789.0, 1735.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/3d4cff7ec8b3e2fe5b3f606880b45e7c.dicom
+5208,3d4cff7ec8b3e2fe5b3f606880b45e7c,Aortic enlargement,0,"[1196.0, 809.0, 1523.0, 1191.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/3d4cff7ec8b3e2fe5b3f606880b45e7c.dicom
+5232,3dae58e1cf69a2284f2a44ded5c7405a,Aortic enlargement,0,"[1374.0, 842.0, 1674.0, 1210.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/3dae58e1cf69a2284f2a44ded5c7405a.dicom
+5239,3db920cfa1955efefa82e2f46d2c7519,Cardiomegaly,3,"[986.0, 1746.0, 2086.0, 2202.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/3db920cfa1955efefa82e2f46d2c7519.dicom
+5266,3e02670c9c691dbbd7f9aaa851bb70ae,Aortic enlargement,0,"[1492.0, 993.0, 1781.0, 1348.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/3e02670c9c691dbbd7f9aaa851bb70ae.dicom
+5284,3e802de7dd2a052ff980de1ff50262ee,Aortic enlargement,0,"[1372.0, 709.0, 1724.0, 1134.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/3e802de7dd2a052ff980de1ff50262ee.dicom
+5323,3f0efef8e4a56b73d2b82e83e50c0b90,Aortic enlargement,0,"[1336.0, 749.0, 1623.0, 1068.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/3f0efef8e4a56b73d2b82e83e50c0b90.dicom
+5325,3f2468ef0b5526f0e33834fa4e0fd85d,Aortic enlargement,0,"[1148.0, 912.0, 1399.0, 1167.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/3f2468ef0b5526f0e33834fa4e0fd85d.dicom
+5342,3f59f95dab9548ad6cbbd7eec034bd57,Aortic enlargement,0,"[1032.0, 566.0, 1309.0, 895.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/3f59f95dab9548ad6cbbd7eec034bd57.dicom
+5359,3fd0af8df0d247cb4d3c4a89fad6936d,Cardiomegaly,3,"[942.0, 1335.0, 1865.0, 1710.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/3fd0af8df0d247cb4d3c4a89fad6936d.dicom
+5384,4004f114ab2ecb224ac7484957b79ea4,Cardiomegaly,3,"[749.0, 1093.0, 1660.0, 1262.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/4004f114ab2ecb224ac7484957b79ea4.dicom
+5427,40365f729045dde403d39546afc573a2,Aortic enlargement,0,"[1437.0, 607.0, 1729.0, 962.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/40365f729045dde403d39546afc573a2.dicom
+5448,4085e7c5e44d4bc75213131a8a6aee47,Cardiomegaly,3,"[734.0, 1843.0, 1848.0, 2002.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/4085e7c5e44d4bc75213131a8a6aee47.dicom
+5453,40956f021a2759da665c4497ca71ea5c,Cardiomegaly,3,"[899.0, 1787.0, 2184.0, 2213.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/40956f021a2759da665c4497ca71ea5c.dicom
+5452,40956f021a2759da665c4497ca71ea5c,Aortic enlargement,0,"[1235.0, 1053.0, 1509.0, 1319.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/40956f021a2759da665c4497ca71ea5c.dicom
+5464,4113bf958daeb1b468c147801007dfc3,Aortic enlargement,0,"[1155.0, 879.0, 1436.0, 1271.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/4113bf958daeb1b468c147801007dfc3.dicom
+5488,4127fa1e8bcb9931cc8b49367eecef78,Aortic enlargement,0,"[1222.0, 857.0, 1378.0, 1023.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/4127fa1e8bcb9931cc8b49367eecef78.dicom
+5502,413010bcfa8857cbd34a99f115926686,Aortic enlargement,0,"[1319.0, 760.0, 1556.0, 1010.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/413010bcfa8857cbd34a99f115926686.dicom
+5512,414615baf78e32f3405cbcf5b742895d,Aortic enlargement,0,"[1064.0, 864.0, 1345.0, 1240.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/414615baf78e32f3405cbcf5b742895d.dicom
+5560,41c40fd3bd0719e48290cd6f3485ca77,Aortic enlargement,0,"[1659.0, 446.0, 1898.0, 753.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/41c40fd3bd0719e48290cd6f3485ca77.dicom
+5563,41cee81dbe9886a56b6c3ee56fb23448,Cardiomegaly,3,"[1011.0, 1537.0, 2070.0, 1908.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/41cee81dbe9886a56b6c3ee56fb23448.dicom
+5582,41d642577ada2969ece3637f6c800139,Aortic enlargement,0,"[1223.0, 700.0, 1637.0, 1202.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/41d642577ada2969ece3637f6c800139.dicom
+5604,425a34be84f439353a9d4a2f54212e8c,Aortic enlargement,0,"[1372.0, 862.0, 1686.0, 1120.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/425a34be84f439353a9d4a2f54212e8c.dicom
+5627,429ce8e289547fe54bb229c3091cedbf,Cardiomegaly,3,"[1292.0, 1565.0, 2520.0, 1984.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/429ce8e289547fe54bb229c3091cedbf.dicom
+5635,42aa1ebd4dbf93efaeb7442f6484ed00,Aortic enlargement,0,"[1143.0, 768.0, 1367.0, 1091.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/42aa1ebd4dbf93efaeb7442f6484ed00.dicom
+5698,4361c97e29d8614a2b2a539beaf8aef0,Cardiomegaly,3,"[975.0, 1694.0, 2130.0, 2089.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/4361c97e29d8614a2b2a539beaf8aef0.dicom
+5701,4376c4766028d6873001b6653c5b6a13,Aortic enlargement,0,"[867.0, 675.0, 1120.0, 941.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/4376c4766028d6873001b6653c5b6a13.dicom
+5721,43c1e275bc208f31cc3b1a6c8fda1ea7,Cardiomegaly,3,"[844.0, 1693.0, 1999.0, 2109.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/43c1e275bc208f31cc3b1a6c8fda1ea7.dicom
+5738,43d5a4a18c3228cf1060d24a9407036c,Aortic enlargement,0,"[1094.0, 760.0, 1276.0, 1019.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/43d5a4a18c3228cf1060d24a9407036c.dicom
+5737,43d5a4a18c3228cf1060d24a9407036c,Cardiomegaly,3,"[660.0, 1257.0, 1683.0, 1605.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/43d5a4a18c3228cf1060d24a9407036c.dicom
+5794,44ff83f86f81c54ed2540ccddcc68263,Cardiomegaly,3,"[780.0, 1305.0, 2176.0, 1785.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/44ff83f86f81c54ed2540ccddcc68263.dicom
+5789,44ff83f86f81c54ed2540ccddcc68263,Aortic enlargement,0,"[1355.0, 565.0, 1645.0, 878.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/44ff83f86f81c54ed2540ccddcc68263.dicom
+5820,457e53f750c2f152033022e7918cc296,Cardiomegaly,3,"[1034.0, 1642.0, 2144.0, 2132.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/457e53f750c2f152033022e7918cc296.dicom
+5833,458dac26200d54d8be49a43e001dc7da,Cardiomegaly,3,"[778.0, 1390.0, 1969.0, 1722.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/458dac26200d54d8be49a43e001dc7da.dicom
+5852,45f8fd11d471cfb910172d26f8157ee5,Cardiomegaly,3,"[767.0, 1411.0, 1783.0, 1733.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/45f8fd11d471cfb910172d26f8157ee5.dicom
+5851,45f8fd11d471cfb910172d26f8157ee5,Aortic enlargement,0,"[1163.0, 716.0, 1368.0, 918.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/45f8fd11d471cfb910172d26f8157ee5.dicom
+5894,47110277377a779131d0e08d4389a503,Aortic enlargement,0,"[1459.0, 746.0, 1764.0, 1156.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/47110277377a779131d0e08d4389a503.dicom
+5913,4726c4907566b5876c5c1fc7c5e876f1,Cardiomegaly,3,"[895.0, 1624.0, 2012.0, 1919.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/4726c4907566b5876c5c1fc7c5e876f1.dicom
+5945,47a50643e0ffee2204984ca1ac6bccf0,Aortic enlargement,0,"[1439.0, 972.0, 1757.0, 1374.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/47a50643e0ffee2204984ca1ac6bccf0.dicom
+5972,480fba9f814cae86968210673cab2c61,Aortic enlargement,0,"[1111.0, 756.0, 1306.0, 960.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/480fba9f814cae86968210673cab2c61.dicom
+5971,480fba9f814cae86968210673cab2c61,Cardiomegaly,3,"[748.0, 1411.0, 1700.0, 1699.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/480fba9f814cae86968210673cab2c61.dicom
+5978,484ac8b02e7fdf5807e95774da5f625f,Aortic enlargement,0,"[1176.0, 733.0, 1434.0, 1122.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/484ac8b02e7fdf5807e95774da5f625f.dicom
+5985,485d22df0c99d17579ec2b44799ffb50,Aortic enlargement,0,"[1639.0, 800.0, 2010.0, 1151.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/485d22df0c99d17579ec2b44799ffb50.dicom
+6022,48f3a35fcd6c76d5d0ee2d475b3f1f51,Cardiomegaly,3,"[1083.0, 1472.0, 2405.0, 2112.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/48f3a35fcd6c76d5d0ee2d475b3f1f51.dicom
+6025,49067626b247a6e8b9bd7e5b1d776c38,Cardiomegaly,3,"[768.0, 1523.0, 1902.0, 1930.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/49067626b247a6e8b9bd7e5b1d776c38.dicom
+6024,49067626b247a6e8b9bd7e5b1d776c38,Aortic enlargement,0,"[1121.0, 601.0, 1462.0, 965.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/49067626b247a6e8b9bd7e5b1d776c38.dicom
+6109,49c6238789bcdf8f37303fb8f70b7a9d,Cardiomegaly,3,"[1077.0, 1654.0, 2218.0, 1982.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/49c6238789bcdf8f37303fb8f70b7a9d.dicom
+6128,49ffdc3f7a8d0fc1f91335975ac6b44f,Aortic enlargement,0,"[979.0, 567.0, 1650.0, 1087.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/49ffdc3f7a8d0fc1f91335975ac6b44f.dicom
+6136,4a24da485b9550c8df8b19caff945cdc,Aortic enlargement,0,"[1086.0, 865.0, 1329.0, 1102.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/4a24da485b9550c8df8b19caff945cdc.dicom
+6134,4a24da485b9550c8df8b19caff945cdc,Cardiomegaly,3,"[879.0, 1452.0, 1800.0, 1804.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/4a24da485b9550c8df8b19caff945cdc.dicom
+6138,4a2dec8f7163be64ef67f0d09056c921,Aortic enlargement,0,"[1458.0, 818.0, 1766.0, 1130.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/4a2dec8f7163be64ef67f0d09056c921.dicom
+6144,4a46cdf01cee2a200f00daedf11576a9,Aortic enlargement,0,"[1537.0, 922.0, 1898.0, 1344.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/4a46cdf01cee2a200f00daedf11576a9.dicom
+6302,4c4a83fb016a133dcc7a868e7eb229e7,Aortic enlargement,0,"[1746.0, 955.0, 2023.0, 1194.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/4c4a83fb016a133dcc7a868e7eb229e7.dicom
+6360,4d0acfb4200c0153173d5d9997e6fe43,Aortic enlargement,0,"[1169.0, 656.0, 1449.0, 980.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/4d0acfb4200c0153173d5d9997e6fe43.dicom
+6366,4d3a1fe62d0df7015482f6c8429ed5a8,Cardiomegaly,3,"[950.0, 1368.0, 2052.0, 1699.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/4d3a1fe62d0df7015482f6c8429ed5a8.dicom
+6398,4db77a5ffb5fa45be829a1cb9f6bc281,Aortic enlargement,0,"[918.0, 972.0, 1196.0, 1226.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/4db77a5ffb5fa45be829a1cb9f6bc281.dicom
+6403,4db7b12c1770b0aef3a1ea88bb95d97a,Aortic enlargement,0,"[1655.0, 961.0, 1994.0, 1255.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/4db7b12c1770b0aef3a1ea88bb95d97a.dicom
+6454,4e67e6bf89bc680a13cdf9f72cf99423,Cardiomegaly,3,"[725.0, 1634.0, 1786.0, 2082.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/4e67e6bf89bc680a13cdf9f72cf99423.dicom
+6468,4e7fe9cc13468517b324743c8c8b7b40,Cardiomegaly,3,"[755.0, 1492.0, 1650.0, 1887.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/4e7fe9cc13468517b324743c8c8b7b40.dicom
+6477,4e8ff7aae833d90a392038e0469a580b,Cardiomegaly,3,"[888.0, 1471.0, 2047.0, 1797.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/4e8ff7aae833d90a392038e0469a580b.dicom
+6577,5020b0b92309c84c4db2b6efb0c16e98,Cardiomegaly,3,"[918.0, 1445.0, 2059.0, 1819.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/5020b0b92309c84c4db2b6efb0c16e98.dicom
+6592,50708867ca7d310f7a521c99e8404366,Cardiomegaly,3,"[873.0, 954.0, 1920.0, 1539.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/50708867ca7d310f7a521c99e8404366.dicom
+6625,50d427f8dcf1ce69704b69db12d52192,Aortic enlargement,0,"[1672.0, 660.0, 1974.0, 1017.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/50d427f8dcf1ce69704b69db12d52192.dicom
+6626,50d427f8dcf1ce69704b69db12d52192,Cardiomegaly,3,"[1323.0, 1277.0, 2407.0, 1632.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/50d427f8dcf1ce69704b69db12d52192.dicom
+6653,51252d90beb12e47b0684e8673080ee0,Cardiomegaly,3,"[1263.0, 1470.0, 2253.0, 1900.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/51252d90beb12e47b0684e8673080ee0.dicom
+6679,5161ae032f0552603b6de965b2bb3e09,Aortic enlargement,0,"[1517.0, 1015.0, 1826.0, 1338.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/5161ae032f0552603b6de965b2bb3e09.dicom
+6722,51a8d7259a0a6deac20b7c4979a7e847,Aortic enlargement,0,"[689.0, 468.0, 1440.0, 1221.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/51a8d7259a0a6deac20b7c4979a7e847.dicom
+6839,529d855ec524ddf484434d90da0e3f4a,Aortic enlargement,0,"[1543.0, 655.0, 1868.0, 989.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/529d855ec524ddf484434d90da0e3f4a.dicom
+6862,52d44d46feb0f3aa85e55476860b3ba7,Cardiomegaly,3,"[703.0, 1166.0, 1619.0, 1464.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/52d44d46feb0f3aa85e55476860b3ba7.dicom
+6880,5308d2b6f06e98bd8e7c16ed6124aff1,Cardiomegaly,3,"[1079.0, 1481.0, 2306.0, 1725.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/5308d2b6f06e98bd8e7c16ed6124aff1.dicom
+6896,53385a96b1681676153e5e8900eaac66,Aortic enlargement,0,"[1142.0, 573.0, 1375.0, 884.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/53385a96b1681676153e5e8900eaac66.dicom
+6898,534b124253b5513add03cd3c64d9b5cc,Cardiomegaly,3,"[901.0, 1599.0, 2088.0, 1967.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/534b124253b5513add03cd3c64d9b5cc.dicom
+6914,53b894bd3ec511ae4bec7b5b47ce260a,Cardiomegaly,3,"[675.0, 1316.0, 1821.0, 1641.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/53b894bd3ec511ae4bec7b5b47ce260a.dicom
+7032,5480af204701170956ce3d98f363a3c2,Aortic enlargement,0,"[1067.0, 675.0, 1269.0, 926.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/5480af204701170956ce3d98f363a3c2.dicom
+7035,54c0150631b47cb729930541e54f3deb,Cardiomegaly,3,"[1169.0, 1238.0, 2312.0, 1660.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/54c0150631b47cb729930541e54f3deb.dicom
+7074,550b3741c40e9beaddd7aaf69274da50,Cardiomegaly,3,"[684.0, 1378.0, 1647.0, 1700.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/550b3741c40e9beaddd7aaf69274da50.dicom
+7076,550d073e57548eab1948b707b7a96132,Aortic enlargement,0,"[1252.0, 512.0, 1490.0, 805.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/550d073e57548eab1948b707b7a96132.dicom
+7080,551456e08a1327bdba41297c8ebb8c6f,Aortic enlargement,0,"[1353.0, 848.0, 1773.0, 1437.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/551456e08a1327bdba41297c8ebb8c6f.dicom
+7120,55e45c8cf9f997e9970596503683521a,Cardiomegaly,3,"[676.0, 1173.0, 1535.0, 1447.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/55e45c8cf9f997e9970596503683521a.dicom
+7137,560284e43ee691bdc27fa34135d9a743,Aortic enlargement,0,"[1689.0, 746.0, 2017.0, 1007.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/560284e43ee691bdc27fa34135d9a743.dicom
+7148,566706c785a16e57c297029ba11efc2c,Aortic enlargement,0,"[1661.0, 691.0, 1941.0, 1057.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/566706c785a16e57c297029ba11efc2c.dicom
+7192,56e12dd250d23cb2199f1f90eb5a337f,Cardiomegaly,3,"[1146.0, 1812.0, 2251.0, 2171.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/56e12dd250d23cb2199f1f90eb5a337f.dicom
+7193,56e12dd250d23cb2199f1f90eb5a337f,Aortic enlargement,0,"[1585.0, 624.0, 1913.0, 983.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/56e12dd250d23cb2199f1f90eb5a337f.dicom
+7273,57415c4992802274b5a54930019c30f1,Aortic enlargement,0,"[1323.0, 502.0, 1572.0, 720.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/57415c4992802274b5a54930019c30f1.dicom
+7296,578ccc9ae139b55ba1aad1a0b657b8d5,Aortic enlargement,0,"[1267.0, 764.0, 1537.0, 1112.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/578ccc9ae139b55ba1aad1a0b657b8d5.dicom
+7317,57b939b0fd7d156a6113a48caad65f0d,Aortic enlargement,0,"[1646.0, 654.0, 1964.0, 993.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/57b939b0fd7d156a6113a48caad65f0d.dicom
+7323,57d5e49e640aef3fae44cdac47be5ba9,Aortic enlargement,0,"[1226.0, 940.0, 1530.0, 1227.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/57d5e49e640aef3fae44cdac47be5ba9.dicom
+7364,5895fa847d7ce6fbc0c1ad1ca998b613,Aortic enlargement,0,"[1371.0, 870.0, 1683.0, 1169.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/5895fa847d7ce6fbc0c1ad1ca998b613.dicom
+7374,58ab031cf2346b3a7b8fb32fb9ccd1c1,Aortic enlargement,0,"[1266.0, 984.0, 1559.0, 1283.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/58ab031cf2346b3a7b8fb32fb9ccd1c1.dicom
+7431,59463dec11bd9627f875e0372d9ce1e2,Aortic enlargement,0,"[1670.0, 679.0, 1922.0, 1014.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/59463dec11bd9627f875e0372d9ce1e2.dicom
+7452,59782bef0d73440e75ec2f92b4d4e38d,Cardiomegaly,3,"[1092.0, 1711.0, 2258.0, 2205.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/59782bef0d73440e75ec2f92b4d4e38d.dicom
+7471,59a3b8e835e1468ba834b05256198d4b,Cardiomegaly,3,"[966.0, 1361.0, 1874.0, 1725.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/59a3b8e835e1468ba834b05256198d4b.dicom
+7489,59b55e41fd67eb9e8e3811efba3c032c,Aortic enlargement,0,"[1118.0, 746.0, 1377.0, 1024.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/59b55e41fd67eb9e8e3811efba3c032c.dicom
+7607,5b50aaeb4070f03384ce3173afe0bdcd,Cardiomegaly,3,"[1101.0, 1416.0, 2141.0, 1718.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/5b50aaeb4070f03384ce3173afe0bdcd.dicom
+7609,5b6f8c860f1ced753af1ba0f047a99ef,Aortic enlargement,0,"[1147.0, 534.0, 1347.0, 754.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/5b6f8c860f1ced753af1ba0f047a99ef.dicom
+7633,5bbac8d8d5d451761634493ddc1b7f38,Cardiomegaly,3,"[1073.0, 1717.0, 2227.0, 2096.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/5bbac8d8d5d451761634493ddc1b7f38.dicom
+7701,5cf657759ffe1c8ad29c2b6938197dfc,Aortic enlargement,0,"[1210.0, 794.0, 1364.0, 972.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/5cf657759ffe1c8ad29c2b6938197dfc.dicom
+7712,5d2a481a562112395f28010b079a9cf1,Cardiomegaly,3,"[824.0, 1214.0, 1707.0, 1475.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/5d2a481a562112395f28010b079a9cf1.dicom
+7717,5d37206ee0084505c5509d92029ee95e,Cardiomegaly,3,"[818.0, 1475.0, 1788.0, 1763.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/5d37206ee0084505c5509d92029ee95e.dicom
+7779,5da459bb842baf8b844d998f5b6c996c,Cardiomegaly,3,"[820.0, 1381.0, 1941.0, 1805.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/5da459bb842baf8b844d998f5b6c996c.dicom
+7804,5e02cde47ed2fd338141e3dcff3139b9,Cardiomegaly,3,"[655.0, 1232.0, 1547.0, 1578.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/5e02cde47ed2fd338141e3dcff3139b9.dicom
+7893,5fd698415fe157a7bc7fa75a52ecabc6,Cardiomegaly,3,"[729.0, 1353.0, 1672.0, 1737.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/5fd698415fe157a7bc7fa75a52ecabc6.dicom
+7916,603b1ac8a6e947e4cb0992dbed44f0d9,Aortic enlargement,0,"[1427.0, 1103.0, 1663.0, 1373.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/603b1ac8a6e947e4cb0992dbed44f0d9.dicom
+7936,606765fe716741ebafc722890c81aaf8,Cardiomegaly,3,"[995.0, 1478.0, 2140.0, 2005.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/606765fe716741ebafc722890c81aaf8.dicom
+7942,60679b51d403a3a1fc020a0a86fedd8d,Cardiomegaly,3,"[1057.0, 1486.0, 2311.0, 2156.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/60679b51d403a3a1fc020a0a86fedd8d.dicom
+8018,614b0af08224c7163278ff78abc8bad7,Cardiomegaly,3,"[1332.0, 1688.0, 2486.0, 2076.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/614b0af08224c7163278ff78abc8bad7.dicom
+8028,61a02fd2f3c838c3e5daf2786bb6e54a,Cardiomegaly,3,"[639.0, 1252.0, 1696.0, 1613.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/61a02fd2f3c838c3e5daf2786bb6e54a.dicom
+8034,61d584d7b486245f3e861371fcf7da9b,Aortic enlargement,0,"[1082.0, 529.0, 1319.0, 731.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/61d584d7b486245f3e861371fcf7da9b.dicom
+8097,6257b0277b6dc697985febc707d83011,Aortic enlargement,0,"[1426.0, 709.0, 1706.0, 1037.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/6257b0277b6dc697985febc707d83011.dicom
+8099,62643c38a525c1223f3a836af96f220d,Aortic enlargement,0,"[1153.0, 824.0, 1343.0, 1084.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/62643c38a525c1223f3a836af96f220d.dicom
+8215,63ae0334ee9804a3bb06d66432fefa26,Cardiomegaly,3,"[704.0, 1446.0, 1627.0, 1787.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/63ae0334ee9804a3bb06d66432fefa26.dicom
+8291,64e323f8638652f7bf813a933ebcbf07,Aortic enlargement,0,"[859.0, 424.0, 1196.0, 749.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/64e323f8638652f7bf813a933ebcbf07.dicom
+8301,64fbc7536c3e0b4609b471e2b8a1f54f,Aortic enlargement,0,"[1218.0, 916.0, 1419.0, 1241.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/64fbc7536c3e0b4609b471e2b8a1f54f.dicom
+8336,657d78347d17af866338af4f1dab0c71,Cardiomegaly,3,"[654.0, 1335.0, 1643.0, 1576.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/657d78347d17af866338af4f1dab0c71.dicom
+8391,6612d7f6119514cbeda6de56571d9f84,Aortic enlargement,0,"[1407.0, 713.0, 1686.0, 1097.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/6612d7f6119514cbeda6de56571d9f84.dicom
+8392,6612d7f6119514cbeda6de56571d9f84,Cardiomegaly,3,"[1066.0, 1438.0, 2132.0, 1721.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/6612d7f6119514cbeda6de56571d9f84.dicom
+8461,66bbea98f2c63f90d2c6e0d6792cca54,Aortic enlargement,0,"[943.0, 685.0, 1199.0, 922.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/66bbea98f2c63f90d2c6e0d6792cca54.dicom
+8474,66cc79784846f7ec74c4ced47c244b24,Cardiomegaly,3,"[637.0, 1362.0, 1435.0, 1786.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/66cc79784846f7ec74c4ced47c244b24.dicom
+8479,66d058ae8aa6b41111cab2259989eddb,Aortic enlargement,0,"[913.0, 617.0, 1264.0, 1067.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/66d058ae8aa6b41111cab2259989eddb.dicom
+8550,678219cc34c08e4b184dbe73ef52a680,Cardiomegaly,3,"[1011.0, 1098.0, 2131.0, 1656.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/678219cc34c08e4b184dbe73ef52a680.dicom
+8596,6807503ed8ab156abd8b43ee6bc4be75,Aortic enlargement,0,"[973.0, 609.0, 1171.0, 820.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/6807503ed8ab156abd8b43ee6bc4be75.dicom
+8599,68122971781f688cce53b8700e0da080,Cardiomegaly,3,"[939.0, 1302.0, 2008.0, 1668.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/68122971781f688cce53b8700e0da080.dicom
+8620,682008cffca1751980b4010f4e82520d,Aortic enlargement,0,"[1174.0, 735.0, 1468.0, 1042.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/682008cffca1751980b4010f4e82520d.dicom
+8674,68bf44155e1e9cd26c7ac566d5a02289,Cardiomegaly,3,"[741.0, 1245.0, 1672.0, 1551.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/68bf44155e1e9cd26c7ac566d5a02289.dicom
+8676,68d2d4cacb8e7d2b125fe18516356777,Aortic enlargement,0,"[1320.0, 638.0, 1675.0, 991.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/68d2d4cacb8e7d2b125fe18516356777.dicom
+8703,6900482a91a538ead56b483f77bcf289,Cardiomegaly,3,"[658.0, 1689.0, 1736.0, 2024.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/6900482a91a538ead56b483f77bcf289.dicom
+8732,6993fe34fd90adcbbfe75229f5e22306,Aortic enlargement,0,"[1337.0, 761.0, 1628.0, 1119.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/6993fe34fd90adcbbfe75229f5e22306.dicom
+8753,69e693c4c5f1f8ad419b1d2ed43c7375,Aortic enlargement,0,"[1467.0, 869.0, 1796.0, 1230.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/69e693c4c5f1f8ad419b1d2ed43c7375.dicom
+8759,69e956035a447c4d4f4d28e13ed92dc4,Aortic enlargement,0,"[1734.0, 679.0, 2034.0, 1063.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/69e956035a447c4d4f4d28e13ed92dc4.dicom
+8773,6a226af290752e9d60405e5a5a18e90f,Aortic enlargement,0,"[1072.0, 778.0, 1358.0, 1067.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/6a226af290752e9d60405e5a5a18e90f.dicom
+8782,6a29cfd596229d4ac24ad8cbaa103c11,Aortic enlargement,0,"[1357.0, 1044.0, 1692.0, 1458.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/6a29cfd596229d4ac24ad8cbaa103c11.dicom
+8798,6a53a62b736fb59c4e2c35f99778656f,Aortic enlargement,0,"[1263.0, 427.0, 1612.0, 748.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/6a53a62b736fb59c4e2c35f99778656f.dicom
+8799,6a53a62b736fb59c4e2c35f99778656f,Cardiomegaly,3,"[864.0, 1500.0, 1987.0, 1901.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/6a53a62b736fb59c4e2c35f99778656f.dicom
+8940,6c35a010256b29d6db4956f5bffff4a2,Cardiomegaly,3,"[1021.0, 1486.0, 1999.0, 1802.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/6c35a010256b29d6db4956f5bffff4a2.dicom
+8991,6c6443feb73c8113601be5a01242447d,Cardiomegaly,3,"[1018.0, 1665.0, 2223.0, 1924.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/6c6443feb73c8113601be5a01242447d.dicom
+8996,6c7168280c801ce96908597527695ab5,Aortic enlargement,0,"[1321.0, 831.0, 1635.0, 1203.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/6c7168280c801ce96908597527695ab5.dicom
+9010,6c79f2551808438721052023e043ab4d,Aortic enlargement,0,"[1732.0, 496.0, 1948.0, 810.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/6c79f2551808438721052023e043ab4d.dicom
+9014,6c8d15e1aadce8cc5dc0a4b719818a4c,Aortic enlargement,0,"[1357.0, 634.0, 1748.0, 1282.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/6c8d15e1aadce8cc5dc0a4b719818a4c.dicom
+9023,6cbdc71410309c03dd894fa3470f7b8d,Aortic enlargement,0,"[1139.0, 826.0, 1363.0, 1092.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/6cbdc71410309c03dd894fa3470f7b8d.dicom
+9115,6d80520d7518642b92a089b028407104,Aortic enlargement,0,"[1094.0, 606.0, 1296.0, 860.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/6d80520d7518642b92a089b028407104.dicom
+9167,6e2a38e4cc5b4cd14dba22285a5cd210,Aortic enlargement,0,"[1449.0, 1037.0, 1774.0, 1427.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/6e2a38e4cc5b4cd14dba22285a5cd210.dicom
+9239,6ed2ab0e4ba47734a7b2a47deff243c1,Cardiomegaly,3,"[648.0, 1294.0, 1563.0, 1700.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/6ed2ab0e4ba47734a7b2a47deff243c1.dicom
+9244,6eeead238ec804ca607534249350bcf8,Cardiomegaly,3,"[612.0, 1428.0, 1709.0, 1769.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/6eeead238ec804ca607534249350bcf8.dicom
+9253,6f322939176779d7af4f7c76701fa91d,Cardiomegaly,3,"[806.0, 1483.0, 1924.0, 1883.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/6f322939176779d7af4f7c76701fa91d.dicom
+9261,6f79bc390fe626dd3ad6a8cb36116254,Cardiomegaly,3,"[867.0, 1425.0, 1924.0, 1732.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/6f79bc390fe626dd3ad6a8cb36116254.dicom
+9260,6f79bc390fe626dd3ad6a8cb36116254,Aortic enlargement,0,"[1348.0, 768.0, 1582.0, 1094.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/6f79bc390fe626dd3ad6a8cb36116254.dicom
+9297,6fa7dad34b96816f31cc091a0507bbdd,Aortic enlargement,0,"[1571.0, 780.0, 1926.0, 1203.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/6fa7dad34b96816f31cc091a0507bbdd.dicom
+9324,6feeabe1a1221a8a4da9560cc86157ed,Aortic enlargement,0,"[1463.0, 766.0, 1773.0, 1098.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/6feeabe1a1221a8a4da9560cc86157ed.dicom
+9342,7021edd61c6640c497c774e6ef61e491,Aortic enlargement,0,"[1087.0, 658.0, 1640.0, 987.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/7021edd61c6640c497c774e6ef61e491.dicom
+9402,70dc4cdf5377a5daa9628a456390ed93,Aortic enlargement,0,"[1298.0, 997.0, 1672.0, 1525.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/70dc4cdf5377a5daa9628a456390ed93.dicom
+9404,70e09b0d52ed4571aa953c4d844bc5cb,Cardiomegaly,3,"[1165.0, 1411.0, 2269.0, 1892.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/70e09b0d52ed4571aa953c4d844bc5cb.dicom
+9465,71ddd7f7b44aa49dafb8410e8d542ffb,Aortic enlargement,0,"[1501.0, 916.0, 1767.0, 1149.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/71ddd7f7b44aa49dafb8410e8d542ffb.dicom
+9473,7225983eb43be7f2dcb9e75381a8f3e5,Cardiomegaly,3,"[734.0, 1414.0, 1699.0, 1674.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/7225983eb43be7f2dcb9e75381a8f3e5.dicom
+9494,7245fcab6a98659146972d983aa01c6d,Aortic enlargement,0,"[1476.0, 878.0, 1776.0, 1159.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/7245fcab6a98659146972d983aa01c6d.dicom
+9509,72a03107b8c5fffea70fb4d36ebeecb8,Aortic enlargement,0,"[1030.0, 403.0, 1212.0, 584.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/72a03107b8c5fffea70fb4d36ebeecb8.dicom
+9552,7324c001e2512d3ea9197b0151c6c1b0,Cardiomegaly,3,"[963.0, 1860.0, 2128.0, 2323.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/7324c001e2512d3ea9197b0151c6c1b0.dicom
+9571,734bbd50e6a2265ae0092510852c9c24,Cardiomegaly,3,"[982.0, 1743.0, 2163.0, 2222.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/734bbd50e6a2265ae0092510852c9c24.dicom
+9625,73ca5ade271925fe03782a52a85f75b2,Cardiomegaly,3,"[903.0, 1950.0, 2062.0, 2417.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/73ca5ade271925fe03782a52a85f75b2.dicom
+9653,742d73529266f013bbbcdf0f2bf9d218,Aortic enlargement,0,"[1374.0, 658.0, 1650.0, 1056.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/742d73529266f013bbbcdf0f2bf9d218.dicom
+9664,7478eac70ba86cb5e7e7a29a9acbd6e0,Aortic enlargement,0,"[1542.0, 637.0, 1794.0, 994.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/7478eac70ba86cb5e7e7a29a9acbd6e0.dicom
+9685,7540b357c67f2049cc0b8808fa2b91fc,Cardiomegaly,3,"[963.0, 1514.0, 2065.0, 1908.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/7540b357c67f2049cc0b8808fa2b91fc.dicom
+9718,75de97fbdf15aa3e1927a97ff9479327,Aortic enlargement,0,"[1438.0, 803.0, 1701.0, 1096.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/75de97fbdf15aa3e1927a97ff9479327.dicom
+9796,7664d4a022c8ca9a94c0bb8adb48209c,Cardiomegaly,3,"[1205.0, 1879.0, 2485.0, 2419.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/7664d4a022c8ca9a94c0bb8adb48209c.dicom
+9859,771e151f13e719b549b4e3d74c4777fe,Aortic enlargement,0,"[1466.0, 921.0, 1722.0, 1200.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/771e151f13e719b549b4e3d74c4777fe.dicom
+9892,778c387c2cb631286fc9927be6dc0a04,Cardiomegaly,3,"[926.0, 1594.0, 2131.0, 1977.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/778c387c2cb631286fc9927be6dc0a04.dicom
+9891,778c387c2cb631286fc9927be6dc0a04,Aortic enlargement,0,"[1260.0, 765.0, 1615.0, 1103.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/778c387c2cb631286fc9927be6dc0a04.dicom
+9907,77d62e6304de7f244ac509794c99b483,Aortic enlargement,0,"[1731.0, 844.0, 2153.0, 1306.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/77d62e6304de7f244ac509794c99b483.dicom
+9927,78057413f8f7e8a3b1decc815e1f509e,Aortic enlargement,0,"[1080.0, 851.0, 1293.0, 1049.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/78057413f8f7e8a3b1decc815e1f509e.dicom
+9929,78076acd1cd80e71ff62d4fb58f047bc,Cardiomegaly,3,"[890.0, 1671.0, 1956.0, 2223.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/78076acd1cd80e71ff62d4fb58f047bc.dicom
+9932,78076acd1cd80e71ff62d4fb58f047bc,Aortic enlargement,0,"[1406.0, 715.0, 1699.0, 1030.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/78076acd1cd80e71ff62d4fb58f047bc.dicom
+9974,78e8eee238eeb6f386be08ece092167c,Aortic enlargement,0,"[1134.0, 587.0, 1471.0, 970.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/78e8eee238eeb6f386be08ece092167c.dicom
+10044,7a3323fefdd4f7613e1ae2d4812c7b75,Aortic enlargement,0,"[1086.0, 850.0, 1311.0, 1054.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/7a3323fefdd4f7613e1ae2d4812c7b75.dicom
+10048,7a350dc1bcdf2fb34fcc57f05adf9da7,Cardiomegaly,3,"[771.0, 1349.0, 1688.0, 1745.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/7a350dc1bcdf2fb34fcc57f05adf9da7.dicom
+10046,7a350dc1bcdf2fb34fcc57f05adf9da7,Aortic enlargement,0,"[1040.0, 665.0, 1354.0, 1016.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/7a350dc1bcdf2fb34fcc57f05adf9da7.dicom
+10071,7ab69502906043cd72e71d1f549c7153,Cardiomegaly,3,"[752.0, 1133.0, 1660.0, 1362.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/7ab69502906043cd72e71d1f549c7153.dicom
+10072,7ac7db2d39f2342de386188e72cd0a72,Aortic enlargement,0,"[1227.0, 821.0, 1562.0, 1225.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/7ac7db2d39f2342de386188e72cd0a72.dicom
+10104,7aff3521c214e535c920bdbd0b1a8a45,Cardiomegaly,3,"[775.0, 1607.0, 1887.0, 2012.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/7aff3521c214e535c920bdbd0b1a8a45.dicom
+10123,7b6f5c06586ee0f71a4b0b815062a5a5,Cardiomegaly,3,"[771.0, 1397.0, 1747.0, 1680.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/7b6f5c06586ee0f71a4b0b815062a5a5.dicom
+10162,7c2e1c2b8ddcfaeae966c23615f01546,Aortic enlargement,0,"[1397.0, 645.0, 1596.0, 826.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/7c2e1c2b8ddcfaeae966c23615f01546.dicom
+10185,7c5f3e2c0518bba6ca3464c385d4787c,Aortic enlargement,0,"[1421.0, 1157.0, 1853.0, 1776.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/7c5f3e2c0518bba6ca3464c385d4787c.dicom
+10183,7c5f3e2c0518bba6ca3464c385d4787c,Cardiomegaly,3,"[972.0, 2243.0, 2228.0, 2704.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/7c5f3e2c0518bba6ca3464c385d4787c.dicom
+10218,7cd74b5a3c85b77c997f56cdb4995384,Cardiomegaly,3,"[680.0, 1508.0, 1745.0, 1832.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/7cd74b5a3c85b77c997f56cdb4995384.dicom
+10263,7d0fa5708b67c2bbb2509a468df9b73b,Cardiomegaly,3,"[909.0, 1437.0, 2034.0, 1840.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/7d0fa5708b67c2bbb2509a468df9b73b.dicom
+10307,7d610aae49bf4f979e16c2d8859f5f87,Aortic enlargement,0,"[1161.0, 783.0, 1437.0, 1081.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/7d610aae49bf4f979e16c2d8859f5f87.dicom
+10330,7db70125d7739e6cd0c442e7b7592d4c,Cardiomegaly,3,"[972.0, 1535.0, 2153.0, 2067.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/7db70125d7739e6cd0c442e7b7592d4c.dicom
+10338,7dbccd763c4ffbfd0d6b841fb5e4337a,Aortic enlargement,0,"[1578.0, 863.0, 1925.0, 1212.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/7dbccd763c4ffbfd0d6b841fb5e4337a.dicom
+10341,7de4d79d0ed23bf080f899d09a652946,Aortic enlargement,0,"[1433.0, 903.0, 1795.0, 1295.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/7de4d79d0ed23bf080f899d09a652946.dicom
+10344,7df5c81873c74ecc40610a1ad4eb2943,Cardiomegaly,3,"[587.0, 1465.0, 1850.0, 2059.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/7df5c81873c74ecc40610a1ad4eb2943.dicom
+10362,7e2b67509fa24f95e4237ed93ac683e2,Aortic enlargement,0,"[1046.0, 815.0, 1379.0, 1202.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/7e2b67509fa24f95e4237ed93ac683e2.dicom
+10376,7e534f2dc65f7cef4f864325433017dd,Aortic enlargement,0,"[1011.0, 658.0, 1191.0, 955.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/7e534f2dc65f7cef4f864325433017dd.dicom
+10422,7eb40f6abadc14f9b9f195c674cc2fd7,Cardiomegaly,3,"[908.0, 1304.0, 2108.0, 1811.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/7eb40f6abadc14f9b9f195c674cc2fd7.dicom
+10434,7ed01df33497667609ef5a2585b5e36d,Aortic enlargement,0,"[1211.0, 853.0, 1435.0, 1061.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/7ed01df33497667609ef5a2585b5e36d.dicom
+10513,8004676ecf95af8cee446cbcd139a938,Aortic enlargement,0,"[1105.0, 805.0, 1425.0, 1164.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/8004676ecf95af8cee446cbcd139a938.dicom
+10544,804bfe2d3e6b0b8a34541a276d7cd7d6,Cardiomegaly,3,"[742.0, 1164.0, 1669.0, 1519.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/804bfe2d3e6b0b8a34541a276d7cd7d6.dicom
+10546,80566fdc49f6da7e1a3e5f69bda6d299,Cardiomegaly,3,"[1178.0, 2253.0, 2469.0, 2707.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/80566fdc49f6da7e1a3e5f69bda6d299.dicom
+10580,8081c5d9aa37706f9e9d43f8e26d2ee5,Aortic enlargement,0,"[1241.0, 967.0, 1596.0, 1215.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/8081c5d9aa37706f9e9d43f8e26d2ee5.dicom
+10679,813e13e8b9385cbcffc45356265f6a10,Cardiomegaly,3,"[1031.0, 1525.0, 2076.0, 1941.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/813e13e8b9385cbcffc45356265f6a10.dicom
+10680,816008f1b6e1fd740b3b52bb9e258377,Aortic enlargement,0,"[947.0, 916.0, 1218.0, 1268.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/816008f1b6e1fd740b3b52bb9e258377.dicom
+10696,81b2b950caf9b6c1f2ba9162f3fd259b,Aortic enlargement,0,"[1367.0, 809.0, 1777.0, 1182.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/81b2b950caf9b6c1f2ba9162f3fd259b.dicom
+10719,822c4cfa6ccc027318abacda96617282,Aortic enlargement,0,"[1076.0, 787.0, 1321.0, 1067.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/822c4cfa6ccc027318abacda96617282.dicom
+10728,8242bf2fdc119f6272d0fa3e5b4e583a,Aortic enlargement,0,"[1367.0, 720.0, 1580.0, 1032.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/8242bf2fdc119f6272d0fa3e5b4e583a.dicom
+10800,82f62718d5385a45eb2b328b3a90fbdd,Aortic enlargement,0,"[1425.0, 821.0, 1739.0, 1116.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/82f62718d5385a45eb2b328b3a90fbdd.dicom
+10809,830d05f396b604388e2d7b68d79a6bbf,Aortic enlargement,0,"[1406.0, 583.0, 1686.0, 887.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/830d05f396b604388e2d7b68d79a6bbf.dicom
+10832,836875cb65e35b17f6bd79b04d151a39,Aortic enlargement,0,"[1589.0, 829.0, 1873.0, 1054.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/836875cb65e35b17f6bd79b04d151a39.dicom
+10835,8387e5ff12264f87c27db2863d4a9c87,Cardiomegaly,3,"[819.0, 1374.0, 2006.0, 1904.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/8387e5ff12264f87c27db2863d4a9c87.dicom
+10865,83ead8dbc31cd2bbe0ddc8a93c071520,Cardiomegaly,3,"[667.0, 1254.0, 1664.0, 1664.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/83ead8dbc31cd2bbe0ddc8a93c071520.dicom
+10871,83ee97a2340f95bc8cf74934b2f8fae2,Aortic enlargement,0,"[1419.0, 761.0, 1862.0, 1163.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/83ee97a2340f95bc8cf74934b2f8fae2.dicom
+10875,84073a6a8201f339407be82dda7e1303,Cardiomegaly,3,"[684.0, 1157.0, 1550.0, 1509.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/84073a6a8201f339407be82dda7e1303.dicom
+10877,841b1864e29f7e6371b6ab16a298142b,Aortic enlargement,0,"[1016.0, 814.0, 1247.0, 1053.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/841b1864e29f7e6371b6ab16a298142b.dicom
+10885,8448867ddbba0f6ee5072f8c4d633f3c,Cardiomegaly,3,"[741.0, 1340.0, 1760.0, 1693.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/8448867ddbba0f6ee5072f8c4d633f3c.dicom
+10889,845d1edaada5683f85efcb17937404be,Aortic enlargement,0,"[1325.0, 802.0, 1600.0, 1067.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/845d1edaada5683f85efcb17937404be.dicom
+10900,848da3f12d971aec50f9e4f76eef3a1d,Cardiomegaly,3,"[806.0, 1611.0, 1961.0, 2057.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/848da3f12d971aec50f9e4f76eef3a1d.dicom
+10923,84c887e039ef9c6f05eac4a7920a3bab,Cardiomegaly,3,"[831.0, 1623.0, 2093.0, 1951.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/84c887e039ef9c6f05eac4a7920a3bab.dicom
+10922,84c887e039ef9c6f05eac4a7920a3bab,Aortic enlargement,0,"[1213.0, 906.0, 1492.0, 1272.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/84c887e039ef9c6f05eac4a7920a3bab.dicom
+10940,84fe5801e7bcf024bb26b7c9285e43bc,Aortic enlargement,0,"[1311.0, 689.0, 1623.0, 976.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/84fe5801e7bcf024bb26b7c9285e43bc.dicom
+10990,8596ba22a0324a295aa986fa60680492,Aortic enlargement,0,"[1062.0, 713.0, 1311.0, 986.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/8596ba22a0324a295aa986fa60680492.dicom
+11092,86d9b86fe05cf159ca827fad05736c4d,Cardiomegaly,3,"[702.0, 1367.0, 1728.0, 1703.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/86d9b86fe05cf159ca827fad05736c4d.dicom
+11137,872fcda56bcda425012eef3cbf6ebf95,Aortic enlargement,0,"[1381.0, 1067.0, 1701.0, 1448.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/872fcda56bcda425012eef3cbf6ebf95.dicom
+11178,8788745c121bcbce59873c943afa0ebd,Cardiomegaly,3,"[545.0, 826.0, 2078.0, 1749.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/8788745c121bcbce59873c943afa0ebd.dicom
+11200,87a724e9ba23be348dbaf24878afa014,Cardiomegaly,3,"[925.0, 1760.0, 1956.0, 2264.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/87a724e9ba23be348dbaf24878afa014.dicom
+11202,87a724e9ba23be348dbaf24878afa014,Aortic enlargement,0,"[1276.0, 729.0, 1506.0, 969.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/87a724e9ba23be348dbaf24878afa014.dicom
+11214,87c4e738629ba2dfbb78ea55247908f8,Aortic enlargement,0,"[1335.0, 829.0, 1697.0, 1240.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/87c4e738629ba2dfbb78ea55247908f8.dicom
+11230,8820320f9f26502110190b10d5321949,Cardiomegaly,3,"[940.0, 1369.0, 1864.0, 1806.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/8820320f9f26502110190b10d5321949.dicom
+11253,8862ef75274d0c13bba19d7b5f2147c6,Aortic enlargement,0,"[1247.0, 688.0, 1529.0, 983.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/8862ef75274d0c13bba19d7b5f2147c6.dicom
+11321,898aa25e4ce627843fa8ea0607a0cfc8,Cardiomegaly,3,"[897.0, 1759.0, 2037.0, 2144.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/898aa25e4ce627843fa8ea0607a0cfc8.dicom
+11332,89d2c2a6c42bb2bc268b8d535c4f31fa,Aortic enlargement,0,"[1291.0, 730.0, 1576.0, 966.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/89d2c2a6c42bb2bc268b8d535c4f31fa.dicom
+11345,89e6ab133f587191383608ee04cea79a,Aortic enlargement,0,"[1122.0, 951.0, 1458.0, 1200.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/89e6ab133f587191383608ee04cea79a.dicom
+11373,8a67f8e2673ceb7004824904b6e72055,Aortic enlargement,0,"[1110.0, 814.0, 1332.0, 1092.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/8a67f8e2673ceb7004824904b6e72055.dicom
+11390,8a81e64b8258068648760ba016d0d3a6,Cardiomegaly,3,"[884.0, 1629.0, 2239.0, 2178.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/8a81e64b8258068648760ba016d0d3a6.dicom
+11394,8a87a85a22182720d845212dfb44daef,Aortic enlargement,0,"[1242.0, 837.0, 1483.0, 1061.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/8a87a85a22182720d845212dfb44daef.dicom
+11442,8ac9d40920ef54d20f860195073a1d2a,Cardiomegaly,3,"[732.0, 1674.0, 1683.0, 2042.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/8ac9d40920ef54d20f860195073a1d2a.dicom
+11445,8acbe4fb1e5a886042029febc6700af2,Aortic enlargement,0,"[1062.0, 932.0, 1358.0, 1202.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/8acbe4fb1e5a886042029febc6700af2.dicom
+11452,8ada567dbd73c16928ce0f7477275803,Aortic enlargement,0,"[1305.0, 1037.0, 1601.0, 1439.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/8ada567dbd73c16928ce0f7477275803.dicom
+11488,8b09d4ec88d8372bded8547543dbbf24,Cardiomegaly,3,"[930.0, 1889.0, 2141.0, 2323.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/8b09d4ec88d8372bded8547543dbbf24.dicom
+11492,8b1d99768092df4a92ed2e3e2eb962e9,Aortic enlargement,0,"[1113.0, 557.0, 1356.0, 770.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/8b1d99768092df4a92ed2e3e2eb962e9.dicom
+11499,8b37c2ebf7f6d5b446110e75a5cf6ad1,Cardiomegaly,3,"[1109.0, 1815.0, 2523.0, 2389.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/8b37c2ebf7f6d5b446110e75a5cf6ad1.dicom
+11500,8b37c2ebf7f6d5b446110e75a5cf6ad1,Aortic enlargement,0,"[1497.0, 1094.0, 1892.0, 1447.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/8b37c2ebf7f6d5b446110e75a5cf6ad1.dicom
+11524,8bc2410a31ef52ddb3e2d41cbe1ea7ff,Aortic enlargement,0,"[734.0, 829.0, 1416.0, 1406.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/8bc2410a31ef52ddb3e2d41cbe1ea7ff.dicom
+11644,8db8173d076bab7a3fcc6656a0b3c15a,Cardiomegaly,3,"[1046.0, 1296.0, 2068.0, 1679.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/8db8173d076bab7a3fcc6656a0b3c15a.dicom
+11648,8dc9c4a2edfac5c6ed1b0246e435aff9,Aortic enlargement,0,"[1180.0, 769.0, 1401.0, 1037.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/8dc9c4a2edfac5c6ed1b0246e435aff9.dicom
+11675,8e063eadea9a6aeb684c893c8598be3e,Aortic enlargement,0,"[1370.0, 1067.0, 1673.0, 1370.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/8e063eadea9a6aeb684c893c8598be3e.dicom
+11703,8e682cb1be531ca41c0e04e45c227797,Aortic enlargement,0,"[1376.0, 857.0, 1644.0, 1137.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/8e682cb1be531ca41c0e04e45c227797.dicom
+11740,8eb38ce22b1b5323c2dad3a92c79e1bd,Aortic enlargement,0,"[1496.0, 948.0, 1799.0, 1370.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/8eb38ce22b1b5323c2dad3a92c79e1bd.dicom
+11814,8fcbf4c0ba3178b938cc3c80df975fe3,Aortic enlargement,0,"[1401.0, 832.0, 1821.0, 1322.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/8fcbf4c0ba3178b938cc3c80df975fe3.dicom
+11824,8fd4e7599250d006e579f1ffcb28b1b1,Cardiomegaly,3,"[839.0, 1479.0, 1742.0, 1803.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/8fd4e7599250d006e579f1ffcb28b1b1.dicom
+11831,8fda45c871b6dd0ba4569d560fd49ea6,Aortic enlargement,0,"[1084.0, 729.0, 1326.0, 1140.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/8fda45c871b6dd0ba4569d560fd49ea6.dicom
+11857,902cb4d7b941c2b490c322b01314b352,Aortic enlargement,0,"[1051.0, 783.0, 1297.0, 1019.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/902cb4d7b941c2b490c322b01314b352.dicom
+11878,9043e39c8e52843751e7cc9edc2c02e6,Aortic enlargement,0,"[887.0, 545.0, 1568.0, 1068.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/9043e39c8e52843751e7cc9edc2c02e6.dicom
+11883,904b3b12d54cf5f6f4ccccbcaffa3714,Aortic enlargement,0,"[1587.0, 565.0, 1910.0, 900.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/904b3b12d54cf5f6f4ccccbcaffa3714.dicom
+11932,908e8d4196bf6a2c6a4bc91d62f1e8eb,Cardiomegaly,3,"[771.0, 1621.0, 1764.0, 1924.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/908e8d4196bf6a2c6a4bc91d62f1e8eb.dicom
+11958,912f2d1789cd50ea5251af9e7f5f6868,Aortic enlargement,0,"[1333.0, 1105.0, 1591.0, 1344.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/912f2d1789cd50ea5251af9e7f5f6868.dicom
+11957,912f2d1789cd50ea5251af9e7f5f6868,Cardiomegaly,3,"[941.0, 2111.0, 2035.0, 2555.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/912f2d1789cd50ea5251af9e7f5f6868.dicom
+11962,91560db4325bf6045259caf6e908ba1f,Aortic enlargement,0,"[1071.0, 759.0, 1336.0, 1031.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/91560db4325bf6045259caf6e908ba1f.dicom
+11972,917bf10b1a676986b3e548bed07c03f2,Aortic enlargement,0,"[1073.0, 801.0, 1437.0, 1266.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/917bf10b1a676986b3e548bed07c03f2.dicom
+11986,918eae18d789f73c80e8431e03472648,Aortic enlargement,0,"[1343.0, 935.0, 1576.0, 1205.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/918eae18d789f73c80e8431e03472648.dicom
+11994,91a12fbbe1ad5eb62cdf97edeb122280,Cardiomegaly,3,"[1043.0, 1809.0, 2245.0, 2284.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/91a12fbbe1ad5eb62cdf97edeb122280.dicom
+12054,9233b2cb05dd9ae0902badc7482c5481,Aortic enlargement,0,"[967.0, 434.0, 1199.0, 670.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/9233b2cb05dd9ae0902badc7482c5481.dicom
+12057,923878ed8c8260135f856d361df060c9,Aortic enlargement,0,"[1136.0, 772.0, 1615.0, 1271.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/923878ed8c8260135f856d361df060c9.dicom
+12063,924eb4734344e5808df5d15855d68178,Aortic enlargement,0,"[1642.0, 937.0, 1939.0, 1230.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/924eb4734344e5808df5d15855d68178.dicom
+12104,928886f988f5f5791937a0ee73ff0b25,Cardiomegaly,3,"[720.0, 1474.0, 1660.0, 1862.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/928886f988f5f5791937a0ee73ff0b25.dicom
+12127,92c4bde91acc54147a32701d24422734,Cardiomegaly,3,"[1332.0, 1529.0, 2343.0, 1924.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/92c4bde91acc54147a32701d24422734.dicom
+12187,9304a2da1a0b23b779266d91a9719415,Aortic enlargement,0,"[1522.0, 984.0, 1850.0, 1371.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/9304a2da1a0b23b779266d91a9719415.dicom
+12234,9369d8c9b16544b4f5c2d953f972a87c,Cardiomegaly,3,"[1324.0, 1418.0, 2496.0, 1793.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/9369d8c9b16544b4f5c2d953f972a87c.dicom
+12237,9378e938afe891b372d0d7a1924c7aa5,Cardiomegaly,3,"[983.0, 1709.0, 2062.0, 2170.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/9378e938afe891b372d0d7a1924c7aa5.dicom
+12236,9378e938afe891b372d0d7a1924c7aa5,Aortic enlargement,0,"[1135.0, 958.0, 1789.0, 1427.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/9378e938afe891b372d0d7a1924c7aa5.dicom
+12259,93a37385c5f53a0c3a1357f996f22555,Aortic enlargement,0,"[1213.0, 847.0, 1517.0, 1279.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/93a37385c5f53a0c3a1357f996f22555.dicom
+12264,93abddc3fe8d832eac4e48ef666437cd,Aortic enlargement,0,"[1321.0, 605.0, 1690.0, 993.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/93abddc3fe8d832eac4e48ef666437cd.dicom
+12379,95b9b32e68bfb95100cc300664f9aae5,Cardiomegaly,3,"[1229.0, 1126.0, 2153.0, 1569.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/95b9b32e68bfb95100cc300664f9aae5.dicom
+12382,95badc82bced45380cf4275bb11d2bb9,Aortic enlargement,0,"[1392.0, 1019.0, 1764.0, 1513.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/95badc82bced45380cf4275bb11d2bb9.dicom
+12449,96856fd17a41d64ead800f556f369cdb,Aortic enlargement,0,"[1297.0, 607.0, 1567.0, 937.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/96856fd17a41d64ead800f556f369cdb.dicom
+12450,969d075666dedd66f4c1c6ad0b1e7052,Aortic enlargement,0,"[1113.0, 779.0, 1395.0, 1217.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/969d075666dedd66f4c1c6ad0b1e7052.dicom
+12458,969d1591fb0b4bf7041938b6fbcfbdc8,Aortic enlargement,0,"[1360.0, 807.0, 1742.0, 1260.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/969d1591fb0b4bf7041938b6fbcfbdc8.dicom
+12466,96e6dbf6148db615d730bdc0d5d76785,Cardiomegaly,3,"[911.0, 1281.0, 1956.0, 1616.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/96e6dbf6148db615d730bdc0d5d76785.dicom
+12537,97fd4f6e94b84fc564ae30aec660e443,Cardiomegaly,3,"[845.0, 1709.0, 2173.0, 2097.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/97fd4f6e94b84fc564ae30aec660e443.dicom
+12539,980030eec2892fd979adc481d9675550,Cardiomegaly,3,"[746.0, 1532.0, 1688.0, 1848.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/980030eec2892fd979adc481d9675550.dicom
+12594,985aa6789515f5ad438d2384ed52cda9,Aortic enlargement,0,"[1473.0, 861.0, 1680.0, 1092.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/985aa6789515f5ad438d2384ed52cda9.dicom
+12637,98d44861c84d532bcca874fcde5e5f42,Cardiomegaly,3,"[834.0, 1206.0, 1850.0, 1566.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/98d44861c84d532bcca874fcde5e5f42.dicom
+12636,98d44861c84d532bcca874fcde5e5f42,Aortic enlargement,0,"[1148.0, 491.0, 1355.0, 746.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/98d44861c84d532bcca874fcde5e5f42.dicom
+12646,98e2d03f7e9ba87b4922b35347866fc4,Cardiomegaly,3,"[1249.0, 1328.0, 2378.0, 1705.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/98e2d03f7e9ba87b4922b35347866fc4.dicom
+12697,999612f847684578b1fdcf2d9d4d4994,Aortic enlargement,0,"[1405.0, 871.0, 1665.0, 1153.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/999612f847684578b1fdcf2d9d4d4994.dicom
+12704,99c5019992434f96249d79326a472b05,Aortic enlargement,0,"[1361.0, 955.0, 1657.0, 1413.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/99c5019992434f96249d79326a472b05.dicom
+12709,9a080db6a1a2ceca36947cebd0367514,Aortic enlargement,0,"[1499.0, 893.0, 1795.0, 1286.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/9a080db6a1a2ceca36947cebd0367514.dicom
+12730,9a1781dd524b50ec31f94c184bbb6b4c,Aortic enlargement,0,"[1544.0, 794.0, 1828.0, 1123.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/9a1781dd524b50ec31f94c184bbb6b4c.dicom
+12743,9a321e5a866cee9e943cf5f3684de512,Cardiomegaly,3,"[1292.0, 1477.0, 2308.0, 1874.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/9a321e5a866cee9e943cf5f3684de512.dicom
+12742,9a321e5a866cee9e943cf5f3684de512,Aortic enlargement,0,"[1671.0, 705.0, 1942.0, 1131.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/9a321e5a866cee9e943cf5f3684de512.dicom
+12770,9a8dbd52534ed67ccc9144ba1b43d185,Cardiomegaly,3,"[647.0, 1479.0, 1787.0, 1845.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/9a8dbd52534ed67ccc9144ba1b43d185.dicom
+12813,9b9c8cc2a7eb9c66f77432e677f7fdb5,Cardiomegaly,3,"[1067.0, 1413.0, 2261.0, 1792.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/9b9c8cc2a7eb9c66f77432e677f7fdb5.dicom
+12849,9c41221ce46d36fc44d140e21c3f3da7,Aortic enlargement,0,"[1438.0, 910.0, 1743.0, 1178.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/9c41221ce46d36fc44d140e21c3f3da7.dicom
+12848,9c41221ce46d36fc44d140e21c3f3da7,Cardiomegaly,3,"[1296.0, 1592.0, 2329.0, 2155.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/9c41221ce46d36fc44d140e21c3f3da7.dicom
+12854,9c6b55a1b4fe76943377f346658b5da5,Aortic enlargement,0,"[1233.0, 990.0, 1432.0, 1181.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/9c6b55a1b4fe76943377f346658b5da5.dicom
+12938,9d839a52c0fc61167a2f95ae6f7ee5ad,Aortic enlargement,0,"[1340.0, 671.0, 1622.0, 915.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/9d839a52c0fc61167a2f95ae6f7ee5ad.dicom
+12941,9d8cf27d445accf16f4c577c3f05b2b3,Cardiomegaly,3,"[701.0, 1631.0, 1676.0, 2044.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/9d8cf27d445accf16f4c577c3f05b2b3.dicom
+12965,9dc2037ca1424465db0c4fe2972767f0,Aortic enlargement,0,"[1203.0, 958.0, 1454.0, 1247.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/9dc2037ca1424465db0c4fe2972767f0.dicom
+12967,9dda26bc7998dba2e4d8592801138fad,Aortic enlargement,0,"[1375.0, 970.0, 1683.0, 1287.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/9dda26bc7998dba2e4d8592801138fad.dicom
+12969,9de44540163b68efbaae0d0c2b704b4a,Cardiomegaly,3,"[1043.0, 1696.0, 2304.0, 2072.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/9de44540163b68efbaae0d0c2b704b4a.dicom
+13003,9e15afcba3bac18db3bb491b546792d4,Aortic enlargement,0,"[1604.0, 645.0, 1805.0, 819.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/9e15afcba3bac18db3bb491b546792d4.dicom
+13016,9e6b3b14058606fadddc95950f8b8e3b,Cardiomegaly,3,"[832.0, 1500.0, 1965.0, 1879.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/9e6b3b14058606fadddc95950f8b8e3b.dicom
+13029,9e952e4a222f3b3e022f0e0815ce9b02,Aortic enlargement,0,"[1473.0, 878.0, 1736.0, 1138.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/9e952e4a222f3b3e022f0e0815ce9b02.dicom
+13061,9eba0d101f410f9cdfae46cb094ae2a6,Aortic enlargement,0,"[1281.0, 713.0, 1593.0, 1151.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/9eba0d101f410f9cdfae46cb094ae2a6.dicom
+13120,9f8ad1b404295f6c9951bcfe9e2da754,Aortic enlargement,0,"[1682.0, 820.0, 1956.0, 1099.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/9f8ad1b404295f6c9951bcfe9e2da754.dicom
+13158,a040343977edb13d15604e5e3c125e59,Cardiomegaly,3,"[797.0, 1343.0, 1643.0, 1635.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/a040343977edb13d15604e5e3c125e59.dicom
+13159,a040343977edb13d15604e5e3c125e59,Aortic enlargement,0,"[1086.0, 733.0, 1282.0, 929.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/a040343977edb13d15604e5e3c125e59.dicom
+13182,a0e08352d5127c4654a6f563899fd901,Cardiomegaly,3,"[1194.0, 1388.0, 2168.0, 1722.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/a0e08352d5127c4654a6f563899fd901.dicom
+13191,a0f0fba4ab530612f91852ff0fee4f1a,Cardiomegaly,3,"[745.0, 1568.0, 1647.0, 1940.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/a0f0fba4ab530612f91852ff0fee4f1a.dicom
+13247,a153495b8f21f9c8a56d3489c513d721,Cardiomegaly,3,"[800.0, 2013.0, 2167.0, 2356.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/a153495b8f21f9c8a56d3489c513d721.dicom
+13261,a1c5f6de8dea1889fbe3542682a5a4c4,Cardiomegaly,3,"[1008.0, 1738.0, 2077.0, 2229.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/a1c5f6de8dea1889fbe3542682a5a4c4.dicom
+13286,a2509450b933cc298fbc4f25ed31baba,Aortic enlargement,0,"[1403.0, 854.0, 1674.0, 1142.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/a2509450b933cc298fbc4f25ed31baba.dicom
+13288,a2509450b933cc298fbc4f25ed31baba,Cardiomegaly,3,"[978.0, 1712.0, 2006.0, 2125.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/a2509450b933cc298fbc4f25ed31baba.dicom
+13320,a2ca3716b1e7923e5f8e0fc6f8200509,Cardiomegaly,3,"[961.0, 1749.0, 2090.0, 2074.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/a2ca3716b1e7923e5f8e0fc6f8200509.dicom
+13334,a2d8804d3d08a2afb75dd9e6fbb53010,Aortic enlargement,0,"[1224.0, 880.0, 1533.0, 1247.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/a2d8804d3d08a2afb75dd9e6fbb53010.dicom
+13343,a2ef60f418b8518fc372b7c333f8a5c3,Cardiomegaly,3,"[996.0, 1496.0, 2126.0, 1864.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/a2ef60f418b8518fc372b7c333f8a5c3.dicom
+13427,a43d700412de5ab25b800bd283e1baa2,Aortic enlargement,0,"[918.0, 749.0, 1183.0, 1025.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/a43d700412de5ab25b800bd283e1baa2.dicom
+13449,a48969d2e8f19426f60949458d6fa1b8,Cardiomegaly,3,"[969.0, 2085.0, 2445.0, 2522.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/a48969d2e8f19426f60949458d6fa1b8.dicom
+13452,a48b09b94137d7500ba23cfc72c990fa,Cardiomegaly,3,"[912.0, 1724.0, 2028.0, 2093.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/a48b09b94137d7500ba23cfc72c990fa.dicom
+13460,a4a33bef990b7fac8876f44f26b06bbb,Aortic enlargement,0,"[954.0, 623.0, 1301.0, 1001.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/a4a33bef990b7fac8876f44f26b06bbb.dicom
+13461,a4a33bef990b7fac8876f44f26b06bbb,Cardiomegaly,3,"[630.0, 1406.0, 1670.0, 1673.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/a4a33bef990b7fac8876f44f26b06bbb.dicom
+13463,a4b41309551add1836dd1f0e96e7c594,Aortic enlargement,0,"[1115.0, 814.0, 1375.0, 1267.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/a4b41309551add1836dd1f0e96e7c594.dicom
+13480,a4eb90d17d4a800bd78648862de879fa,Aortic enlargement,0,"[1120.0, 724.0, 1314.0, 965.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/a4eb90d17d4a800bd78648862de879fa.dicom
+13519,a593d4aa6d8d9dbe2139c6c3889535eb,Aortic enlargement,0,"[1289.0, 890.0, 1592.0, 1215.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/a593d4aa6d8d9dbe2139c6c3889535eb.dicom
+13534,a5a68ae68617df1b6362ed51973e1338,Cardiomegaly,3,"[814.0, 1452.0, 2137.0, 1990.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/a5a68ae68617df1b6362ed51973e1338.dicom
+13540,a5ae36dfad78f8734605d73781b02f3b,Aortic enlargement,0,"[1294.0, 594.0, 1517.0, 850.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/a5ae36dfad78f8734605d73781b02f3b.dicom
+13593,a61be8051f02ec494ed40696e988f6d1,Aortic enlargement,0,"[1044.0, 1062.0, 1231.0, 1251.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/a61be8051f02ec494ed40696e988f6d1.dicom
+13609,a6309e7373450069baaec7802ec8b244,Cardiomegaly,3,"[552.0, 1287.0, 1550.0, 1606.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/a6309e7373450069baaec7802ec8b244.dicom
+13661,a696b0fbd24620e5f86b377968175fd9,Cardiomegaly,3,"[1193.0, 1820.0, 2447.0, 2113.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/a696b0fbd24620e5f86b377968175fd9.dicom
+13664,a6a3e8472da94404496b18198004f698,Aortic enlargement,0,"[1114.0, 733.0, 1720.0, 1466.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/a6a3e8472da94404496b18198004f698.dicom
+13741,a78e6dc6978392015fa78795c0aea8a7,Aortic enlargement,0,"[1555.0, 756.0, 1825.0, 1028.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/a78e6dc6978392015fa78795c0aea8a7.dicom
+13762,a7dae5a9e0ee3afd267ae9a5ebca1c11,Aortic enlargement,0,"[1190.0, 829.0, 1435.0, 1199.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/a7dae5a9e0ee3afd267ae9a5ebca1c11.dicom
+13790,a824f7f43552c3af8d846dd1cc0f0c11,Aortic enlargement,0,"[951.0, 1175.0, 1218.0, 1476.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/a824f7f43552c3af8d846dd1cc0f0c11.dicom
+13794,a838e79ba2e9716bc790a76f7ae1c94e,Cardiomegaly,3,"[714.0, 1645.0, 1750.0, 2024.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/a838e79ba2e9716bc790a76f7ae1c94e.dicom
+13793,a838e79ba2e9716bc790a76f7ae1c94e,Aortic enlargement,0,"[1035.0, 947.0, 1340.0, 1177.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/a838e79ba2e9716bc790a76f7ae1c94e.dicom
+13797,a83a592882c4d218a715673ee31cc5fb,Aortic enlargement,0,"[1500.0, 733.0, 1799.0, 1018.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/a83a592882c4d218a715673ee31cc5fb.dicom
+13806,a84c5a7adea6bbde88dc2ac6747ca443,Aortic enlargement,0,"[1368.0, 747.0, 1685.0, 1102.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/a84c5a7adea6bbde88dc2ac6747ca443.dicom
+13830,a8d3a6a443563d90270c2d0c790b925f,Cardiomegaly,3,"[766.0, 1706.0, 1774.0, 2045.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/a8d3a6a443563d90270c2d0c790b925f.dicom
+13852,a914589fe6b948522475f7bf7e7b1136,Aortic enlargement,0,"[1081.0, 600.0, 1291.0, 808.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/a914589fe6b948522475f7bf7e7b1136.dicom
+13853,a914589fe6b948522475f7bf7e7b1136,Cardiomegaly,3,"[786.0, 1359.0, 1776.0, 1668.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/a914589fe6b948522475f7bf7e7b1136.dicom
+13858,a93d6d3861a432fd2d85d8b41448daf4,Cardiomegaly,3,"[1150.0, 1977.0, 2229.0, 2334.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/a93d6d3861a432fd2d85d8b41448daf4.dicom
+13898,a99a720cab88405baaf789e85ce20c45,Aortic enlargement,0,"[1084.0, 821.0, 1306.0, 1114.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/a99a720cab88405baaf789e85ce20c45.dicom
+13959,aa12ea6652b3b8bea37df74e4e127e8f,Aortic enlargement,0,"[1281.0, 982.0, 1643.0, 1408.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/aa12ea6652b3b8bea37df74e4e127e8f.dicom
+13977,aa4370e72e37cb955a24369f7fc9f35f,Cardiomegaly,3,"[1288.0, 1452.0, 2317.0, 1862.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/aa4370e72e37cb955a24369f7fc9f35f.dicom
+14059,ab11a974837f5313912804939bfae79e,Cardiomegaly,3,"[987.0, 1503.0, 1994.0, 1901.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/ab11a974837f5313912804939bfae79e.dicom
+14074,ab2f860cddd3f85410d8cbc3280dbdd6,Cardiomegaly,3,"[955.0, 1589.0, 1950.0, 2074.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/ab2f860cddd3f85410d8cbc3280dbdd6.dicom
+14137,ab92572887da3377ccc7d68f10407b5d,Cardiomegaly,3,"[1054.0, 1475.0, 2115.0, 1841.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/ab92572887da3377ccc7d68f10407b5d.dicom
+14150,aba91dac22aa6142a169a002c81fb49e,Aortic enlargement,0,"[1367.0, 580.0, 1668.0, 859.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/aba91dac22aa6142a169a002c81fb49e.dicom
+14160,abad0d103508405be6dceb70b2b3d5ec,Aortic enlargement,0,"[1323.0, 1022.0, 1680.0, 1379.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/abad0d103508405be6dceb70b2b3d5ec.dicom
+14158,abad0d103508405be6dceb70b2b3d5ec,Cardiomegaly,3,"[965.0, 1942.0, 2281.0, 2341.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/abad0d103508405be6dceb70b2b3d5ec.dicom
+14216,ac752b0b8cc19def83152828e39ddc71,Cardiomegaly,3,"[941.0, 1325.0, 1722.0, 1577.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/ac752b0b8cc19def83152828e39ddc71.dicom
+14226,ac84f263701e0d8668a47ac3e59e4e48,Aortic enlargement,0,"[1159.0, 876.0, 1355.0, 1119.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/ac84f263701e0d8668a47ac3e59e4e48.dicom
+14260,ace398a669b2e39eb12fdd80d5e526a1,Aortic enlargement,0,"[1472.0, 819.0, 1740.0, 1046.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/ace398a669b2e39eb12fdd80d5e526a1.dicom
+14280,acfda6253dc16e15950cbd4622395528,Cardiomegaly,3,"[667.0, 1144.0, 1620.0, 1466.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/acfda6253dc16e15950cbd4622395528.dicom
+14288,ad14d47f4b21f0c9d8f47c9570e6135e,Aortic enlargement,0,"[1004.0, 919.0, 1207.0, 1123.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/ad14d47f4b21f0c9d8f47c9570e6135e.dicom
+14322,ad74c895feae8a322c54bbce08626812,Aortic enlargement,0,"[1289.0, 884.0, 1472.0, 1076.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/ad74c895feae8a322c54bbce08626812.dicom
+14330,ad86f42123384e2441cce36347aa7d1a,Aortic enlargement,0,"[1148.0, 776.0, 1487.0, 1263.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/ad86f42123384e2441cce36347aa7d1a.dicom
+14344,adbdf73b309ebdd0b0adcbcfed6c88f7,Cardiomegaly,3,"[703.0, 1319.0, 1664.0, 1723.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/adbdf73b309ebdd0b0adcbcfed6c88f7.dicom
+14349,add6e79a3c93a11bdd9a74886b480840,Aortic enlargement,0,"[1192.0, 724.0, 1358.0, 862.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/add6e79a3c93a11bdd9a74886b480840.dicom
+14388,ae6dd2d7f46bb9d1d2f9e4a9917dc151,Cardiomegaly,3,"[650.0, 1362.0, 1699.0, 1753.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/ae6dd2d7f46bb9d1d2f9e4a9917dc151.dicom
+14407,ae9d832badb7dcd02d2e8cfbcf128ce6,Cardiomegaly,3,"[800.0, 1290.0, 1872.0, 1671.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/ae9d832badb7dcd02d2e8cfbcf128ce6.dicom
+14424,af274ab115b34a7c0eca41ed997fd214,Aortic enlargement,0,"[998.0, 913.0, 1492.0, 1382.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/af274ab115b34a7c0eca41ed997fd214.dicom
+14482,afa4de6570c31504ba4b77978377ccc9,Aortic enlargement,0,"[1637.0, 793.0, 1893.0, 1140.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/afa4de6570c31504ba4b77978377ccc9.dicom
+14506,afb8a317a1c70191a4169cf5dd4e1da6,Aortic enlargement,0,"[1164.0, 713.0, 1517.0, 1111.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/afb8a317a1c70191a4169cf5dd4e1da6.dicom
+14561,b0a52e18d443efb28d082f0ae8e7b893,Cardiomegaly,3,"[654.0, 1519.0, 2288.0, 2097.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/b0a52e18d443efb28d082f0ae8e7b893.dicom
+14565,b0bef1b57611726c4b0c636264fe5061,Aortic enlargement,0,"[1126.0, 478.0, 1471.0, 951.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/b0bef1b57611726c4b0c636264fe5061.dicom
+14579,b0cc2c92c421a86197cf135253e57e51,Aortic enlargement,0,"[1299.0, 505.0, 1667.0, 834.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/b0cc2c92c421a86197cf135253e57e51.dicom
+14582,b0ce7cceb5ad859254814cb3f75a33df,Aortic enlargement,0,"[1314.0, 789.0, 1578.0, 1043.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/b0ce7cceb5ad859254814cb3f75a33df.dicom
+14756,b2ef37ed5522134cc9ec28895ed4d932,Cardiomegaly,3,"[881.0, 1699.0, 1755.0, 1997.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/b2ef37ed5522134cc9ec28895ed4d932.dicom
+14796,b37f9bfd1002374e06d03379807967db,Aortic enlargement,0,"[1021.0, 847.0, 1277.0, 1063.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/b37f9bfd1002374e06d03379807967db.dicom
+14825,b403b5824536defcaab0702f29c180a9,Cardiomegaly,3,"[852.0, 1474.0, 1908.0, 1840.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/b403b5824536defcaab0702f29c180a9.dicom
+14826,b40a6f0ea09c4d305ef296e0d8b73cde,Aortic enlargement,0,"[1443.0, 576.0, 1704.0, 870.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/b40a6f0ea09c4d305ef296e0d8b73cde.dicom
+14831,b4105a81821522d6bfe3d18d9b757eb4,Cardiomegaly,3,"[822.0, 1249.0, 1872.0, 1900.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/b4105a81821522d6bfe3d18d9b757eb4.dicom
+14878,b482f72073e73cea73cc82ea02b353da,Cardiomegaly,3,"[821.0, 1853.0, 1972.0, 2187.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/b482f72073e73cea73cc82ea02b353da.dicom
+14921,b4b6e377eedea6b7a33ce8958d79fe71,Aortic enlargement,0,"[1626.0, 758.0, 1991.0, 1126.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/b4b6e377eedea6b7a33ce8958d79fe71.dicom
+14973,b55a0fc49ba34ddf21e50dde0f11edca,Aortic enlargement,0,"[1447.0, 975.0, 1692.0, 1202.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/b55a0fc49ba34ddf21e50dde0f11edca.dicom
+14979,b5632581be1d7da89d9d01a9983c4afa,Aortic enlargement,0,"[1315.0, 796.0, 1692.0, 1287.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/b5632581be1d7da89d9d01a9983c4afa.dicom
+14992,b576400860f1e271b820f959e8b4b9b8,Aortic enlargement,0,"[1306.0, 734.0, 1505.0, 948.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/b576400860f1e271b820f959e8b4b9b8.dicom
+14994,b57763fed61d020d0338a35dd06a4011,Aortic enlargement,0,"[1108.0, 790.0, 1367.0, 1076.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/b57763fed61d020d0338a35dd06a4011.dicom
+15031,b5c56a5624857bd608eeadd16a7f566b,Aortic enlargement,0,"[1248.0, 1045.0, 1693.0, 1526.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/b5c56a5624857bd608eeadd16a7f566b.dicom
+15044,b61e3688e902469aeda86709a31c475e,Aortic enlargement,0,"[1077.0, 860.0, 1713.0, 1535.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/b61e3688e902469aeda86709a31c475e.dicom
+15056,b66d58ed04096cca4e4fbb0da6e74592,Aortic enlargement,0,"[1203.0, 724.0, 1429.0, 1020.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/b66d58ed04096cca4e4fbb0da6e74592.dicom
+15055,b66d58ed04096cca4e4fbb0da6e74592,Cardiomegaly,3,"[719.0, 1529.0, 1854.0, 1906.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/b66d58ed04096cca4e4fbb0da6e74592.dicom
+15060,b685d041e15fd6b5ffbac258f0673518,Aortic enlargement,0,"[1524.0, 676.0, 2021.0, 1144.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/b685d041e15fd6b5ffbac258f0673518.dicom
+15061,b691366d6d838d521c053720ef950e54,Aortic enlargement,0,"[1572.0, 753.0, 1860.0, 1063.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/b691366d6d838d521c053720ef950e54.dicom
+15240,b7cde19a331d3ba71fcb8efc361af419,Aortic enlargement,0,"[1088.0, 626.0, 1369.0, 938.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/b7cde19a331d3ba71fcb8efc361af419.dicom
+15311,b8d0602c3d243b1f833bc0e5885a0b0c,Aortic enlargement,0,"[979.0, 551.0, 1196.0, 776.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/b8d0602c3d243b1f833bc0e5885a0b0c.dicom
+15326,b8df1b270c5447fdac022ab51540f949,Aortic enlargement,0,"[1313.0, 830.0, 1632.0, 1130.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/b8df1b270c5447fdac022ab51540f949.dicom
+15325,b8df1b270c5447fdac022ab51540f949,Cardiomegaly,3,"[903.0, 1864.0, 2027.0, 2298.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/b8df1b270c5447fdac022ab51540f949.dicom
+15345,b934b20d2bc6a9ad44b46aef2776268b,Aortic enlargement,0,"[1751.0, 779.0, 2131.0, 1102.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/b934b20d2bc6a9ad44b46aef2776268b.dicom
+15351,b9374768fadad510f514c5b81b048881,Aortic enlargement,0,"[1306.0, 742.0, 1644.0, 1152.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/b9374768fadad510f514c5b81b048881.dicom
+15356,b948592be9abd5dcf1a570c72887c033,Cardiomegaly,3,"[744.0, 1687.0, 1874.0, 2002.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/b948592be9abd5dcf1a570c72887c033.dicom
+15414,ba0f97b49906ccf1bf205dd7ca108c06,Aortic enlargement,0,"[975.0, 508.0, 1229.0, 783.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/ba0f97b49906ccf1bf205dd7ca108c06.dicom
+15418,ba142c273c1f6e0fcccfeec5751351b2,Aortic enlargement,0,"[1505.0, 588.0, 1836.0, 977.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/ba142c273c1f6e0fcccfeec5751351b2.dicom
+15447,ba4a00ea7764b5ee772792a50531e9e7,Aortic enlargement,0,"[1121.0, 874.0, 1380.0, 1173.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/ba4a00ea7764b5ee772792a50531e9e7.dicom
+15481,ba68c12f2141bba79d9c29322c2c295a,Aortic enlargement,0,"[1678.0, 1074.0, 2101.0, 1528.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/ba68c12f2141bba79d9c29322c2c295a.dicom
+15491,ba8c1cd9bceb450054920b79af773650,Aortic enlargement,0,"[1451.0, 1049.0, 1784.0, 1305.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/ba8c1cd9bceb450054920b79af773650.dicom
+15510,bb315b4bc113c0506a9e24593cb06a6b,Aortic enlargement,0,"[1250.0, 1033.0, 2025.0, 1388.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/bb315b4bc113c0506a9e24593cb06a6b.dicom
+15520,bb60194195e9a5eaa27685d2fa688085,Cardiomegaly,3,"[1016.0, 1362.0, 2148.0, 1823.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/bb60194195e9a5eaa27685d2fa688085.dicom
+15601,bc38a48bbec6ee4e1ccb6eb453529cae,Aortic enlargement,0,"[1614.0, 748.0, 1883.0, 1029.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/bc38a48bbec6ee4e1ccb6eb453529cae.dicom
+15662,bd2783f6ab7795e45ccdbd4bb96250f3,Cardiomegaly,3,"[1056.0, 892.0, 1328.0, 1123.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/bd2783f6ab7795e45ccdbd4bb96250f3.dicom
+15715,bd931b74386e3e3f2934b1741c77d5b1,Aortic enlargement,0,"[1264.0, 511.0, 1535.0, 784.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/bd931b74386e3e3f2934b1741c77d5b1.dicom
+15725,bda862be2d20d538b558300c97b8255c,Cardiomegaly,3,"[850.0, 1199.0, 1707.0, 1514.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/bda862be2d20d538b558300c97b8255c.dicom
+15781,bde4bfa149bc13cee2de7c2e942979e7,Aortic enlargement,0,"[1095.0, 830.0, 1319.0, 1036.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/bde4bfa149bc13cee2de7c2e942979e7.dicom
+15818,be0cc63b7335bd1fb95a2ad432209a14,Aortic enlargement,0,"[1364.0, 772.0, 1623.0, 1135.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/be0cc63b7335bd1fb95a2ad432209a14.dicom
+15856,be904250a48381ded92ee7d690cf3687,Aortic enlargement,0,"[1094.0, 560.0, 1339.0, 807.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/be904250a48381ded92ee7d690cf3687.dicom
+15858,be92ec2aee088c56d3ba79598461cb9a,Aortic enlargement,0,"[1164.0, 685.0, 1404.0, 912.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/be92ec2aee088c56d3ba79598461cb9a.dicom
+15866,be965185f4128002ad591b91c41e0211,Cardiomegaly,3,"[802.0, 1329.0, 1659.0, 1652.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/be965185f4128002ad591b91c41e0211.dicom
+15865,be965185f4128002ad591b91c41e0211,Aortic enlargement,0,"[1063.0, 825.0, 1303.0, 1063.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/be965185f4128002ad591b91c41e0211.dicom
+15920,bf429fed8c01a5d6014d86f2aa3385fa,Aortic enlargement,0,"[1347.0, 844.0, 1577.0, 1074.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/bf429fed8c01a5d6014d86f2aa3385fa.dicom
+15925,bf5c7a815313c2d2853494cf766237b5,Cardiomegaly,3,"[694.0, 1732.0, 1625.0, 2102.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/bf5c7a815313c2d2853494cf766237b5.dicom
+15945,bfdd2b7d930f17b450e1d1e7ec7a57bb,Aortic enlargement,0,"[1428.0, 875.0, 1786.0, 1291.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/bfdd2b7d930f17b450e1d1e7ec7a57bb.dicom
+16013,c18362ca7e7d5df7a4dd8db31dfed194,Cardiomegaly,3,"[643.0, 1722.0, 1504.0, 2008.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/c18362ca7e7d5df7a4dd8db31dfed194.dicom
+16040,c201c69926e59f0c1dfeeeb8365ff05a,Cardiomegaly,3,"[637.0, 1118.0, 1895.0, 1851.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/c201c69926e59f0c1dfeeeb8365ff05a.dicom
+16048,c20ca4cd7589fa3a77578769bf82ea1b,Cardiomegaly,3,"[933.0, 1534.0, 2096.0, 1892.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/c20ca4cd7589fa3a77578769bf82ea1b.dicom
+16075,c26bb71d19d1f57200b4bf9b8bb596d9,Aortic enlargement,0,"[1136.0, 694.0, 1415.0, 952.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/c26bb71d19d1f57200b4bf9b8bb596d9.dicom
+16083,c2a2ce443b43b82ae5bd29d06716a44e,Aortic enlargement,0,"[1321.0, 678.0, 1636.0, 1033.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/c2a2ce443b43b82ae5bd29d06716a44e.dicom
+16084,c2bdc729e1623c6c142d9f4e6ed48418,Aortic enlargement,0,"[1140.0, 655.0, 1366.0, 874.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/c2bdc729e1623c6c142d9f4e6ed48418.dicom
+16103,c2f01c1eb7b249b706ea3f1ee549e05f,Aortic enlargement,0,"[995.0, 593.0, 1199.0, 893.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/c2f01c1eb7b249b706ea3f1ee549e05f.dicom
+16138,c34e6aa7a5db3386850b830dd3c45a98,Cardiomegaly,3,"[660.0, 1434.0, 1558.0, 1878.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/c34e6aa7a5db3386850b830dd3c45a98.dicom
+16155,c38c9a98d30027a18e88f39346987f78,Cardiomegaly,3,"[512.0, 1185.0, 1556.0, 1420.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/c38c9a98d30027a18e88f39346987f78.dicom
+16189,c3adefe651baf211a73e391f3068e916,Cardiomegaly,3,"[1144.0, 1584.0, 2150.0, 1849.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/c3adefe651baf211a73e391f3068e916.dicom
+16316,c4e8d9bb21040cbe94f1763856bfcfe2,Cardiomegaly,3,"[865.0, 1109.0, 1738.0, 1583.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/c4e8d9bb21040cbe94f1763856bfcfe2.dicom
+16370,c5a45ede0cbd270bf54e8a5e7fd27813,Cardiomegaly,3,"[1336.0, 1119.0, 2384.0, 1577.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/c5a45ede0cbd270bf54e8a5e7fd27813.dicom
+16436,c67b6e145e57b4fbd4db367f114bd879,Cardiomegaly,3,"[740.0, 1322.0, 1863.0, 1778.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/c67b6e145e57b4fbd4db367f114bd879.dicom
+16528,c6e432dd2d937af0c6c404f59e82524b,Aortic enlargement,0,"[1257.0, 955.0, 1527.0, 1209.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/c6e432dd2d937af0c6c404f59e82524b.dicom
+16692,c8e9aaf309d856f9a7275115fef4a423,Cardiomegaly,3,"[756.0, 1195.0, 1828.0, 1572.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/c8e9aaf309d856f9a7275115fef4a423.dicom
+16694,c8f305c30eccf48e12cf024df3d24e26,Cardiomegaly,3,"[789.0, 1290.0, 1647.0, 1641.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/c8f305c30eccf48e12cf024df3d24e26.dicom
+16704,c8fe4972b001dfc2e11a06c800da0d6a,Aortic enlargement,0,"[1003.0, 686.0, 1209.0, 943.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/c8fe4972b001dfc2e11a06c800da0d6a.dicom
+16714,c925e4d4be7a67db1cda23c93f9414ec,Cardiomegaly,3,"[799.0, 1885.0, 2080.0, 2264.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/c925e4d4be7a67db1cda23c93f9414ec.dicom
+16733,c9380a132776f6d999ed5a72a1212bcf,Cardiomegaly,3,"[1453.0, 1676.0, 2478.0, 2063.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/c9380a132776f6d999ed5a72a1212bcf.dicom
+16802,ca45eff411274d3a20007bfbc5b68bc1,Cardiomegaly,3,"[1003.0, 1593.0, 2375.0, 2099.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/ca45eff411274d3a20007bfbc5b68bc1.dicom
+16847,cb206cb073c2685558a0ef6dece16fa7,Aortic enlargement,0,"[1616.0, 623.0, 1956.0, 943.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/cb206cb073c2685558a0ef6dece16fa7.dicom
+16890,cc9a84f1f3942ceb845c5f174e5b70cd,Aortic enlargement,0,"[1271.0, 559.0, 1689.0, 942.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/cc9a84f1f3942ceb845c5f174e5b70cd.dicom
+16892,cc9a84f1f3942ceb845c5f174e5b70cd,Cardiomegaly,3,"[872.0, 1268.0, 2129.0, 2134.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/cc9a84f1f3942ceb845c5f174e5b70cd.dicom
+16927,ccff375f4139cef65b98385224cfc810,Aortic enlargement,0,"[1497.0, 811.0, 1741.0, 1099.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/ccff375f4139cef65b98385224cfc810.dicom
+16929,cd1290a0b49dd799d0c77475b1953868,Cardiomegaly,3,"[1079.0, 1735.0, 2134.0, 2321.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/cd1290a0b49dd799d0c77475b1953868.dicom
+16954,cd857b26125043e9eee272433187f3a6,Aortic enlargement,0,"[1141.0, 640.0, 1383.0, 916.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/cd857b26125043e9eee272433187f3a6.dicom
+16991,cde6b59dc5447237fd9f9b264567a653,Cardiomegaly,3,"[712.0, 1195.0, 1629.0, 1559.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/cde6b59dc5447237fd9f9b264567a653.dicom
+17009,cdfb27f0268e0803530e4511ed89b0c1,Aortic enlargement,0,"[1204.0, 717.0, 1468.0, 979.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/cdfb27f0268e0803530e4511ed89b0c1.dicom
+17008,cdfb27f0268e0803530e4511ed89b0c1,Cardiomegaly,3,"[835.0, 1450.0, 1981.0, 1822.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/cdfb27f0268e0803530e4511ed89b0c1.dicom
+17065,ce4e8ead795a19444e7b9dc1c27cfb66,Cardiomegaly,3,"[982.0, 1428.0, 1968.0, 1797.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/ce4e8ead795a19444e7b9dc1c27cfb66.dicom
+17070,ce51a9ef3a4afc873a483972c2264c2f,Cardiomegaly,3,"[619.0, 1219.0, 1558.0, 1454.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/ce51a9ef3a4afc873a483972c2264c2f.dicom
+17076,ce5d79a7cdd6e58c3c4e858abf9c4101,Aortic enlargement,0,"[1602.0, 792.0, 1901.0, 1091.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/ce5d79a7cdd6e58c3c4e858abf9c4101.dicom
+17107,ceae25112f71e514cb5772484f9434f7,Cardiomegaly,3,"[694.0, 1384.0, 1772.0, 1655.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/ceae25112f71e514cb5772484f9434f7.dicom
+17132,cf32a2bc41deeb7436a36bcc4ff324fb,Aortic enlargement,0,"[1496.0, 977.0, 2072.0, 1244.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/cf32a2bc41deeb7436a36bcc4ff324fb.dicom
+17136,cf3f071a229e2d4433abcb38c4b35cac,Aortic enlargement,0,"[1460.0, 1036.0, 1770.0, 1423.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/cf3f071a229e2d4433abcb38c4b35cac.dicom
+17164,cf4d4dc28551c17c0d33d0326d4a201b,Cardiomegaly,3,"[1182.0, 1450.0, 2264.0, 1731.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/cf4d4dc28551c17c0d33d0326d4a201b.dicom
+17183,cf95785b8e8bf924e9cf0b51faef41aa,Aortic enlargement,0,"[1420.0, 826.0, 1708.0, 1146.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/cf95785b8e8bf924e9cf0b51faef41aa.dicom
+17187,cf959acfa91add68f9f4b35aca1abbce,Aortic enlargement,0,"[1363.0, 793.0, 1651.0, 1103.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/cf959acfa91add68f9f4b35aca1abbce.dicom
+17238,d0043062cebce85f2487407bc033d405,Cardiomegaly,3,"[966.0, 2026.0, 2472.0, 2938.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/d0043062cebce85f2487407bc033d405.dicom
+17249,d015e02257639b55b196e26820e10081,Cardiomegaly,3,"[796.0, 1261.0, 1601.0, 1778.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/d015e02257639b55b196e26820e10081.dicom
+17299,d088c22989ec259a26d64efe51eb276d,Aortic enlargement,0,"[1636.0, 793.0, 1933.0, 1100.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/d088c22989ec259a26d64efe51eb276d.dicom
+17359,d11b2ce53ce195af06de80a5076f8126,Aortic enlargement,0,"[1441.0, 930.0, 1743.0, 1201.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/d11b2ce53ce195af06de80a5076f8126.dicom
+17378,d15e6278a65dfc72e8a437c5836ba4a6,Aortic enlargement,0,"[1377.0, 749.0, 1736.0, 1215.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/d15e6278a65dfc72e8a437c5836ba4a6.dicom
+17441,d1dbddfd0d130d400e81deeef783007a,Aortic enlargement,0,"[1779.0, 589.0, 2089.0, 938.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/d1dbddfd0d130d400e81deeef783007a.dicom
+17477,d23024cde82d22b8e1cf899c3c0207c7,Cardiomegaly,3,"[756.0, 1501.0, 1708.0, 1856.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/d23024cde82d22b8e1cf899c3c0207c7.dicom
+17487,d252062152a9c144706233c2a544c711,Aortic enlargement,0,"[1070.0, 717.0, 1351.0, 1061.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/d252062152a9c144706233c2a544c711.dicom
+17492,d25885006314439d3d359c94d1ea63e9,Aortic enlargement,0,"[1040.0, 693.0, 1393.0, 1071.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/d25885006314439d3d359c94d1ea63e9.dicom
+17523,d2de60c06501603f1d4842fa71808636,Aortic enlargement,0,"[1225.0, 773.0, 1589.0, 1087.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/d2de60c06501603f1d4842fa71808636.dicom
+17550,d33e30f362a5e816c72f2d2e81b810bd,Cardiomegaly,3,"[666.0, 1254.0, 1663.0, 1590.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/d33e30f362a5e816c72f2d2e81b810bd.dicom
+17588,d3e275e681d082bcc003336b8355b2f2,Cardiomegaly,3,"[738.0, 1243.0, 1955.0, 1696.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/d3e275e681d082bcc003336b8355b2f2.dicom
+17622,d43c6680c56521ab6aafd6babf8bd7c6,Aortic enlargement,0,"[997.0, 792.0, 1239.0, 1048.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/d43c6680c56521ab6aafd6babf8bd7c6.dicom
+17624,d44766bf0eb902fbc1848f418417c45f,Cardiomegaly,3,"[779.0, 1179.0, 1742.0, 1557.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/d44766bf0eb902fbc1848f418417c45f.dicom
+17630,d45374a1b323c34b8418b36b819783e3,Cardiomegaly,3,"[1393.0, 1736.0, 2316.0, 2069.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/d45374a1b323c34b8418b36b819783e3.dicom
+17645,d47bdbcba4b30efdc224e8d6ab79f647,Cardiomegaly,3,"[1065.0, 1272.0, 2387.0, 1933.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/d47bdbcba4b30efdc224e8d6ab79f647.dicom
+17651,d47efdd2527ed1646f31bec6dcbbcdc1,Aortic enlargement,0,"[1212.0, 1151.0, 1468.0, 1399.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/d47efdd2527ed1646f31bec6dcbbcdc1.dicom
+17680,d4dcc6b21675250fcf6697b8b1b65e5d,Aortic enlargement,0,"[1143.0, 868.0, 1410.0, 1140.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/d4dcc6b21675250fcf6697b8b1b65e5d.dicom
+17692,d5203efda6708309bae1c60534f16192,Cardiomegaly,3,"[780.0, 1407.0, 1968.0, 1788.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/d5203efda6708309bae1c60534f16192.dicom
+17696,d530ec3596a3e7e7dd73fbe369178c07,Aortic enlargement,0,"[1292.0, 785.0, 1638.0, 1245.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/d530ec3596a3e7e7dd73fbe369178c07.dicom
+17831,d61eb45d47ad48020286203b1f1362f8,Cardiomegaly,3,"[1051.0, 1577.0, 2195.0, 1842.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/d61eb45d47ad48020286203b1f1362f8.dicom
+17932,d7210d8d2f377ab74e46acfb4a158e79,Aortic enlargement,0,"[1668.0, 591.0, 2052.0, 1050.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/d7210d8d2f377ab74e46acfb4a158e79.dicom
+17942,d7242fc163c07f6d286ed049914d962e,Aortic enlargement,0,"[1029.0, 828.0, 1326.0, 1147.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/d7242fc163c07f6d286ed049914d962e.dicom
+17951,d746a3f16ed61bfebbdfab1b9086e3aa,Cardiomegaly,3,"[1092.0, 1444.0, 2046.0, 1775.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/d746a3f16ed61bfebbdfab1b9086e3aa.dicom
+17977,d754c0b8f318f683355ec2b11954abb4,Aortic enlargement,0,"[1520.0, 762.0, 1920.0, 1190.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/d754c0b8f318f683355ec2b11954abb4.dicom
+17983,d786442ae2ad8b9bec49fece2659d564,Cardiomegaly,3,"[974.0, 1829.0, 2034.0, 2199.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/d786442ae2ad8b9bec49fece2659d564.dicom
+18091,d84454d6b6109ee5d68a81e49a45cb4f,Aortic enlargement,0,"[1501.0, 578.0, 1811.0, 874.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/d84454d6b6109ee5d68a81e49a45cb4f.dicom
+18163,d91079b185012d745fb4c1aa0e04d3b9,Aortic enlargement,0,"[1181.0, 751.0, 1412.0, 990.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/d91079b185012d745fb4c1aa0e04d3b9.dicom
+18174,d9245845860a540560404f47bcda1716,Aortic enlargement,0,"[1368.0, 946.0, 1692.0, 1373.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/d9245845860a540560404f47bcda1716.dicom
+18176,d926d49104e258332d45e8afb02dd575,Cardiomegaly,3,"[842.0, 1381.0, 1642.0, 1810.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/d926d49104e258332d45e8afb02dd575.dicom
+18191,d936f8115e8be8a46c5933decd3b6b94,Cardiomegaly,3,"[996.0, 1256.0, 2216.0, 1894.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/d936f8115e8be8a46c5933decd3b6b94.dicom
+18224,d9e1d3236f81f2cbdbe29bb94b7d45e2,Cardiomegaly,3,"[729.0, 1454.0, 1759.0, 1841.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/d9e1d3236f81f2cbdbe29bb94b7d45e2.dicom
+18230,d9f6c5f7623550374aff527ad8ba6ccd,Cardiomegaly,3,"[670.0, 1669.0, 1628.0, 2095.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/d9f6c5f7623550374aff527ad8ba6ccd.dicom
+18267,da4f74aa1442d910174204f6dfb0d074,Cardiomegaly,3,"[872.0, 1482.0, 1853.0, 1786.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/da4f74aa1442d910174204f6dfb0d074.dicom
+18317,da996e211b26bd509d3ca7136c1e9435,Cardiomegaly,3,"[692.0, 1703.0, 1812.0, 2114.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/da996e211b26bd509d3ca7136c1e9435.dicom
+18376,db1942c4b69ecc90ff870f987b7c5284,Aortic enlargement,0,"[1154.0, 541.0, 1417.0, 829.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/db1942c4b69ecc90ff870f987b7c5284.dicom
+18374,db1942c4b69ecc90ff870f987b7c5284,Cardiomegaly,3,"[912.0, 1123.0, 1724.0, 1364.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/db1942c4b69ecc90ff870f987b7c5284.dicom
+18378,db30e6a7a66927f57bf3cbfd440e377a,Aortic enlargement,0,"[1482.0, 936.0, 1729.0, 1326.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/db30e6a7a66927f57bf3cbfd440e377a.dicom
+18392,db458f41a65184d55c82cdbee65ed10b,Aortic enlargement,0,"[1070.0, 714.0, 1288.0, 946.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/db458f41a65184d55c82cdbee65ed10b.dicom
+18396,db462203729870bda6162307e7d2f319,Aortic enlargement,0,"[927.0, 607.0, 1224.0, 912.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/db462203729870bda6162307e7d2f319.dicom
+18523,dd83b3e293e8801c9fb167c53f96e2b6,Cardiomegaly,3,"[965.0, 1436.0, 2116.0, 2074.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/dd83b3e293e8801c9fb167c53f96e2b6.dicom
+18531,dd915e69c819b34a0cd6a9120289e8e6,Aortic enlargement,0,"[1454.0, 631.0, 1766.0, 1059.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/dd915e69c819b34a0cd6a9120289e8e6.dicom
+18536,ddc2e81bc04195f7f72109ee5873a2fb,Cardiomegaly,3,"[622.0, 1403.0, 1834.0, 2093.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/ddc2e81bc04195f7f72109ee5873a2fb.dicom
+18572,ddfc9d530d66058f1dcec6b2685bc254,Cardiomegaly,3,"[762.0, 1531.0, 1646.0, 1811.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/ddfc9d530d66058f1dcec6b2685bc254.dicom
+18574,ddfe291fa3e2d21ce8681a2e9e4b300a,Cardiomegaly,3,"[908.0, 1744.0, 1989.0, 2188.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/ddfe291fa3e2d21ce8681a2e9e4b300a.dicom
+18603,de45e56d725f9c1e2d3dec69587b2682,Cardiomegaly,3,"[590.0, 1727.0, 1589.0, 2004.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/de45e56d725f9c1e2d3dec69587b2682.dicom
+18625,de7de41f2a0c21dc5fa8c1b3e05f469d,Aortic enlargement,0,"[1459.0, 812.0, 1903.0, 1293.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/de7de41f2a0c21dc5fa8c1b3e05f469d.dicom
+18654,def6b60a136b880ef5733241781a803d,Aortic enlargement,0,"[1035.0, 887.0, 1301.0, 1073.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/def6b60a136b880ef5733241781a803d.dicom
+18661,df079ba565294d4e0abd85356d2fdfe4,Aortic enlargement,0,"[1301.0, 765.0, 1619.0, 1189.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/df079ba565294d4e0abd85356d2fdfe4.dicom
+18688,df2e21b90ce0510ed66e161136cf60ad,Aortic enlargement,0,"[1637.0, 904.0, 1867.0, 1165.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/df2e21b90ce0510ed66e161136cf60ad.dicom
+18701,dfb91e05ce090dbd08177c0b4531dae3,Aortic enlargement,0,"[904.0, 610.0, 1178.0, 845.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/dfb91e05ce090dbd08177c0b4531dae3.dicom
+18755,e034d4e19f562e61b29533f222ec9600,Cardiomegaly,3,"[1070.0, 1931.0, 2365.0, 2501.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/e034d4e19f562e61b29533f222ec9600.dicom
+18833,e18a100e84aefa9da53dc8cc2fd4f22c,Cardiomegaly,3,"[807.0, 1484.0, 1788.0, 1896.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/e18a100e84aefa9da53dc8cc2fd4f22c.dicom
+18838,e19c99b75b9523210bfaf40406df82f3,Cardiomegaly,3,"[635.0, 1495.0, 1588.0, 1709.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/e19c99b75b9523210bfaf40406df82f3.dicom
+18853,e1c76d9a72b804e14b4f93f3e23f1fa8,Aortic enlargement,0,"[1334.0, 672.0, 1757.0, 1246.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/e1c76d9a72b804e14b4f93f3e23f1fa8.dicom
+18873,e1e596163010acb347ac7fa1a48d8d9c,Cardiomegaly,3,"[1050.0, 1625.0, 2550.0, 2334.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/e1e596163010acb347ac7fa1a48d8d9c.dicom
+18892,e2321f70d075c658946e167356ef516c,Aortic enlargement,0,"[1165.0, 948.0, 1452.0, 1270.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/e2321f70d075c658946e167356ef516c.dicom
+18896,e23431ed927b6459935d0d5457ca8604,Aortic enlargement,0,"[1706.0, 703.0, 2022.0, 1061.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/e23431ed927b6459935d0d5457ca8604.dicom
+18909,e2441e5b3cbecdd27c65aea20353cc1d,Cardiomegaly,3,"[987.0, 1196.0, 2134.0, 1636.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/e2441e5b3cbecdd27c65aea20353cc1d.dicom
+18913,e2516771535cd2d3550541b91d8b1233,Cardiomegaly,3,"[817.0, 1567.0, 1761.0, 2028.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/e2516771535cd2d3550541b91d8b1233.dicom
+18955,e2aac840e7e6f54e6fe0003c60c51c57,Cardiomegaly,3,"[1108.0, 1750.0, 2285.0, 2094.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/e2aac840e7e6f54e6fe0003c60c51c57.dicom
+18964,e2cdf4955f581cb30a0e92f006125307,Cardiomegaly,3,"[752.0, 1499.0, 1658.0, 1825.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/e2cdf4955f581cb30a0e92f006125307.dicom
+19036,e31be972e181987a8600a8700c1ebe88,Cardiomegaly,3,"[1090.0, 1572.0, 2125.0, 1985.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/e31be972e181987a8600a8700c1ebe88.dicom
+19037,e31be972e181987a8600a8700c1ebe88,Aortic enlargement,0,"[1426.0, 695.0, 1739.0, 1051.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/e31be972e181987a8600a8700c1ebe88.dicom
+19054,e38bb22eeeb25ec645b19e81883b5759,Cardiomegaly,3,"[690.0, 1768.0, 1660.0, 2100.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/e38bb22eeeb25ec645b19e81883b5759.dicom
+19081,e3c9c54cbd1ca5e2dfec4d5f95c1fb65,Aortic enlargement,0,"[949.0, 586.0, 1215.0, 871.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/e3c9c54cbd1ca5e2dfec4d5f95c1fb65.dicom
+19082,e3cc7ffdbe05d3b7b1696c8a2a61a61c,Aortic enlargement,0,"[1422.0, 820.0, 1678.0, 1023.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/e3cc7ffdbe05d3b7b1696c8a2a61a61c.dicom
+19103,e3e8b186331c3acb1b9f82b1f2cbe56d,Aortic enlargement,0,"[740.0, 706.0, 1511.0, 1588.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/e3e8b186331c3acb1b9f82b1f2cbe56d.dicom
+19118,e4980f36744d9a8e0dbb26bb97ccbda9,Aortic enlargement,0,"[1246.0, 752.0, 1499.0, 1065.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/e4980f36744d9a8e0dbb26bb97ccbda9.dicom
+19180,e4ef5698e1570bed158879d7b5ab20f7,Aortic enlargement,0,"[1071.0, 960.0, 1319.0, 1299.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/e4ef5698e1570bed158879d7b5ab20f7.dicom
+19195,e50abd173f7b744b87b84cd7a2d17a79,Aortic enlargement,0,"[1011.0, 537.0, 1264.0, 813.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/e50abd173f7b744b87b84cd7a2d17a79.dicom
+19197,e521b0e2fca887f754c05d26a9783103,Aortic enlargement,0,"[1116.0, 974.0, 1398.0, 1337.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/e521b0e2fca887f754c05d26a9783103.dicom
+19201,e521dced7f05cc201fd9e6e30f145dae,Aortic enlargement,0,"[1307.0, 683.0, 1653.0, 1002.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/e521dced7f05cc201fd9e6e30f145dae.dicom
+19199,e521dced7f05cc201fd9e6e30f145dae,Cardiomegaly,3,"[875.0, 1860.0, 2073.0, 2267.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/e521dced7f05cc201fd9e6e30f145dae.dicom
+19203,e531672ae6083e717cbe83d7fc71ddda,Aortic enlargement,0,"[1174.0, 621.0, 1503.0, 920.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/e531672ae6083e717cbe83d7fc71ddda.dicom
+19239,e58d508f7915d3ada6edb4d88dc1f5f7,Aortic enlargement,0,"[1061.0, 675.0, 1289.0, 1025.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/e58d508f7915d3ada6edb4d88dc1f5f7.dicom
+19299,e65784ed3ae371e991d3362ab0eb8a35,Cardiomegaly,3,"[643.0, 1588.0, 1722.0, 2010.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/e65784ed3ae371e991d3362ab0eb8a35.dicom
+19303,e674608b3b3609bdf9a5c8017ddcacba,Cardiomegaly,3,"[628.0, 1452.0, 1644.0, 1814.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/e674608b3b3609bdf9a5c8017ddcacba.dicom
+19336,e694841193437bcb89ad2c1acbf95f79,Cardiomegaly,3,"[846.0, 1327.0, 1829.0, 1769.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/e694841193437bcb89ad2c1acbf95f79.dicom
+19360,e6dcfd8e8ebe5462b3a6e344384826ba,Aortic enlargement,0,"[1402.0, 837.0, 1701.0, 1271.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/e6dcfd8e8ebe5462b3a6e344384826ba.dicom
+19401,e722a8f83ef80b62f5b6d73828e1f760,Aortic enlargement,0,"[1311.0, 991.0, 1588.0, 1327.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/e722a8f83ef80b62f5b6d73828e1f760.dicom
+19412,e74856412eeed254480c9d2f78d001d5,Cardiomegaly,3,"[781.0, 1683.0, 1981.0, 2322.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/e74856412eeed254480c9d2f78d001d5.dicom
+19414,e74b1c3bddcee3e007b6851bd8ff8174,Aortic enlargement,0,"[1679.0, 1045.0, 1971.0, 1367.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/e74b1c3bddcee3e007b6851bd8ff8174.dicom
+19428,e76c69a0601a1f3f059a762b7fb0614e,Cardiomegaly,3,"[811.0, 1622.0, 2119.0, 1956.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/e76c69a0601a1f3f059a762b7fb0614e.dicom
+19455,e7c0727f49a3d279143ed21b382ac1c4,Aortic enlargement,0,"[1149.0, 836.0, 1416.0, 1276.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/e7c0727f49a3d279143ed21b382ac1c4.dicom
+19508,e88addf3e1354820d8b1a4b42083188c,Cardiomegaly,3,"[846.0, 1478.0, 1827.0, 1728.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/e88addf3e1354820d8b1a4b42083188c.dicom
+19525,e8cccc190246b1950b4eaa9433f295f3,Aortic enlargement,0,"[1240.0, 708.0, 1599.0, 1102.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/e8cccc190246b1950b4eaa9433f295f3.dicom
+19528,e8d9fffe6ef4c59d01e8e64cf5c7466c,Cardiomegaly,3,"[724.0, 1720.0, 1742.0, 2025.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/e8d9fffe6ef4c59d01e8e64cf5c7466c.dicom
+19543,e9278ee61a8a275650baf02c600c382e,Aortic enlargement,0,"[1658.0, 723.0, 1963.0, 977.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/e9278ee61a8a275650baf02c600c382e.dicom
+19605,e9986131c41216ce7900ddfe19e38ed6,Aortic enlargement,0,"[1174.0, 723.0, 1487.0, 1113.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/e9986131c41216ce7900ddfe19e38ed6.dicom
+19634,ea00fab3726550241cd51c2750892d36,Aortic enlargement,0,"[1611.0, 773.0, 1920.0, 1073.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/ea00fab3726550241cd51c2750892d36.dicom
+19674,eaa4b09922cfd1c4130787403173e93a,Aortic enlargement,0,"[1008.0, 838.0, 1302.0, 1083.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/eaa4b09922cfd1c4130787403173e93a.dicom
+19716,eaef6aa0bc70059db2c376b924d29ba2,Aortic enlargement,0,"[1241.0, 886.0, 1537.0, 1206.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/eaef6aa0bc70059db2c376b924d29ba2.dicom
+19725,eb268b0b19f47cf268626dafc1d6f45f,Aortic enlargement,0,"[1171.0, 762.0, 1443.0, 1090.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/eb268b0b19f47cf268626dafc1d6f45f.dicom
+19732,eb331754f1d31043109a9cc9aa968ab6,Aortic enlargement,0,"[1368.0, 788.0, 1782.0, 1266.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/eb331754f1d31043109a9cc9aa968ab6.dicom
+19733,eb331754f1d31043109a9cc9aa968ab6,Cardiomegaly,3,"[1035.0, 1480.0, 2282.0, 1877.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/eb331754f1d31043109a9cc9aa968ab6.dicom
+19797,ec0d8eda3ff0b4fe8d3a7a7b795fed21,Aortic enlargement,0,"[1068.0, 1326.0, 1387.0, 1652.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/ec0d8eda3ff0b4fe8d3a7a7b795fed21.dicom
+19801,ec513a0af055499f1b188cc6a9175ee1,Aortic enlargement,0,"[1500.0, 901.0, 1786.0, 1203.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/ec513a0af055499f1b188cc6a9175ee1.dicom
+19799,ec513a0af055499f1b188cc6a9175ee1,Cardiomegaly,3,"[1119.0, 1887.0, 2298.0, 2305.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/ec513a0af055499f1b188cc6a9175ee1.dicom
+19825,ec7572df0f93d21860c5dc1147d1393b,Cardiomegaly,3,"[794.0, 1422.0, 1693.0, 1789.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/ec7572df0f93d21860c5dc1147d1393b.dicom
+19828,ec9927d1322b9c33ad265903e06ee108,Cardiomegaly,3,"[1075.0, 1626.0, 1949.0, 1858.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/ec9927d1322b9c33ad265903e06ee108.dicom
+19878,ecdaa71066f64d1f0592799186135925,Cardiomegaly,3,"[924.0, 1807.0, 1989.0, 2134.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/ecdaa71066f64d1f0592799186135925.dicom
+19948,ed6b8aafbebda034d02fb57cbe7a2439,Cardiomegaly,3,"[1088.0, 1468.0, 2189.0, 1874.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/ed6b8aafbebda034d02fb57cbe7a2439.dicom
+19979,edc6ab1b2233143d011edf7706c32b6c,Cardiomegaly,3,"[628.0, 1312.0, 1507.0, 1632.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/edc6ab1b2233143d011edf7706c32b6c.dicom
+20013,ee253aab2bfa090c01a596a449159233,Aortic enlargement,0,"[1657.0, 841.0, 1914.0, 1087.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/ee253aab2bfa090c01a596a449159233.dicom
+20049,ee47fd39217a0d25550cb6b9badd3ee2,Cardiomegaly,3,"[765.0, 1533.0, 1943.0, 1930.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/ee47fd39217a0d25550cb6b9badd3ee2.dicom
+20051,ee530c9de44ad59a5467104a429ded64,Cardiomegaly,3,"[982.0, 1432.0, 2116.0, 1751.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/ee530c9de44ad59a5467104a429ded64.dicom
+20083,eebb4b0a4472b69b72b1004b5b4bfcaa,Aortic enlargement,0,"[1097.0, 894.0, 1473.0, 1245.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/eebb4b0a4472b69b72b1004b5b4bfcaa.dicom
+20095,eeee9953810eee9388b3a0c5a4ad4ef6,Aortic enlargement,0,"[1376.0, 660.0, 1640.0, 993.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/eeee9953810eee9388b3a0c5a4ad4ef6.dicom
+20117,ef0c1fe356460c25e02dd26a6013e895,Aortic enlargement,0,"[1007.0, 888.0, 1259.0, 1226.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/ef0c1fe356460c25e02dd26a6013e895.dicom
+20120,ef2e25ee2c102a3b20052b4a3770f0d8,Cardiomegaly,3,"[998.0, 1377.0, 1905.0, 1727.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/ef2e25ee2c102a3b20052b4a3770f0d8.dicom
+20118,ef2e25ee2c102a3b20052b4a3770f0d8,Aortic enlargement,0,"[1404.0, 767.0, 1722.0, 1147.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/ef2e25ee2c102a3b20052b4a3770f0d8.dicom
+20122,ef3216f8485fe691d819f831ea07e9ce,Aortic enlargement,0,"[1178.0, 608.0, 1478.0, 1014.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/ef3216f8485fe691d819f831ea07e9ce.dicom
+20124,ef3577342a00289f6fccf26d6b61c7ac,Aortic enlargement,0,"[1065.0, 728.0, 1291.0, 927.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/ef3577342a00289f6fccf26d6b61c7ac.dicom
+20134,ef58076f0eec194a3f303b469ac081de,Aortic enlargement,0,"[1355.0, 782.0, 1648.0, 1055.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/ef58076f0eec194a3f303b469ac081de.dicom
+20184,efc7bc78ce88e95191fdab525f974c24,Cardiomegaly,3,"[747.0, 988.0, 1912.0, 1360.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/efc7bc78ce88e95191fdab525f974c24.dicom
+20189,efd841b9897ceb215d30cff8e1fb85b4,Aortic enlargement,0,"[1332.0, 961.0, 1633.0, 1232.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/efd841b9897ceb215d30cff8e1fb85b4.dicom
+20253,f1b743ce8d76f083d3e87da80f1dd522,Cardiomegaly,3,"[1327.0, 1674.0, 2381.0, 1981.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/f1b743ce8d76f083d3e87da80f1dd522.dicom
+20261,f1be25d4ee46f32d585fd6c809c92329,Cardiomegaly,3,"[910.0, 1854.0, 2112.0, 2194.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/f1be25d4ee46f32d585fd6c809c92329.dicom
+20299,f1e4056384e1926c3ae33882e0dc00cb,Cardiomegaly,3,"[990.0, 1248.0, 1970.0, 1744.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/f1e4056384e1926c3ae33882e0dc00cb.dicom
+20312,f1ed2d380bf23214b0522e753035545c,Cardiomegaly,3,"[1248.0, 1135.0, 2388.0, 1561.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/f1ed2d380bf23214b0522e753035545c.dicom
+20352,f26e0a7663ac71c9253c155ffdb4b0e4,Cardiomegaly,3,"[738.0, 1502.0, 1724.0, 1802.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/f26e0a7663ac71c9253c155ffdb4b0e4.dicom
+20353,f26e0a7663ac71c9253c155ffdb4b0e4,Aortic enlargement,0,"[1109.0, 810.0, 1454.0, 1160.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/f26e0a7663ac71c9253c155ffdb4b0e4.dicom
+20406,f2f1cf0ebcbc9348fba2dcd55f6e8c91,Aortic enlargement,0,"[738.0, 733.0, 1289.0, 1359.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/f2f1cf0ebcbc9348fba2dcd55f6e8c91.dicom
+20401,f2f1cf0ebcbc9348fba2dcd55f6e8c91,Aortic enlargement,0,"[1088.0, 730.0, 1300.0, 971.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/f2f1cf0ebcbc9348fba2dcd55f6e8c91.dicom
+20424,f32fbc404c68b727c5bf14bca3ec7b5e,Aortic enlargement,0,"[1227.0, 691.0, 1561.0, 1093.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/f32fbc404c68b727c5bf14bca3ec7b5e.dicom
+20421,f32fbc404c68b727c5bf14bca3ec7b5e,Cardiomegaly,3,"[904.0, 1668.0, 2031.0, 2123.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/f32fbc404c68b727c5bf14bca3ec7b5e.dicom
+20436,f33c818324f7631eec51571396df362d,Cardiomegaly,3,"[1190.0, 1563.0, 2335.0, 1967.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/f33c818324f7631eec51571396df362d.dicom
+20530,f41016cc32c5ed986f15e4d6169c1c2f,Cardiomegaly,3,"[605.0, 1376.0, 1512.0, 1732.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/f41016cc32c5ed986f15e4d6169c1c2f.dicom
+20556,f499a3f9610865b8be4ff7c7ac5214cf,Aortic enlargement,0,"[1279.0, 1014.0, 1691.0, 1437.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/f499a3f9610865b8be4ff7c7ac5214cf.dicom
+20575,f4d7a04f379295bb190b0c95567f7e0a,Cardiomegaly,3,"[703.0, 1323.0, 1697.0, 1701.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/f4d7a04f379295bb190b0c95567f7e0a.dicom
+20586,f4de2c4362a04f072fa06a8440bc7473,Aortic enlargement,0,"[1223.0, 686.0, 1543.0, 1029.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/f4de2c4362a04f072fa06a8440bc7473.dicom
+20585,f4de2c4362a04f072fa06a8440bc7473,Cardiomegaly,3,"[850.0, 1506.0, 1970.0, 1858.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/f4de2c4362a04f072fa06a8440bc7473.dicom
+20636,f58e50c4d7e818b02f28e52fd6f2a9f2,Aortic enlargement,0,"[936.0, 594.0, 1232.0, 878.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/f58e50c4d7e818b02f28e52fd6f2a9f2.dicom
+20647,f58ecf974a05d2f5ece85aa9393cf9d6,Aortic enlargement,0,"[1585.0, 877.0, 1835.0, 1131.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/f58ecf974a05d2f5ece85aa9393cf9d6.dicom
+20681,f5d78a935a1360644d9583fbdef0552e,Cardiomegaly,3,"[1081.0, 1559.0, 2220.0, 1996.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/f5d78a935a1360644d9583fbdef0552e.dicom
+20683,f5de538719c1a637e84474ea30a4e515,Aortic enlargement,0,"[1260.0, 755.0, 1545.0, 1168.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/f5de538719c1a637e84474ea30a4e515.dicom
+20868,f87d4c4e7d55bc2cbd44e80bf51f8bc6,Aortic enlargement,0,"[1245.0, 706.0, 1609.0, 1116.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/f87d4c4e7d55bc2cbd44e80bf51f8bc6.dicom
+20895,f8f1d67dcbeb7badd781e2a0f30e020e,Cardiomegaly,3,"[734.0, 905.0, 1582.0, 1282.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/f8f1d67dcbeb7badd781e2a0f30e020e.dicom
+20956,f9ba2d912ef79893510ff58bafa70558,Cardiomegaly,3,"[1087.0, 626.0, 1350.0, 887.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/f9ba2d912ef79893510ff58bafa70558.dicom
+21095,fb159c22e0b94e4f00fab42d40efb584,Aortic enlargement,0,"[1332.0, 677.0, 1621.0, 923.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/fb159c22e0b94e4f00fab42d40efb584.dicom
+21136,fb4db65bf21dfd88e154ab703136c69b,Aortic enlargement,0,"[1133.0, 731.0, 1423.0, 1029.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/fb4db65bf21dfd88e154ab703136c69b.dicom
+21139,fb511731a1fc742451a090891ebaa0ce,Aortic enlargement,0,"[1293.0, 459.0, 1658.0, 1188.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/fb511731a1fc742451a090891ebaa0ce.dicom
+21144,fb60c3083ec018a8bc953b6af2d39151,Cardiomegaly,3,"[810.0, 1244.0, 1702.0, 1699.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/fb60c3083ec018a8bc953b6af2d39151.dicom
+21174,fb929e0efd696fe0f54902da5e7ec57a,Aortic enlargement,0,"[1252.0, 488.0, 1734.0, 955.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/fb929e0efd696fe0f54902da5e7ec57a.dicom
+21200,fbadbb00720fcc1385e05adaca2502e1,Aortic enlargement,0,"[1542.0, 671.0, 1853.0, 1096.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/fbadbb00720fcc1385e05adaca2502e1.dicom
+21210,fbbc76c4db97f2f7caa7926655f13d32,Cardiomegaly,3,"[1065.0, 1607.0, 2328.0, 2146.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/fbbc76c4db97f2f7caa7926655f13d32.dicom
+21212,fbd4d82ec1018ef94b0b4baf2589a6a2,Cardiomegaly,3,"[789.0, 1314.0, 1864.0, 1634.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/fbd4d82ec1018ef94b0b4baf2589a6a2.dicom
+21214,fbd7d287fcf514d7c8c1d8b08eee47c6,Cardiomegaly,3,"[1024.0, 1423.0, 2258.0, 1877.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/fbd7d287fcf514d7c8c1d8b08eee47c6.dicom
+21246,fc24ad13f52fb8b4135f5a18a982a1cf,Aortic enlargement,0,"[1169.0, 905.0, 1407.0, 1216.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/fc24ad13f52fb8b4135f5a18a982a1cf.dicom
+21290,fc8c4737d8852af905ef96b5ca0daef9,Cardiomegaly,3,"[663.0, 1156.0, 1505.0, 1418.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/fc8c4737d8852af905ef96b5ca0daef9.dicom
+21289,fc8c4737d8852af905ef96b5ca0daef9,Aortic enlargement,0,"[935.0, 438.0, 1126.0, 631.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/fc8c4737d8852af905ef96b5ca0daef9.dicom
+21307,fd1bd078f5f30ad02ed984c94077bbdb,Aortic enlargement,0,"[1278.0, 868.0, 1543.0, 1289.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/fd1bd078f5f30ad02ed984c94077bbdb.dicom
+21318,fd23b01b59784498154c9ee6b60dab4a,Aortic enlargement,0,"[1191.0, 888.0, 1500.0, 1243.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/fd23b01b59784498154c9ee6b60dab4a.dicom
+21324,fd6d801a9b661fd0abe97e5c37567c2b,Aortic enlargement,0,"[1334.0, 874.0, 1613.0, 1184.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/fd6d801a9b661fd0abe97e5c37567c2b.dicom
+21329,fd709b976ae14089b17bea48208573d8,Cardiomegaly,3,"[560.0, 1584.0, 1672.0, 2022.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/fd709b976ae14089b17bea48208573d8.dicom
+21375,fdd323a08a8d9890c938351d465108b6,Aortic enlargement,0,"[1540.0, 572.0, 1902.0, 1008.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/fdd323a08a8d9890c938351d465108b6.dicom
+21398,fe712042bd989a581a931a300fee1203,Aortic enlargement,0,"[1337.0, 780.0, 1635.0, 1163.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/fe712042bd989a581a931a300fee1203.dicom
+21417,fe9e2c89c75a48f88d5d7274ff939b31,Aortic enlargement,0,"[1091.0, 587.0, 1394.0, 981.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/fe9e2c89c75a48f88d5d7274ff939b31.dicom
+21437,fee7f5490aee6eb6626adb30d2509868,Aortic enlargement,0,"[1199.0, 938.0, 1459.0, 1268.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/fee7f5490aee6eb6626adb30d2509868.dicom
+21453,ff335f1c7745c6184a5732cc5a01092d,Aortic enlargement,0,"[1393.0, 557.0, 1648.0, 852.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/ff335f1c7745c6184a5732cc5a01092d.dicom
+21471,ff6b2b10b8f2350ab09d8690c9c83154,Aortic enlargement,0,"[962.0, 542.0, 1188.0, 771.0]",0,/home/ubuntu/duynd/AIyte/secondnd/input/train/ff6b2b10b8f2350ab09d8690c9c83154.dicom
+21487,ffb5d0b005261ed350f7a08c06613a34,Cardiomegaly,3,"[684.0, 1319.0, 1721.0, 1667.0]",1,/home/ubuntu/duynd/AIyte/secondnd/input/train/ffb5d0b005261ed350f7a08c06613a34.dicom
