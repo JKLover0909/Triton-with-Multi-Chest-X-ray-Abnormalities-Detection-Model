@@ -1,0 +1,24 @@
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Ultralytics / training caches, shell history, logs
+*.cache
+.bash_history
+*.log
+nohup.out
+
+# Medical imaging: never commit raw DICOM (may carry patient metadata)
+*.dcm
+
+# Secrets
+.env
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
